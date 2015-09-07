@@ -3,12 +3,12 @@
  * Copyright © 2002 Red Hat, Inc.
  * Copyright © 2007, 2008, 2009 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -1946,7 +1946,7 @@ terminal_window_init (TerminalWindow *window)
   gtk_notebook_set_show_border (GTK_NOTEBOOK (priv->notebook), FALSE);
   gtk_notebook_set_show_tabs (GTK_NOTEBOOK (priv->notebook), FALSE);
 #if GTK_CHECK_VERSION (2, 90, 8)
-  gtk_notebook_set_group_name (GTK_NOTEBOOK (priv->notebook), I_("gnome-terminal-window"));
+  gtk_notebook_set_group_name (GTK_NOTEBOOK (priv->notebook), I_("vanilla-terminal-window"));
 #else
   gtk_notebook_set_group (GTK_NOTEBOOK (priv->notebook), GUINT_TO_POINTER (1));
 #endif
@@ -2058,7 +2058,7 @@ terminal_window_init (TerminalWindow *window)
   gtk_window_group_add_window (window_group, GTK_WINDOW (window));
   g_object_unref (window_group);
 
-  terminal_util_set_unique_role (GTK_WINDOW (window), "gnome-terminal-window");
+  terminal_util_set_unique_role (GTK_WINDOW (window), "vanilla-terminal-window");
 }
 
 static void
@@ -3766,7 +3766,7 @@ terminal_set_title_callback (GtkAction *action,
 
   gtk_window_set_title (GTK_WINDOW (dialog), _("Set Title"));
   gtk_window_set_resizable (GTK_WINDOW (dialog), FALSE);
-  gtk_window_set_role (GTK_WINDOW (dialog), "gnome-terminal-change-title");
+  gtk_window_set_role (GTK_WINDOW (dialog), "vanilla-terminal-change-title");
   gtk_dialog_set_default_response (GTK_DIALOG (dialog), GTK_RESPONSE_OK);
   /* Alternative button order was set automatically by GtkMessageDialog */
 
@@ -3995,9 +3995,9 @@ help_about_callback (GtkAction *action,
   licence_text = terminal_util_get_licence_text ();
 
   gtk_show_about_dialog (GTK_WINDOW (window),
-			 "program-name", _("GNOME Terminal"),
+			 "program-name", _("Terminal"),
 			 "copyright", copyright,
-			 "comments", _("A terminal emulator for the GNOME desktop"),
+			 "comments", _("A terminal emulator"),
 			 "version", VERSION,
 			 "authors", array_strv,
                          "artists", artists,
@@ -4005,7 +4005,7 @@ help_about_callback (GtkAction *action,
 			 "license", licence_text,
 			 "wrap-license", TRUE,
 			 "translator-credits", _("translator-credits"),
-			 "logo-icon-name", GNOME_TERMINAL_ICON_NAME,
+			 "logo-icon-name", TERMINAL_ICON_NAME,
 			 NULL);
 
   g_strfreev (array_strv);

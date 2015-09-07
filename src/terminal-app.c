@@ -5,12 +5,12 @@
  * Copyright © 2003 Mariano Suarez-Alvarez
  * Copyright © 2008 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -55,8 +55,8 @@
 #define SYSTEM_PROXY_SETTINGS_SCHEMA            "org.gnome.system.proxy"
 
 /* Settings storage works as follows:
- *   /apps/gnome-terminal/global/
- *   /apps/gnome-terminal/profiles/Foo/
+ *   /apps/vanilla-terminal/global/
+ *   /apps/vanilla-terminal/profiles/Foo/
  *
  * It's somewhat tricky to manage the profiles/ dir since we need to track
  * the list of profiles, but gconf doesn't have a concept of notifying that
@@ -1237,7 +1237,7 @@ profile_list_response_cb (GtkWidget *dialog,
 
   if (id == GTK_RESPONSE_HELP)
     {
-      terminal_util_show_help ("gnome-terminal-manage-profiles", GTK_WINDOW (dialog));
+      terminal_util_show_help ("vanilla-terminal-manage-profiles", GTK_WINDOW (dialog));
       return;
     }
 
@@ -1380,7 +1380,7 @@ terminal_app_init (TerminalApp *app)
       exit (EXIT_FAILURE);
     }
 
-  gtk_window_set_default_icon_name (GNOME_TERMINAL_ICON_NAME);
+  gtk_window_set_default_icon_name (TERMINAL_ICON_NAME);
 
   /* Desktop proxy settings */
   app->system_proxy_settings = g_settings_new (SYSTEM_PROXY_SETTINGS_SCHEMA);

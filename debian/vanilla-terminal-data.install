@@ -1,0 +1,6 @@
+etc
+usr/share/vanilla-terminal
+usr/share/locale
+usr/share/help
+
+debian/vanilla-terminal.xpm /usr/share/pixmaps

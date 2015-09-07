@@ -1,12 +1,12 @@
-m4_define([gt_version_major],[3])
-m4_define([gt_version_minor],[6])
-m4_define([gt_version_micro],[2])
+m4_define([gt_version_major],[1])
+m4_define([gt_version_minor],[0])
+m4_define([gt_version_micro],[0])
 m4_define([gt_version_extra],[])
 m4_define([gt_version],[gt_version_major().gt_version_minor().gt_version_micro()gt_version_extra])
 
 m4_define([gt_api_version],[0])
 
-AC_INIT([GNOME Terminal],[gt_version],[http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-terminal],[gnome-terminal])
+AC_INIT([Terminal],[gt_version],[https://github.com/linuxmint/vanilla-terminal/issues],[vanilla-terminal])
 AC_CONFIG_SRCDIR([src/terminal.c])
 AC_CONFIG_HEADERS([config.h])
 
@@ -14,7 +14,7 @@ AM_INIT_AUTOMAKE([1.9 foreign no-dist-gzip dist-bzip2])
 
 m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([yes])])
 
-GETTEXT_PACKAGE=gnome-terminal
+GETTEXT_PACKAGE=vanilla-terminal
 AC_SUBST([GETTEXT_PACKAGE])
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE],["$GETTEXT_PACKAGE"],[Gettext package])
 
@@ -171,7 +171,7 @@ AC_SUBST([AM_LDFLAGS])
 
 AC_CONFIG_FILES([
 Makefile
-gnome-terminal.desktop.in
+vanilla-terminal.desktop.in
 src/Makefile
 src/terminal-version.h
 help/Makefile
@@ -182,7 +182,7 @@ AC_OUTPUT
 # ****************************
 
 echo "
-gnome-terminal-$VERSION:
+vanilla-terminal-$VERSION:
 
 	prefix:                 ${prefix}
 	source code location:	${srcdir}

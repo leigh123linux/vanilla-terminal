@@ -6,7 +6,7 @@
   <!ENTITY dhsection   "<manvolnum>1</manvolnum>">
   <!ENTITY dhemail     "<email>marillat@debian.org</email>">
   <!ENTITY dhusername  "Christian Marillat">
-  <!ENTITY dhucpackage "<refentrytitle>gnome-terminal</refentrytitle>">
+  <!ENTITY dhucpackage "<refentrytitle>vanilla-terminal</refentrytitle>">
   <!ENTITY dhpackage   "gnome-terminal">
   <!ENTITY debian      "<productname>Debian GNU/Linux</productname>">
   <!ENTITY gnu         "<acronym>GNU</acronym>">
@@ -63,12 +63,12 @@
   <refsect1>
     <title>DESCRIPTION</title>
 
-    <para>GNOME Terminal is a terminal emulation application that you can
+    <para>Terminal is a terminal emulation application that you can
       use to perform the following actions:</para>
 
-    <para>Access a UNIX shell in the GNOME environment.</para>
+    <para>Access a UNIX shell.</para>
     <para>A shell is a program that interprets and executes the commands
-      that you type at a command line prompt. When you start GNOME Terminal,
+      that you type at a command line prompt. When you start Terminal,
       the application starts the default shell that is specified in your
       system account. You can switch to a different shell at any
       time.</para>
@@ -76,12 +76,12 @@
     <para>Run any application that is designed to run on VT102, VT220,
       and xterm terminals.</para>
 
-    <para>GNOME Terminal emulates the xterm program developed by the X
+    <para>Terminal emulates the xterm program developed by the X
       Consortium. In turn, the xterm program emulates the DEC VT102 terminal
       and also supports the DEC VT220 escape sequences. An escape sequence
       is a series of characters that starts with the Esc character.</para>
 
-    <para>GNOME Terminal accepts all of the escape sequences that the VT102
+    <para>Terminal accepts all of the escape sequences that the VT102
       and VT220 terminals use for functions such as positioning the cursor
       and clearing the screen.</para>
  </refsect1>

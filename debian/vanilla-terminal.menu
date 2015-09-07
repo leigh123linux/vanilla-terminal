@@ -1,0 +1,6 @@
+?package(vanilla-terminal):needs="X11"\
+  section="Applications/Terminal Emulators"\
+  hints="Vanilla"\
+  title="Terminal"\
+  icon="/usr/share/pixmaps/vanilla-terminal.xpm"\
+  command="/usr/bin/vanilla-terminal"

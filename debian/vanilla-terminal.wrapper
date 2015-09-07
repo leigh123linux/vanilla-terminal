@@ -78,4 +78,4 @@ if ($login == 1)
 {
     @args = ('--login', @args);
 }
-exec('gnome-terminal',@args);
+exec('vanilla-terminal',@args);

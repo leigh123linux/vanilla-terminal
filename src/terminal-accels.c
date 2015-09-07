@@ -2,12 +2,12 @@
  * Copyright © 2001, 2002 Havoc Pennington, Red Hat Inc.
  * Copyright © 2008 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -827,7 +827,7 @@ edit_keys_dialog_response_cb (GtkWidget *editor,
 {  
   if (response == GTK_RESPONSE_HELP)
     {
-      terminal_util_show_help ("gnome-terminal-shortcuts", GTK_WINDOW (editor));
+      terminal_util_show_help ("vanilla-terminal-shortcuts", GTK_WINDOW (editor));
       return;
     }
     

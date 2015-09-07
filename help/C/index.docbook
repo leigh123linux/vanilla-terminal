@@ -223,7 +223,7 @@ text-based commands through a shell such as Bash.
   </indexterm> 
   
   <!-- ============= Introduction ============================== -->
-  <sect1 id="gnome-terminal-introduction"> 
+  <sect1 id="vanilla-terminal-introduction"> 
      <title>Introduction</title> 
      <para>
         <application>&app;</application> is a terminal emulation application that you can use to perform the following tasks: 
@@ -250,12 +250,12 @@ text-based commands through a shell such as Bash.
 
   <!--=========== Getting Started ============================== -->
   
-  <sect1 id="gnome-terminal-get-started"> 
+  <sect1 id="vanilla-terminal-get-started"> 
      <title>Getting Started</title> 
      <para>
         The following sections describe how to start <application>&app;</application>. 
      </para>
-     <sect2 id="gnome-terminal-to-start"> 
+     <sect2 id="vanilla-terminal-to-start"> 
         <title>Starting &app;</title> 
         <para>
           You can start <application>&app;</application> in the following ways: 
@@ -272,26 +272,26 @@ text-based commands through a shell such as Bash.
              <term>Command line</term> 
              <listitem> 
                 <para>
-                  Execute the following command: <command>gnome-terminal</command>
+                  Execute the following command: <command>vanilla-terminal</command>
                 </para>
                 <para>
-                  You can use command line options to modify the way in which you run <application>&app;</application>. To view the command line options, execute the following command: <command>gnome-terminal --help</command>
+                  You can use command line options to modify the way in which you run <application>&app;</application>. To view the command line options, execute the following command: <command>vanilla-terminal --help</command>
                 </para>
              </listitem> 
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-first-start"> 
+     <sect2 id="vanilla-terminal-first-start"> 
         <title>When You First Start &app;</title> 
         <para>
           When you start <application>&app;</application> for the first time, the application opens a terminal window with a group of default settings. The group of default settings is called the Default profile. The profile name appears in the titlebar of the <application>&app;</application> window.  </para>
-        <figure id="gnome-terminal_default"> 
+        <figure id="vanilla-terminal_default"> 
           <title>Example of a Default &app; Window</title> 
           <screenshot> 
              <screeninfo>&app; default window</screeninfo> 
              <mediaobject> 
                 <imageobject>
-                  <imagedata fileref="figures/gnome-terminal-default.png" format="PNG"/> 
+                  <imagedata fileref="figures/vanilla-terminal-default.png" format="PNG"/> 
                 </imageobject> 
                 <textobject> 
                   <phrase>&app; default window</phrase> 
@@ -320,7 +320,7 @@ text-based commands through a shell such as Bash.
                 <varname>COLORTERM</varname></term> 
              <listitem> 
                 <para>
-                  Set to <literal>gnome-terminal</literal> by default. 
+                  Set to <literal>vanilla-terminal</literal> by default. 
                 </para>
              </listitem> 
           </varlistentry> 
@@ -336,32 +336,32 @@ text-based commands through a shell such as Bash.
         </variablelist> 
      </sect2> 
 
-     <sect2 id="gnome-terminal-profiles"> 
+     <sect2 id="vanilla-terminal-profiles"> 
         <title>Terminal Profiles</title> 
         <para>
           You can create a new profile, and apply the new profile to the terminal to modify characteristics such as font, color and effects, scroll behavior, window title, and compatibility. You can also specify a command that runs automatically when you start <application>&app;</application> in the profile. </para>
           <para>You define each terminal profile in the <guilabel>Profiles</guilabel> dialog, which you access from the <guimenu>Edit</guimenu> menu. You can define as many different profiles as you require. When you start a terminal, you can choose the profile that you want to use for the terminal. Alternatively, you can change the terminal profile while you use the terminal. To specify an initial profile for a terminal when you start the application from a command line, use the following command: </para>
         <para>
-          <command>gnome-terminal --window-with-profile=<replaceable>profilename</replaceable></command> 
+          <command>vanilla-terminal --window-with-profile=<replaceable>profilename</replaceable></command> 
         </para>
         <para>
           The name of the current profile appears in the titlebar of the <application>&app;</application>, unless you specify a different titlebar name in the <guilabel>Editing Profile</guilabel> dialog.  </para>
         <para>
-          See <xref linkend="gnome-terminal-manage-profiles"/> for information about how to define and use a new terminal profile.  </para>
+          See <xref linkend="vanilla-terminal-manage-profiles"/> for information about how to define and use a new terminal profile.  </para>
      </sect2> 
-     <sect2 id="gnome-terminal-more-windows"> 
+     <sect2 id="vanilla-terminal-more-windows"> 
         <title>Working With Multiple Terminals</title> 
         <para>
           <application>&app;</application> provides a tab feature that enables you to open several terminals in a single window. Each terminal opens in a separate tab. Click on the appropriate tab to display the terminal in the window. Each tabbed terminal in a window is a separate subprocess, so you can use each terminal for different tasks. You can apply a different profile to each tabbed terminal in the window.  </para>
        <para>
-          The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend="gnome-terminal-tabbed"/> shows a <application>&app;</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar.  </para>
-        <figure id="gnome-terminal-tabbed"> 
+          The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend="vanilla-terminal-tabbed"/> shows a <application>&app;</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar.  </para>
+        <figure id="vanilla-terminal-tabbed"> 
           <title>Example of a Terminal Window With Tabs</title> 
           <screenshot> 
              <screeninfo>&app; default window</screeninfo> 
              <mediaobject> 
                 <imageobject>
-                  <imagedata fileref="figures/gnome-terminal-tabbed.png" format="PNG"/> 
+                  <imagedata fileref="figures/vanilla-terminal-tabbed.png" format="PNG"/> 
                 </imageobject> 
                 <textobject> 
                   <phrase>&app; default window</phrase> 
@@ -370,7 +370,7 @@ text-based commands through a shell such as Bash.
           </screenshot> 
         </figure> 
         <para>
-          See <xref linkend="gnome-terminal-windows"/> for information about how to open a new tabbed terminal. 
+          See <xref linkend="vanilla-terminal-windows"/> for information about how to open a new tabbed terminal. 
         </para>
      </sect2> 
 
@@ -378,10 +378,10 @@ text-based commands through a shell such as Bash.
   
   <!--=========== Usage ============================== -->  
 
-  <sect1 id="gnome-terminal-usage"> 
+  <sect1 id="vanilla-terminal-usage"> 
      <title>Usage</title> 
 
-     <sect2 id="gnome-terminal-windows"> 
+     <sect2 id="vanilla-terminal-windows"> 
         <title>Opening and Closing Terminals</title> 
         <variablelist> 
           <varlistentry> 
@@ -440,7 +440,7 @@ text-based commands through a shell such as Bash.
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-manage-profiles"> 
+     <sect2 id="vanilla-terminal-manage-profiles"> 
         <title>Managing Profiles</title> 
         <variablelist> 
           <varlistentry> 
@@ -505,7 +505,7 @@ text-based commands through a shell such as Bash.
                   </listitem> 
                   <listitem> 
                      <para>
-                        Choose <menuchoice><guimenu>Edit</guimenu><guisubmenu>Profiles</guisubmenu></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>. For information on the options you can set for profiles, see <xref linkend="gnome-terminal-prefs"/>.</para>
+                        Choose <menuchoice><guimenu>Edit</guimenu><guisubmenu>Profiles</guisubmenu></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>. For information on the options you can set for profiles, see <xref linkend="vanilla-terminal-prefs"/>.</para>
                   </listitem> 
                 </itemizedlist> 
              </listitem> 
@@ -537,7 +537,7 @@ text-based commands through a shell such as Bash.
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-tabs"> 
+     <sect2 id="vanilla-terminal-tabs"> 
         <title>Modifying a Terminal Window</title> 
         <variablelist> 
           <varlistentry> 
@@ -563,12 +563,12 @@ text-based commands through a shell such as Bash.
              <term>To change the appearance of the terminal window:</term> 
              <listitem> 
                 <para>
-                  See <xref linkend="gnome-terminal-prefs"/> for information about the options that you can choose in the <guilabel>Editing Profile</guilabel> dialog to change the appearance of the terminal window. For example, you can change the background color, or the location of the scrollbar.  </para>
+                  See <xref linkend="vanilla-terminal-prefs"/> for information about the options that you can choose in the <guilabel>Editing Profile</guilabel> dialog to change the appearance of the terminal window. For example, you can change the background color, or the location of the scrollbar.  </para>
              </listitem> 
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-contents"> 
+     <sect2 id="vanilla-terminal-contents"> 
         <title>Working with the Contents of Terminal Windows</title> 
         <variablelist> 
           <varlistentry> 
@@ -663,7 +663,7 @@ text-based commands through a shell such as Bash.
         </variablelist> 
      </sect2> 
      
-     <sect2 id="gnome-terminal-shortcuts"> 
+     <sect2 id="vanilla-terminal-shortcuts"> 
         <title>Viewing the Keyboard Shortcut Settings</title> 
         <para>
           To view the keyboard shortcut settings that are defined for <application>&app;</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The <guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items: </para>
@@ -693,7 +693,7 @@ text-based commands through a shell such as Bash.
         </variablelist> 
      </sect2>
      
-	<sect2 id="gnome-terminal-resize">
+	<sect2 id="vanilla-terminal-resize">
 	<title>Text Size</title>
 	<para>You can use the following methods to resize the text in the &app; window:</para>
 		<itemizedlist>
@@ -707,7 +707,7 @@ text-based commands through a shell such as Bash.
 
 	</sect2>	
 
-     <sect2 id="gnome-terminal-title"> 
+     <sect2 id="vanilla-terminal-title"> 
         <title>To Change the Terminal Title</title> 
         <para>
           To change the title of the currently displayed terminal, perform the following steps:</para>
@@ -724,13 +724,13 @@ text-based commands through a shell such as Bash.
         </orderedlist>
 	</sect2>	
 
-     <sect2 id="gnome-terminal-encoding"> 
+     <sect2 id="vanilla-terminal-encoding"> 
         <title>To Change the Character Encoding</title> 
         <para>
           To change the character encoding, choose <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Set Character Encoding</guisubmenu></menuchoice>, then select the appropriate encoding. 
         </para>
 
-     <sect3 id="gnome-terminal-encoding-add"> 
+     <sect3 id="vanilla-terminal-encoding-add"> 
         <title>To Change the List of Character Encodings</title> 
         <para>
           To change the list of character encodings displayed in the <guisubmenu>Set Character Encoding</guisubmenu> menu, perform the following steps:
@@ -756,7 +756,7 @@ text-based commands through a shell such as Bash.
 
 	</sect2>	
 
-     <sect2 id="gnome-terminal-reset"> 
+     <sect2 id="vanilla-terminal-reset"> 
         <title>To Recover Your Terminal</title> 
         <para>
           This section provides some advice if you have problems with terminals. 
@@ -786,29 +786,29 @@ text-based commands through a shell such as Bash.
   
   <!--=========== Preferences ============================== -->  
 
-  <sect1 id="gnome-terminal-prefs"> 
+  <sect1 id="vanilla-terminal-prefs"> 
      <title>Preferences</title> 
      <para>
         To configure <application>&app;</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</guimenuitem></menuchoice>. To configure another profile that you set up choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</guimenuitem></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>.  </para>
      <para>  
         The <guilabel>Editing Profile</guilabel> dialog contains the following tabbed sections that you can use to configure <application>&app;</application>: </para>
      <itemizedlist> 
-		<listitem><para><xref linkend="gnome-terminal-prefs-general"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-general"/></para>
 		</listitem>
-		<listitem><para><xref linkend="gnome-terminal-prefs-title"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-title"/></para>
 		</listitem>
-		<listitem><para><xref linkend="gnome-terminal-prefs-colors"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-colors"/></para>
 		</listitem>
-		<listitem><para><xref linkend="gnome-terminal-prefs-background"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-background"/></para>
 		</listitem>
-		<listitem><para><xref linkend="gnome-terminal-prefs-scrolling"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-scrolling"/></para>
 		</listitem>
-		<listitem><para><xref linkend="gnome-terminal-prefs-compatibility"/></para>
+		<listitem><para><xref linkend="vanilla-terminal-prefs-compatibility"/></para>
 		</listitem>
 	 </itemizedlist>
 
      
-     <sect2 id="gnome-terminal-prefs-general"> 
+     <sect2 id="vanilla-terminal-prefs-general"> 
         <title>General</title> 
         <variablelist> 
           <varlistentry> 
@@ -879,14 +879,14 @@ text-based commands through a shell such as Bash.
                 <guilabel>Select-by-word characters</guilabel> </term> 
              <listitem> 
                 <para>
-                  Use this text box to specify characters or groups of characters that <application>&app;</application> considers to be words when you select text by word. See <xref linkend="gnome-terminal-contents"/> for more information about how to select text by word. 
+                  Use this text box to specify characters or groups of characters that <application>&app;</application> considers to be words when you select text by word. See <xref linkend="vanilla-terminal-contents"/> for more information about how to select text by word. 
                 </para>
              </listitem> 
           </varlistentry> 
           
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-prefs-title"> 
+     <sect2 id="vanilla-terminal-prefs-title"> 
         <title>Title and Command</title> 
         <variablelist> 
           <varlistentry> 
@@ -946,7 +946,7 @@ text-based commands through a shell such as Bash.
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-prefs-colors"> 
+     <sect2 id="vanilla-terminal-prefs-colors"> 
         <title>Colours</title> 
         <variablelist> 
         <varlistentry> 
@@ -1019,7 +1019,7 @@ text-based commands through a shell such as Bash.
           </varlistentry> 
         </variablelist> 
      </sect2> 
-     <sect2 id="gnome-terminal-prefs-background"> 
+     <sect2 id="vanilla-terminal-prefs-background"> 
         <title>Background</title> 
         <variablelist> 
           <varlistentry> 
@@ -1071,7 +1071,7 @@ text-based commands through a shell such as Bash.
         </variablelist> 
      </sect2> 
      
-     <sect2 id="gnome-terminal-prefs-scrolling">
+     <sect2 id="vanilla-terminal-prefs-scrolling">
     <title>Scrolling</title>
      <variablelist>
      <varlistentry> 
@@ -1113,7 +1113,7 @@ text-based commands through a shell such as Bash.
           </variablelist>
      </sect2>
      
-     <sect2 id="gnome-terminal-prefs-compatibility"> 
+     <sect2 id="vanilla-terminal-prefs-compatibility"> 
         <title>Compatibility</title> 
         <variablelist> 
           <varlistentry> 

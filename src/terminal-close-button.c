@@ -4,12 +4,12 @@
  * Copyright © 2010 - Paolo Borelli
  * Copyright © 2011 - Ignacio Casal Quinteiro
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -70,14 +70,14 @@ terminal_close_button_class_init (TerminalCloseButtonClass *klass)
 
 	widget_class->style_set = terminal_close_button_style_set;
 
-	gtk_rc_parse_string ("style \"gnome-terminal-tab-close-button-style\"\n"
+	gtk_rc_parse_string ("style \"vanilla-terminal-tab-close-button-style\"\n"
                        "{\n"
                           "GtkWidget::focus-padding = 0\n"
                           "GtkWidget::focus-line-width = 0\n"
                           "xthickness = 0\n"
                           "ythickness = 0\n"
                        "}\n"
-                       "widget \"*.gnome-terminal-tab-close-button\" style \"gnome-terminal-tab-close-button-style\"");
+                       "widget \"*.vanilla-terminal-tab-close-button\" style \"vanilla-terminal-tab-close-button-style\"");
 #endif
 }
 
@@ -102,7 +102,7 @@ terminal_close_button_init (TerminalCloseButton *button)
 	                                GTK_STYLE_PROVIDER (TERMINAL_CLOSE_BUTTON_GET_CLASS (button)->priv->css),
 		                        GTK_STYLE_PROVIDER_PRIORITY_APPLICATION);
 #else
-	gtk_widget_set_name (GTK_WIDGET (button), "gnome-terminal-tab-close-button");
+	gtk_widget_set_name (GTK_WIDGET (button), "vanilla-terminal-tab-close-button");
 #endif
 }
 

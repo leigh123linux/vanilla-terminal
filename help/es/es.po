@@ -1,16 +1,16 @@
-# translation of gnome-terminal-help.master.po to Español
-# spanish translation for gnome-terminal manual
+# translation of vanilla-terminal-help.master.po to Español
+# spanish translation for vanilla-terminal manual
 # Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008, 2009, 2010.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011, 2012.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-terminal-help\n"
+"Project-Id-Version: vanilla-terminal-help\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-13 18:42+0000\n"
 "PO-Revision-Date: 2012-08-23 18:14+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"Language-Team: Español <vanilla-es-list@gnome.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,10 +39,10 @@ msgstr ""
 #: C/index.docbook:294(imagedata)
 msgctxt "_"
 msgid ""
-"external ref='figures/gnome-terminal-default.png' "
+"external ref='figures/vanilla-terminal-default.png' "
 "md5='fccdfe734f4180cb393cd23679d6dd18'"
 msgstr ""
-"external ref='figures/gnome-terminal-default.png' "
+"external ref='figures/vanilla-terminal-default.png' "
 "md5='fccdfe734f4180cb393cd23679d6dd18'"
 
 #. This is a reference to an external file such as an image or video. When
@@ -57,10 +57,10 @@ msgstr ""
 #: C/index.docbook:364(imagedata)
 msgctxt "_"
 msgid ""
-"external ref='figures/gnome-terminal-tabbed.png' "
+"external ref='figures/vanilla-terminal-tabbed.png' "
 "md5='fd1c1b81fec91087349f1500b82501fe'"
 msgstr ""
-"external ref='figures/gnome-terminal-tabbed.png' "
+"external ref='figures/vanilla-terminal-tabbed.png' "
 "md5='fd1c1b81fec91087349f1500b82501fe'"
 
 #: C/index.docbook:19(articleinfo/title)
@@ -499,19 +499,19 @@ msgid "Command line"
 msgstr "Línea de comandos"
 
 #: C/index.docbook:274(listitem/para)
-msgid "Execute the following command: <command>gnome-terminal</command>"
-msgstr "Ejecute el siguiente comando: <command>gnome-terminal</command>"
+msgid "Execute the following command: <command>vanilla-terminal</command>"
+msgstr "Ejecute el siguiente comando: <command>vanilla-terminal</command>"
 
 #: C/index.docbook:277(listitem/para)
 msgid ""
 "You can use command line options to modify the way in which you run "
 "<application>GNOME Terminal</application>. To view the command line options, "
-"execute the following command: <command>gnome-terminal --help</command>"
+"execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "Puede usar las opciones de línea de comandos para modificar el modo de "
 "funcionamiento del <application>Terminal de GNOME</application>. Para ver "
 "las opciones de línea de comandos, ejecute la orden siguiente: "
-"<command>gnome-terminal --help</command>"
+"<command>vanilla-terminal --help</command>"
 
 #: C/index.docbook:285(sect2/title)
 msgid "When You First Start GNOME Terminal"
@@ -542,11 +542,11 @@ msgstr "Ventana predeterminada de la Terminal de GNOME"
 
 #: C/index.docbook:292(screenshot/mediaobject)
 msgid ""
-"<imageobject> <imagedata fileref=\"figures/gnome-terminal-default.png\" "
+"<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"figures/gnome-terminal-default.png\" "
+"<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Ventana predeterminada "
 "de la terminal de GNOME Terminal</phrase> </textobject>"
 
@@ -589,9 +589,9 @@ msgid "<varname>COLORTERM</varname>"
 msgstr "<varname>COLORTERM</varname>"
 
 #: C/index.docbook:322(listitem/para)
-msgid "Set to <literal>gnome-terminal</literal> by default."
+msgid "Set to <literal>vanilla-terminal</literal> by default."
 msgstr ""
-"Establecido al valor <literal>gnome-terminal</literal> de forma "
+"Establecido al valor <literal>vanilla-terminal</literal> de forma "
 "predeterminada."
 
 #: C/index.docbook:328(varlistentry/term)
@@ -640,10 +640,10 @@ msgstr ""
 
 #: C/index.docbook:344(sect2/para)
 msgid ""
-"<command>gnome-terminal --window-with-profile=<replaceable>profilename</"
+"<command>vanilla-terminal --window-with-profile=<replaceable>profilename</"
 "replaceable></command>"
 msgstr ""
-"<command>gnome-terminal --window-with-"
+"<command>vanilla-terminal --window-with-"
 "profile=<replaceable>nombre_del_perfil</replaceable></command>"
 
 #: C/index.docbook:347(sect2/para)
@@ -659,10 +659,10 @@ msgstr ""
 
 #: C/index.docbook:349(sect2/para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-manage-profiles\"/> for information about "
+"See <xref linkend=\"vanilla-terminal-manage-profiles\"/> for information about "
 "how to define and use a new terminal profile."
 msgstr ""
-"Vea la <xref linkend=\"gnome-terminal-manage-profiles\"/> para obtener "
+"Vea la <xref linkend=\"vanilla-terminal-manage-profiles\"/> para obtener "
 "información sobre cómo definir y usar un perfil de terminal nuevo."
 
 #: C/index.docbook:353(sect2/title)
@@ -689,7 +689,7 @@ msgstr ""
 #: C/index.docbook:356(sect2/para)
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
-"profile, or the name specified by the current profile. <xref linkend=\"gnome-"
+"profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
 "terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
@@ -697,7 +697,7 @@ msgid ""
 msgstr ""
 "La barra de título de la ventana de la terminal muestra o el nombre del "
 "perfil actual o el nombre especificado por el perfil actual. La <xref "
-"linkend=\"gnome-terminal-tabbed\"/> muestra una ventana del "
+"linkend=\"vanilla-terminal-tabbed\"/> muestra una ventana del "
 "<application>Terminal de GNOME</application> con cuatro pestañas.En este "
 "caso, cada una de las cuatro pestañas tiene un perfil diferente. El nombre "
 "del perfil en la pestaña activa, Perfil 1, aparece en la barra de título."
@@ -708,20 +708,20 @@ msgstr "Ejemplo de una ventana de terminal con pestañas"
 
 #: C/index.docbook:362(screenshot/mediaobject)
 msgid ""
-"<imageobject> <imagedata fileref=\"figures/gnome-terminal-tabbed.png\" "
+"<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"figures/gnome-terminal-tabbed.png\" "
+"<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Ventana predeterminada "
 "de la terminal de GNOME</phrase> </textobject>"
 
 #: C/index.docbook:372(sect2/para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-windows\"/> for information about how to "
+"See <xref linkend=\"vanilla-terminal-windows\"/> for information about how to "
 "open a new tabbed terminal."
 msgstr ""
-"Vea la <xref linkend=\"gnome-terminal-windows\"/> para obtener información "
+"Vea la <xref linkend=\"vanilla-terminal-windows\"/> para obtener información "
 "sobre cómo abrir una pestaña de la terminal nueva."
 
 #: C/index.docbook:382(sect1/title)
@@ -938,13 +938,13 @@ msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guisubmenu>Profiles</guisubmenu></"
 "menuchoice>, select the profile you want to edit, then click "
 "<guibutton>Edit</guibutton>. For information on the options you can set for "
-"profiles, see <xref linkend=\"gnome-terminal-prefs\"/>."
+"profiles, see <xref linkend=\"vanilla-terminal-prefs\"/>."
 msgstr ""
 "Elija <menuchoice><guimenu>Editar</guimenu><guisubmenu>Perfiles</"
 "guisubmenu></menuchoice>,y, a continuación, seleccione el perfil que quiere "
 "editar y pulse en <guibutton>Editar</guibutton>. Para más información acerca "
 "de las opciones que puede establecer para los perfiles, vea la <xref linkend="
-"\"gnome-terminal-prefs\"/>."
+"\"vanilla-terminal-prefs\"/>."
 
 #: C/index.docbook:514(varlistentry/term)
 msgid "To delete a profile:"
@@ -1033,12 +1033,12 @@ msgstr "Para cambiar la apariencia de la ventana de la terminal:"
 
 #: C/index.docbook:565(listitem/para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-prefs\"/> for information about the "
+"See <xref linkend=\"vanilla-terminal-prefs\"/> for information about the "
 "options that you can choose in the <guilabel>Editing Profile</guilabel> "
 "dialog to change the appearance of the terminal window. For example, you can "
 "change the background color, or the location of the scrollbar."
 msgstr ""
-"Vea la <xref linkend=\"gnome-terminal-prefs\"/> para más información acerca "
+"Vea la <xref linkend=\"vanilla-terminal-prefs\"/> para más información acerca "
 "de las opciones que puede elegir en el diálogo <guilabel>Editar perfil</"
 "guilabel> para cambiar la apariencia de la ventana de la terminal. Por "
 "ejemplo, puede cambiar el color del fondo, o la ubicación de la barra de "
@@ -1586,12 +1586,12 @@ msgstr "<guilabel>Selección por caracteres de palabra</guilabel>"
 msgid ""
 "Use this text box to specify characters or groups of characters that "
 "<application>GNOME Terminal</application> considers to be words when you "
-"select text by word. See <xref linkend=\"gnome-terminal-contents\"/> for "
+"select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
 "Utilice esta caja de texto para especificar los caracteres o grupos de "
 "caracteres que el <application>Terminal de GNOME</application> reconoce como "
-"palabras cuando selecciona texto por palabras. Vea la <xref linkend=\"gnome-"
+"palabras cuando selecciona texto por palabras. Vea la <xref linkend=\"vanilla-"
 "terminal-contents\"/> para más información acerca de cómo seleccionar texto "
 "por palabras."
 

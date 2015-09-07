@@ -13,7 +13,7 @@
   <property name="modal">False</property>
   <property name="resizable">False</property>
   <property name="destroy_with_parent">True</property>
-  <property name="role">gnome-terminal-profile-editor</property>
+  <property name="role">vanilla-terminal-profile-editor</property>
   <property name="decorated">True</property>
   <property name="skip_taskbar_hint">False</property>
   <property name="skip_pager_hint">False</property>

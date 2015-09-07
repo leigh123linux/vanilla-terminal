@@ -1,0 +1,2 @@
+# It's in vanilla-terminal-data and we depend on it
+vanilla-terminal: menu-icon-missing usr/share/pixmaps/vanilla-terminal.xpm

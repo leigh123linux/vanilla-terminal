@@ -11,9 +11,9 @@ LDFLAGS += -Wl,-z,defs -Wl,-O1 -Wl,--as-needed
 
 DEB_CONFIGURE_EXTRA_FLAGS += --disable-scrollkeeper
 
-build/gnome-terminal::
-	/usr/bin/docbook-to-man debian/gnome-terminal.sgml > debian/gnome-terminal.1
+build/vanilla-terminal::
+	/usr/bin/docbook-to-man debian/vanilla-terminal.sgml > debian/vanilla-terminal.1
 
 clean::
-	rm -f debian/gnome-terminal.1
+	rm -f debian/vanilla-terminal.1
 

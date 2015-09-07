@@ -1,4 +1,0 @@
-usr/bin
-usr/share/applications
-
-debian/gnome-terminal.wrapper /usr/bin

@@ -5,12 +5,12 @@
  * Copyright © 2003 Mariano Suarez-Alvarez
  * Copyright © 2008, 2010 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -44,9 +44,9 @@
 #include "terminal-options.h"
 #include "terminal-util.h"
 
-#define TERMINAL_FACTORY_SERVICE_NAME_PREFIX  "org.gnome.Terminal.Display"
-#define TERMINAL_FACTORY_SERVICE_PATH         "/org/gnome/Terminal/Factory"
-#define TERMINAL_FACTORY_INTERFACE_NAME       "org.gnome.Terminal.Factory"
+#define TERMINAL_FACTORY_SERVICE_NAME_PREFIX  "org.vanilla.Terminal.Display"
+#define TERMINAL_FACTORY_SERVICE_PATH         "/org/vanilla/Terminal/Factory"
+#define TERMINAL_FACTORY_INTERFACE_NAME       "org.vanilla.Terminal.Factory"
 
 static char *
 ay_to_string (GVariant *variant,
@@ -210,8 +210,8 @@ bus_acquired_cb (GDBusConnection *connection,
                  gpointer user_data)
 {
   static const char dbus_introspection_xml[] =
-    "<node name='/org/gnome/Terminal'>"
-      "<interface name='org.gnome.Terminal.Factory'>"
+    "<node name='/org/vanilla/Terminal'>"
+      "<interface name='org.vanilla.Terminal.Factory'>"
         "<method name='HandleArguments'>"
           "<arg type='ay' name='working_directory' direction='in' />"
           "<arg type='ay' name='display_name' direction='in' />"
@@ -388,8 +388,8 @@ name_lost_cb (GDBusConnection *connection,
 }
 
 /* Settings storage works as follows:
- *   /apps/gnome-terminal/global/
- *   /apps/gnome-terminal/profiles/Foo/
+ *   /apps/vanilla-terminal/global/
+ *   /apps/vanilla-terminal/profiles/Foo/
  *
  * It's somewhat tricky to manage the profiles/ dir since we need to track
  * the list of profiles, but gconf doesn't have a concept of notifying that

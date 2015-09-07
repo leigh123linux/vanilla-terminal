@@ -1,6 +1,6 @@
 NULL =
 
-bin_PROGRAMS = gnome-terminal
+bin_PROGRAMS = vanilla-terminal
 
 BUILT_SOURCES = \
 	terminal-marshal.c \
@@ -9,7 +9,7 @@ BUILT_SOURCES = \
 	terminal-type-builtins.h \
 	$(NULL)
 
-gnome_terminal_SOURCES= \
+vanilla_terminal_SOURCES= \
 	eggshell.c \
 	eggshell.h \
 	profile-editor.c \
@@ -49,11 +49,11 @@ gnome_terminal_SOURCES= \
 	terminal-window.h \
 	$(NULL)
 
-nodist_gnome_terminal_SOURCES= $(BUILT_SOURCES)
+nodist_vanilla_terminal_SOURCES= $(BUILT_SOURCES)
 
-gnome_terminal_CPPFLAGS = \
+vanilla_terminal_CPPFLAGS = \
 	-DTERMINAL_COMPILATION \
-	-DEXECUTABLE_NAME=\"gnome-terminal\" \
+	-DEXECUTABLE_NAME=\"vanilla-terminal\" \
 	-DTERM_DATADIR="\"$(datadir)\"" \
 	-DTERM_LOCALEDIR="\"$(datadir)/locale\"" \
 	-DTERM_PKGDATADIR="\"$(pkgdatadir)\"" \
@@ -68,37 +68,37 @@ gnome_terminal_CPPFLAGS = \
 	-DGTK_DISABLE_SINGLE_INCLUDES \
 	$(AM_CPPFLAGS)
 
-gnome_terminal_CFLAGS = \
+vanilla_terminal_CFLAGS = \
 	$(TERM_CFLAGS) \
 	$(AM_CFLAGS)
 
-gnome_terminal_LDFLAGS =
+vanilla_terminal_LDFLAGS =
 
-gnome_terminal_LDADD = \
+vanilla_terminal_LDADD = \
 	$(TERM_LIBS)
 
 if WITH_SMCLIENT
-gnome_terminal_SOURCES += \
+vanilla_terminal_SOURCES += \
 	eggsmclient.c \
 	eggsmclient.h \
 	eggsmclient-private.h \
 	$(NULL)
-gnome_terminal_CFLAGS += $(SMCLIENT_CFLAGS)
-gnome_terminal_LDADD += $(SMCLIENT_LIBS)
+vanilla_terminal_CFLAGS += $(SMCLIENT_CFLAGS)
+vanilla_terminal_LDADD += $(SMCLIENT_LIBS)
 
 if WITH_SMCLIENT_XSMP
-gnome_terminal_SOURCES += \
+vanilla_terminal_SOURCES += \
 	eggdesktopfile.c \
 	eggdesktopfile.h \
 	eggsmclient-xsmp.c \
 	$(NULL)
-gnome_terminal_CPPFLAGS += -DEGG_SM_CLIENT_BACKEND_XSMP
+vanilla_terminal_CPPFLAGS += -DEGG_SM_CLIENT_BACKEND_XSMP
 endif
 if WITH_SMCLIENT_WIN32
-gnome_terminal_SOURCES += eggsmclient-win32.c
+vanilla_terminal_SOURCES += eggsmclient-win32.c
 endif
 if WITH_SMCLIENT_QUARTZ
-gnome_terminal_SOURCES += eggsmclient-osx.c
+vanilla_terminal_SOURCES += eggsmclient-osx.c
 endif
 endif
 
@@ -136,8 +136,8 @@ terminal-marshal.c: $(srcdir)/terminal-marshal.list
 	|| ( rm -f terminal-marshal.c.tmp && exit 1 )
 
 schemadir = $(GCONF_SCHEMA_FILE_DIR)
-schema_in_files = gnome-terminal.schemas.in
-schema_DATA = gnome-terminal.schemas
+schema_in_files = vanilla-terminal.schemas.in
+schema_DATA = vanilla-terminal.schemas
 
 aboutdir = $(pkgdatadir)
 about_DATA = \
@@ -163,7 +163,7 @@ builder_DATA =  $(builder_in_files:.glade=.ui)
 
 CLEANFILES = \
 	stamp-terminal-type-builtins.h \
-	gnome-terminal.schemas \
+	vanilla-terminal.schemas \
 	stamp-terminal-type-builtins.h \
 	$(builder_DATA) \
 	$(BUILT_SOURCES)

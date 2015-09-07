@@ -5,12 +5,12 @@
  * Copyright © 2003 Mariano Suarez-Alvarez
  * Copyright © 2008, 2011 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -149,9 +149,9 @@ terminal_util_show_help (const char *topic,
   char *url;
 
   if (topic) {
-    url = g_strdup_printf ("help:gnome-terminal/%s", topic); /* DOC_MODULE */
+    url = g_strdup_printf ("help:vanilla-terminal/%s", topic); /* DOC_MODULE */
   } else {
-    url = g_strdup ("help:gnome-terminal"); /* DOC_MODULE */
+    url = g_strdup ("help:vanilla-terminal"); /* DOC_MODULE */
   }
 
   if (!open_url (GTK_WINDOW (parent), url, gtk_get_current_event_time (), &error))
@@ -351,16 +351,16 @@ char *
 terminal_util_get_licence_text (void)
 {
   const gchar *license[] = {
-    N_("GNOME Terminal is free software; you can redistribute it and/or modify "
+    N_("Terminal is free software; you can redistribute it and/or modify "
        "it under the terms of the GNU General Public License as published by "
        "the Free Software Foundation; either version 3 of the License, or "
        "(at your option) any later version."),
-    N_("GNOME Terminal is distributed in the hope that it will be useful, "
+    N_("Terminal is distributed in the hope that it will be useful, "
        "but WITHOUT ANY WARRANTY; without even the implied warranty of "
        "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the "
        "GNU General Public License for more details."),
     N_("You should have received a copy of the GNU General Public License "
-       "along with GNOME Terminal; if not, write to the Free Software Foundation, "
+       "along with Terminal; if not, write to the Free Software Foundation, "
        "Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA")
   };
 

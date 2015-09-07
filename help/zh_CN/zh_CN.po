@@ -1,11 +1,11 @@
-# Chinese (China) translation for gnome-terminal.
-# Copyright (C) 2009 gnome-terminal's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-terminal package.
+# Chinese (China) translation for vanilla-terminal.
+# Copyright (C) 2009 vanilla-terminal's COPYRIGHT HOLDER
+# This file is distributed under the same license as the vanilla-terminal package.
 # YunQiang Su <wzssyqa@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-terminal master\n"
+"Project-Id-Version: vanilla-terminal master\n"
 "POT-Creation-Date: 2010-07-07 21:35+0000\n"
 "PO-Revision-Date: 2010-07-12 11:50+0800\n"
 "Last-Translator: TeliuTe <teliute@163.com>\n"
@@ -18,99 +18,99 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: C/gnome-terminal.xml:294(None)
+#: C/vanilla-terminal.xml:294(None)
 msgid ""
-"@@image: 'figures/gnome-terminal-default.png'; "
+"@@image: 'figures/vanilla-terminal-default.png'; "
 "md5=fccdfe734f4180cb393cd23679d6dd18"
 msgstr ""
-"@@image: 'figures/gnome-terminal-default.png'; "
+"@@image: 'figures/vanilla-terminal-default.png'; "
 "md5=fccdfe734f4180cb393cd23679d6dd18"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: C/gnome-terminal.xml:364(None)
+#: C/vanilla-terminal.xml:364(None)
 msgid ""
-"@@image: 'figures/gnome-terminal-tabbed.png'; "
+"@@image: 'figures/vanilla-terminal-tabbed.png'; "
 "md5=fd1c1b81fec91087349f1500b82501fe"
 msgstr ""
-"@@image: 'figures/gnome-terminal-tabbed.png'; "
+"@@image: 'figures/vanilla-terminal-tabbed.png'; "
 "md5=fd1c1b81fec91087349f1500b82501fe"
 
-#: C/gnome-terminal.xml:19(title)
+#: C/vanilla-terminal.xml:19(title)
 msgid "GNOME Terminal Manual"
 msgstr "GNOME 终端手册"
 
-#: C/gnome-terminal.xml:21(para)
+#: C/vanilla-terminal.xml:21(para)
 msgid ""
 "The Terminal gives users the power to communicate with their system using "
 "text-based commands through a shell such as Bash."
 msgstr "终端给用户使用基于文本的命令(例如 Bash)和系统交互的能力。"
 
-#: C/gnome-terminal.xml:27(year)
+#: C/vanilla-terminal.xml:27(year)
 msgid "2002"
 msgstr "2002"
 
-#: C/gnome-terminal.xml:28(year)
+#: C/vanilla-terminal.xml:28(year)
 msgid "2003"
 msgstr "2003"
 
-#: C/gnome-terminal.xml:29(year)
+#: C/vanilla-terminal.xml:29(year)
 msgid "2004"
 msgstr "2004"
 
-#: C/gnome-terminal.xml:30(holder) C/gnome-terminal.xml:61(orgname)
+#: C/vanilla-terminal.xml:30(holder) C/vanilla-terminal.xml:61(orgname)
 msgid "Sun Microsystems"
 msgstr "Sun Microsystems"
 
-#: C/gnome-terminal.xml:33(year) C/gnome-terminal.xml:37(year)
-#: C/gnome-terminal.xml:41(year)
+#: C/vanilla-terminal.xml:33(year) C/vanilla-terminal.xml:37(year)
+#: C/vanilla-terminal.xml:41(year)
 msgid "2000"
 msgstr "2000"
 
-#: C/gnome-terminal.xml:34(holder)
+#: C/vanilla-terminal.xml:34(holder)
 msgid "Miguel de Icaza"
 msgstr "Miguel de Icaza"
 
-#: C/gnome-terminal.xml:38(holder)
+#: C/vanilla-terminal.xml:38(holder)
 msgid "Michael Zucchi"
 msgstr "Michael Zucchi"
 
-#: C/gnome-terminal.xml:42(holder)
+#: C/vanilla-terminal.xml:42(holder)
 msgid "Alexander Kirillov"
 msgstr "Alexander Kirillov"
 
-#: C/gnome-terminal.xml:45(year)
+#: C/vanilla-terminal.xml:45(year)
 msgid "2008"
 msgstr "2008"
 
-#: C/gnome-terminal.xml:46(holder)
+#: C/vanilla-terminal.xml:46(holder)
 msgid "Christian Persch"
 msgstr "Christian Persch"
 
-#: C/gnome-terminal.xml:49(year)
+#: C/vanilla-terminal.xml:49(year)
 msgid "2009"
 msgstr "2009"
 
-#: C/gnome-terminal.xml:50(year)
+#: C/vanilla-terminal.xml:50(year)
 msgid "2010"
 msgstr "2010"
 
-#: C/gnome-terminal.xml:51(holder) C/gnome-terminal.xml:105(para)
+#: C/vanilla-terminal.xml:51(holder) C/vanilla-terminal.xml:105(para)
 msgid "Paul Cutler"
 msgstr "Paul Cutler"
 
-#: C/gnome-terminal.xml:54(publishername) C/gnome-terminal.xml:68(orgname)
-#: C/gnome-terminal.xml:75(orgname) C/gnome-terminal.xml:82(orgname)
-#: C/gnome-terminal.xml:87(publishername) C/gnome-terminal.xml:98(para)
-#: C/gnome-terminal.xml:106(para) C/gnome-terminal.xml:114(para)
-#: C/gnome-terminal.xml:122(para) C/gnome-terminal.xml:132(para)
-#: C/gnome-terminal.xml:144(para) C/gnome-terminal.xml:156(para)
-#: C/gnome-terminal.xml:168(para) C/gnome-terminal.xml:180(para)
-#: C/gnome-terminal.xml:192(para) C/gnome-terminal.xml:205(para)
+#: C/vanilla-terminal.xml:54(publishername) C/vanilla-terminal.xml:68(orgname)
+#: C/vanilla-terminal.xml:75(orgname) C/vanilla-terminal.xml:82(orgname)
+#: C/vanilla-terminal.xml:87(publishername) C/vanilla-terminal.xml:98(para)
+#: C/vanilla-terminal.xml:106(para) C/vanilla-terminal.xml:114(para)
+#: C/vanilla-terminal.xml:122(para) C/vanilla-terminal.xml:132(para)
+#: C/vanilla-terminal.xml:144(para) C/vanilla-terminal.xml:156(para)
+#: C/vanilla-terminal.xml:168(para) C/vanilla-terminal.xml:180(para)
+#: C/vanilla-terminal.xml:192(para) C/vanilla-terminal.xml:205(para)
 msgid "GNOME Documentation Project"
 msgstr "GNOME 文档项目"
 
-#: C/gnome-terminal.xml:2(para)
+#: C/vanilla-terminal.xml:2(para)
 msgid ""
 "Permission is granted to copy, distribute and/or modify this document under "
 "the terms of the GNU Free Documentation License (GFDL), Version 1.1 or any "
@@ -125,7 +125,7 @@ msgstr ""
 "fdl\">link</ulink> 或在随本手册一起分发的 COPYING-DOCS 文件中找到 GFDL 的副"
 "本。"
 
-#: C/gnome-terminal.xml:12(para)
+#: C/vanilla-terminal.xml:12(para)
 msgid ""
 "This manual is part of a collection of GNOME manuals distributed under the "
 "GFDL. If you want to distribute this manual separately from the collection, "
@@ -136,7 +136,7 @@ msgstr ""
 "您可以通过添加一个这个许可证的一份副本到这个手册来做到，就像在第六节中所描述"
 "的这个许可证。"
 
-#: C/gnome-terminal.xml:19(para)
+#: C/vanilla-terminal.xml:19(para)
 msgid ""
 "Many of the names used by companies to distinguish their products and "
 "services are claimed as trademarks. Where those names appear in any GNOME "
@@ -148,7 +148,7 @@ msgstr ""
 "档以及 GNOME 文档项目的成员中，这些名称都是以全大写字母或首字母大写显示，从而"
 "表明它们是商标。"
 
-#: C/gnome-terminal.xml:35(para)
+#: C/vanilla-terminal.xml:35(para)
 msgid ""
 "DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, "
 "EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT "
@@ -169,7 +169,7 @@ msgstr ""
 "务、维修或更正的费用。此免责声明是本许可证的重要组成部分。如果不接受此免责声"
 "明，那么您就没有权利使用任何文档或文档的修改版本；并且"
 
-#: C/gnome-terminal.xml:55(para)
+#: C/vanilla-terminal.xml:55(para)
 msgid ""
 "UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING "
 "NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE AUTHOR, INITIAL WRITER, ANY "
@@ -189,7 +189,7 @@ msgstr ""
 "失、工作停止、计算机失败或故障，或任何以及所有其它损失或由此引发的或与之相关"
 "的损失，即使这些方已被告知存在出现此类损失的可能性时也是如此。"
 
-#: C/gnome-terminal.xml:28(para)
+#: C/vanilla-terminal.xml:28(para)
 msgid ""
 "DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT ARE PROVIDED UNDER THE TERMS "
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
@@ -198,131 +198,131 @@ msgstr ""
 "本文档以及文档的修改版本都是在遵循 GNU 自由文档许可证的条款下提供，这表示具有"
 "以下含义：<placeholder-1/>"
 
-#: C/gnome-terminal.xml:58(firstname)
+#: C/vanilla-terminal.xml:58(firstname)
 msgid "Sun"
 msgstr "Sun"
 
-#: C/gnome-terminal.xml:59(surname)
+#: C/vanilla-terminal.xml:59(surname)
 msgid "GNOME Documentation Team"
 msgstr "GNOME 文档团队"
 
-#: C/gnome-terminal.xml:65(firstname)
+#: C/vanilla-terminal.xml:65(firstname)
 msgid "Miguel"
 msgstr "Miguel"
 
-#: C/gnome-terminal.xml:66(surname)
+#: C/vanilla-terminal.xml:66(surname)
 msgid "de Icaza"
 msgstr "de Icaza"
 
-#: C/gnome-terminal.xml:72(firstname)
+#: C/vanilla-terminal.xml:72(firstname)
 msgid "Michael"
 msgstr "Michael"
 
-#: C/gnome-terminal.xml:73(surname)
+#: C/vanilla-terminal.xml:73(surname)
 msgid "Zucchi"
 msgstr "Zucchi"
 
-#: C/gnome-terminal.xml:79(firstname)
+#: C/vanilla-terminal.xml:79(firstname)
 msgid "Alexander"
 msgstr "Alexander"
 
-#: C/gnome-terminal.xml:80(surname)
+#: C/vanilla-terminal.xml:80(surname)
 msgid "Kirillov"
 msgstr "Kirillov"
 
-#: C/gnome-terminal.xml:93(revnumber)
+#: C/vanilla-terminal.xml:93(revnumber)
 msgid "GNOME Terminal Manual V2.9"
 msgstr "GNOME 终端手册 2.9 版"
 
-#: C/gnome-terminal.xml:94(date)
+#: C/vanilla-terminal.xml:94(date)
 msgid "January 2010"
 msgstr "2010年1月"
 
-#: C/gnome-terminal.xml:96(para)
+#: C/vanilla-terminal.xml:96(para)
 msgid "Paul Cutler <email>pcutler@gnome.org</email>"
 msgstr "Paul Cutler <email>pcutler@gnome.org</email>"
 
-#: C/gnome-terminal.xml:102(revnumber)
+#: C/vanilla-terminal.xml:102(revnumber)
 msgid "GNOME Terminal Manual V2.8"
 msgstr "GNOME 终端手册 2.8 版"
 
-#: C/gnome-terminal.xml:103(date)
+#: C/vanilla-terminal.xml:103(date)
 msgid "March 2009"
 msgstr "2009年3月"
 
-#: C/gnome-terminal.xml:110(revnumber)
+#: C/vanilla-terminal.xml:110(revnumber)
 msgid "GNOME Terminal Manual V2.7"
 msgstr "GNOME 终端手册 2.7 版"
 
-#: C/gnome-terminal.xml:111(date)
+#: C/vanilla-terminal.xml:111(date)
 msgid "November 2003"
 msgstr "2003年11月"
 
-#: C/gnome-terminal.xml:113(para) C/gnome-terminal.xml:121(para)
-#: C/gnome-terminal.xml:129(para) C/gnome-terminal.xml:141(para)
-#: C/gnome-terminal.xml:153(para) C/gnome-terminal.xml:165(para)
-#: C/gnome-terminal.xml:177(para) C/gnome-terminal.xml:189(para)
+#: C/vanilla-terminal.xml:113(para) C/vanilla-terminal.xml:121(para)
+#: C/vanilla-terminal.xml:129(para) C/vanilla-terminal.xml:141(para)
+#: C/vanilla-terminal.xml:153(para) C/vanilla-terminal.xml:165(para)
+#: C/vanilla-terminal.xml:177(para) C/vanilla-terminal.xml:189(para)
 msgid "Sun GNOME Documentation Team"
 msgstr "Sun GNOME 文档团队"
 
-#: C/gnome-terminal.xml:118(revnumber)
+#: C/vanilla-terminal.xml:118(revnumber)
 msgid "GNOME Terminal Manual V2.6"
 msgstr "GNOME 终端手册 2.6 版"
 
-#: C/gnome-terminal.xml:119(date)
+#: C/vanilla-terminal.xml:119(date)
 msgid "September 2003"
 msgstr "2003年9月"
 
-#: C/gnome-terminal.xml:126(revnumber)
+#: C/vanilla-terminal.xml:126(revnumber)
 msgid "GNOME Terminal Manual V2.5"
 msgstr "GNOME 终端手册 2.5 版"
 
-#: C/gnome-terminal.xml:127(date)
+#: C/vanilla-terminal.xml:127(date)
 msgid "May 2003"
 msgstr "2003年5月"
 
-#: C/gnome-terminal.xml:138(revnumber)
+#: C/vanilla-terminal.xml:138(revnumber)
 msgid "GNOME Terminal Manual V2.4"
 msgstr "GNOME 终端手册 2.4 版"
 
-#: C/gnome-terminal.xml:139(date)
+#: C/vanilla-terminal.xml:139(date)
 msgid "January 2003"
 msgstr "2003年1月"
 
-#: C/gnome-terminal.xml:150(revnumber)
+#: C/vanilla-terminal.xml:150(revnumber)
 msgid "GNOME Terminal Manual V2.3"
 msgstr "GNOME 终端手册 2.3 版"
 
-#: C/gnome-terminal.xml:151(date) C/gnome-terminal.xml:163(date)
-#: C/gnome-terminal.xml:175(date)
+#: C/vanilla-terminal.xml:151(date) C/vanilla-terminal.xml:163(date)
+#: C/vanilla-terminal.xml:175(date)
 msgid "August 2002"
 msgstr "2002年8月"
 
-#: C/gnome-terminal.xml:162(revnumber)
+#: C/vanilla-terminal.xml:162(revnumber)
 msgid "GNOME Terminal Manual V2.2"
 msgstr "GNOME 终端手册 2.2 版"
 
-#: C/gnome-terminal.xml:174(revnumber)
+#: C/vanilla-terminal.xml:174(revnumber)
 msgid "GNOME Terminal Manual V2.1"
 msgstr "GNOME 终端手册 2.1 版"
 
-#: C/gnome-terminal.xml:186(revnumber)
+#: C/vanilla-terminal.xml:186(revnumber)
 msgid "GNOME Terminal Manual V2.0"
 msgstr "GNOME 终端手册 2.0 版"
 
-#: C/gnome-terminal.xml:187(date)
+#: C/vanilla-terminal.xml:187(date)
 msgid "April 2002"
 msgstr "2002年4月"
 
-#: C/gnome-terminal.xml:198(revnumber)
+#: C/vanilla-terminal.xml:198(revnumber)
 msgid "GNOME Terminal User's Guide"
 msgstr "GNOME 终端用户指南"
 
-#: C/gnome-terminal.xml:199(date)
+#: C/vanilla-terminal.xml:199(date)
 msgid "May 2000"
 msgstr "2000年5月"
 
-#: C/gnome-terminal.xml:201(para)
+#: C/vanilla-terminal.xml:201(para)
 msgid ""
 "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org</"
 "email>"
@@ -330,15 +330,15 @@ msgstr ""
 "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org</"
 "email>"
 
-#: C/gnome-terminal.xml:211(releaseinfo)
+#: C/vanilla-terminal.xml:211(releaseinfo)
 msgid "This manual describes version 2.30 of GNOME Terminal."
 msgstr "本手册描述 2.30 版的 GNOME 终端。"
 
-#: C/gnome-terminal.xml:214(title)
+#: C/vanilla-terminal.xml:214(title)
 msgid "Feedback"
 msgstr "反馈"
 
-#: C/gnome-terminal.xml:215(para)
+#: C/vanilla-terminal.xml:215(para)
 msgid ""
 "To report a bug or make a suggestion regarding the GNOME Terminal "
 "application or this manual, follow the directions in the <ulink url=\"ghelp:"
@@ -347,19 +347,19 @@ msgstr ""
 "要向 GNOME 终端程序或本手册报告 bug 或提出建议，跟随这个链接<ulink url="
 "\"ghelp:user-guide?feedback\" type=\"help\">GNOME 反馈网页</ulink>"
 
-#: C/gnome-terminal.xml:219(primary)
+#: C/vanilla-terminal.xml:219(primary)
 msgid "GNOME Terminal"
 msgstr "GNOME 终端"
 
-#: C/gnome-terminal.xml:222(primary)
+#: C/vanilla-terminal.xml:222(primary)
 msgid "terminal application"
 msgstr "终端应用程序"
 
-#: C/gnome-terminal.xml:227(title)
+#: C/vanilla-terminal.xml:227(title)
 msgid "Introduction"
 msgstr "导言"
 
-#: C/gnome-terminal.xml:228(para)
+#: C/vanilla-terminal.xml:228(para)
 msgid ""
 "<application>GNOME Terminal</application> is a terminal emulation "
 "application that you can use to perform the following tasks:"
@@ -367,11 +367,11 @@ msgstr ""
 "<application>GNOME 终端</application>是一个终端模拟器程序，您可以使用它进行如"
 "下任务："
 
-#: C/gnome-terminal.xml:233(term)
+#: C/vanilla-terminal.xml:233(term)
 msgid "Access a UNIX shell in the GNOME environment"
 msgstr "在 GNOME 环境下进入 UNIX shell"
 
-#: C/gnome-terminal.xml:235(para)
+#: C/vanilla-terminal.xml:235(para)
 msgid ""
 "A shell is a program that interprets and executes the commands that you type "
 "at a command line prompt. When you start <application>GNOME Terminal</"
@@ -382,7 +382,7 @@ msgstr ""
 "<application>GNOME 终端</application>，本程序启动系统账户指定的默认 Shell。您"
 "可以随时切换到另一个 shell。"
 
-#: C/gnome-terminal.xml:241(term)
+#: C/vanilla-terminal.xml:241(term)
 msgid ""
 "Run any application that is designed to run on VT102, VT220, and "
 "<application>xterm</application> terminals"
@@ -390,7 +390,7 @@ msgstr ""
 "运行任何设计为运行在 VT102，VT220 和 <application>xterm</application> 终端中"
 "的程序"
 
-#: C/gnome-terminal.xml:243(para)
+#: C/vanilla-terminal.xml:243(para)
 msgid ""
 "<application>GNOME Terminal</application> emulates the <application>xterm</"
 "application> application developed by the X Consortium. In turn, the "
@@ -407,31 +407,31 @@ msgstr ""
 "字符。<application>GNOME Terminal</application>接受 VT102 和 VT220 终端所有的"
 "转义序列，用于例如移动光标和清屏。"
 
-#: C/gnome-terminal.xml:254(title)
+#: C/vanilla-terminal.xml:254(title)
 msgid "Getting Started"
 msgstr "入门"
 
-#: C/gnome-terminal.xml:255(para)
+#: C/vanilla-terminal.xml:255(para)
 msgid ""
 "The following sections describe how to start <application>GNOME Terminal</"
 "application>."
 msgstr "下边的章节描述怎样启动 <application>GNOME 终端</application>。"
 
-#: C/gnome-terminal.xml:259(title)
+#: C/vanilla-terminal.xml:259(title)
 msgid "Starting GNOME Terminal"
 msgstr "启动 GNOME 终端"
 
-#: C/gnome-terminal.xml:260(para)
+#: C/vanilla-terminal.xml:260(para)
 msgid ""
 "You can start <application>GNOME Terminal</application> in the following "
 "ways:"
 msgstr "您可以用以下列方式启动 <application>GNOME 终端</application>："
 
-#: C/gnome-terminal.xml:265(term)
+#: C/vanilla-terminal.xml:265(term)
 msgid "<guimenu>Applications</guimenu> menu"
 msgstr "<guimenu>应用程序</guimenu> 菜单"
 
-#: C/gnome-terminal.xml:267(para)
+#: C/vanilla-terminal.xml:267(para)
 msgid ""
 "Choose <menuchoice><guimenu>Accessories</guimenu><guimenuitem>Terminal</"
 "guimenuitem></menuchoice>."
@@ -439,28 +439,28 @@ msgstr ""
 "选择 <menuchoice><guimenu>附件</guimenu><guimenuitem>终端</guimenuitem></"
 "menuchoice>"
 
-#: C/gnome-terminal.xml:272(term)
+#: C/vanilla-terminal.xml:272(term)
 msgid "Command line"
 msgstr "命令行"
 
-#: C/gnome-terminal.xml:274(para)
-msgid "Execute the following command: <command>gnome-terminal</command>"
-msgstr "执行如下命令 <command>gnome-terminal</command>"
+#: C/vanilla-terminal.xml:274(para)
+msgid "Execute the following command: <command>vanilla-terminal</command>"
+msgstr "执行如下命令 <command>vanilla-terminal</command>"
 
-#: C/gnome-terminal.xml:277(para)
+#: C/vanilla-terminal.xml:277(para)
 msgid ""
 "You can use command line options to modify the way in which you run "
 "<application>GNOME Terminal</application>. To view the command line options, "
-"execute the following command: <command>gnome-terminal --help</command>"
+"execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "您可以使用命令行选项修改 <application>GNOME 终端</application> 运行的方式。要"
-"查看命令行选项，执行如下命令：<command>gnome-terminal --help</command>"
+"查看命令行选项，执行如下命令：<command>vanilla-terminal --help</command>"
 
-#: C/gnome-terminal.xml:285(title)
+#: C/vanilla-terminal.xml:285(title)
 msgid "When You First Start GNOME Terminal"
 msgstr "第一次启动 GNOME 终端时"
 
-#: C/gnome-terminal.xml:286(para)
+#: C/vanilla-terminal.xml:286(para)
 msgid ""
 "When you start <application>GNOME Terminal</application> for the first time, "
 "the application opens a terminal window with a group of default settings. "
@@ -472,16 +472,16 @@ msgstr ""
 "这个。这组默认设置被叫做默认配置文件。配置文件名在<application>GNOME 终端</"
 "application>窗口的标题栏上显示。"
 
-#: C/gnome-terminal.xml:289(title)
+#: C/vanilla-terminal.xml:289(title)
 msgid "Example of a Default GNOME Terminal Window"
 msgstr "默认的 GNOME 终端的例子"
 
-#: C/gnome-terminal.xml:291(screeninfo) C/gnome-terminal.xml:297(phrase)
-#: C/gnome-terminal.xml:361(screeninfo) C/gnome-terminal.xml:367(phrase)
+#: C/vanilla-terminal.xml:291(screeninfo) C/vanilla-terminal.xml:297(phrase)
+#: C/vanilla-terminal.xml:361(screeninfo) C/vanilla-terminal.xml:367(phrase)
 msgid "GNOME Terminal default window"
 msgstr "GNOME 终端默认窗口"
 
-#: C/gnome-terminal.xml:302(para)
+#: C/vanilla-terminal.xml:302(para)
 msgid ""
 "The terminal window displays a command prompt where you can type UNIX "
 "commands. The command prompt can be a %, #, &gt;, $, or any other special "
@@ -496,41 +496,41 @@ msgstr ""
 "<application>GNOME 终端</application>使用启动为这个程序的用户指定的默认 "
 "shell。"
 
-#: C/gnome-terminal.xml:305(para)
+#: C/vanilla-terminal.xml:305(para)
 msgid ""
 "<application>GNOME Terminal</application> also sets the following "
 "environment variables:"
 msgstr "<application>GNOME 终端</application> 也设置如下环境变量："
 
-#: C/gnome-terminal.xml:311(varname)
+#: C/vanilla-terminal.xml:311(varname)
 msgid "TERM"
 msgstr "TERM"
 
-#: C/gnome-terminal.xml:313(para)
+#: C/vanilla-terminal.xml:313(para)
 msgid "Set to <literal>xterm</literal> by default."
 msgstr "默认设置为 <literal>xterm</literal>。"
 
-#: C/gnome-terminal.xml:320(varname)
+#: C/vanilla-terminal.xml:320(varname)
 msgid "COLORTERM"
 msgstr "COLORTERM"
 
-#: C/gnome-terminal.xml:322(para)
-msgid "Set to <literal>gnome-terminal</literal> by default."
-msgstr "默认设置为 <literal>gnome-terminal</literal>。"
+#: C/vanilla-terminal.xml:322(para)
+msgid "Set to <literal>vanilla-terminal</literal> by default."
+msgstr "默认设置为 <literal>vanilla-terminal</literal>。"
 
-#: C/gnome-terminal.xml:329(varname)
+#: C/vanilla-terminal.xml:329(varname)
 msgid "WINDOWID"
 msgstr "WINDOWID"
 
-#: C/gnome-terminal.xml:331(para)
+#: C/vanilla-terminal.xml:331(para)
 msgid "Set to the X11 window identifier by default."
 msgstr "默认设置 X11 窗口识别码"
 
-#: C/gnome-terminal.xml:340(title)
+#: C/vanilla-terminal.xml:340(title)
 msgid "Terminal Profiles"
 msgstr "终端配置文件"
 
-#: C/gnome-terminal.xml:341(para)
+#: C/vanilla-terminal.xml:341(para)
 msgid ""
 "You can create a new profile, and apply the new profile to the terminal to "
 "modify characteristics such as font, color and effects, scroll behavior, "
@@ -542,7 +542,7 @@ msgstr ""
 "色和效果)、滚动行为、窗口标题和兼容性。您同样也可以在配置文件中指定一个在启"
 "动 <application>GNOME 终端</application>时自动运行的命令。"
 
-#: C/gnome-terminal.xml:343(para)
+#: C/vanilla-terminal.xml:343(para)
 msgid ""
 "You define each terminal profile in the <guilabel>Profiles</guilabel> "
 "dialog, which you access from the <guimenu>Edit</guimenu> menu. You can "
@@ -557,15 +557,15 @@ msgstr ""
 "时，您可以选择想对这个终端使用的配置文件。或者，您也可以在使用终端时更改终端"
 "配置文件。要在您从命令行启动这个程序时为终端指定初始配置文件，使用如下命令："
 
-#: C/gnome-terminal.xml:345(replaceable)
+#: C/vanilla-terminal.xml:345(replaceable)
 msgid "profilename"
 msgstr "配置文件名"
 
-#: C/gnome-terminal.xml:345(command)
-msgid "gnome-terminal --window-with-profile=<placeholder-1/>"
-msgstr "gnome-terminal --window-with-profile=<placeholder-1/>"
+#: C/vanilla-terminal.xml:345(command)
+msgid "vanilla-terminal --window-with-profile=<placeholder-1/>"
+msgstr "vanilla-terminal --window-with-profile=<placeholder-1/>"
 
-#: C/gnome-terminal.xml:347(para)
+#: C/vanilla-terminal.xml:347(para)
 msgid ""
 "The name of the current profile appears in the titlebar of the "
 "<application>GNOME Terminal</application>, unless you specify a different "
@@ -574,19 +574,19 @@ msgstr ""
 "当前配置文件的名字显示在 <application>GNOME 终端</application>的标题栏中，除"
 "非您在 <guilabel>编辑配置文件</guilabel> 中指定了不同的标题栏名字。"
 
-#: C/gnome-terminal.xml:349(para)
+#: C/vanilla-terminal.xml:349(para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-manage-profiles\"/> for information about "
+"See <xref linkend=\"vanilla-terminal-manage-profiles\"/> for information about "
 "how to define and use a new terminal profile."
 msgstr ""
-"查看 <xref linkend=\"gnome-terminal-manage-profiles\"/> 获取关于怎样定义和使"
+"查看 <xref linkend=\"vanilla-terminal-manage-profiles\"/> 获取关于怎样定义和使"
 "用新终端配置文件的信息。"
 
-#: C/gnome-terminal.xml:353(title)
+#: C/vanilla-terminal.xml:353(title)
 msgid "Working With Multiple Terminals"
 msgstr "使用多个终端"
 
-#: C/gnome-terminal.xml:354(para)
+#: C/vanilla-terminal.xml:354(para)
 msgid ""
 "<application>GNOME Terminal</application> provides a tab feature that "
 "enables you to open several terminals in a single window. Each terminal "
@@ -600,45 +600,45 @@ msgstr ""
 "端。同一个窗口中的每个标签化的终端都是分离的子进程，所以您可以使用每个终端做"
 "不同的任务。您也是对同一窗口中的不同标签化的终端提供不同的配置文件。"
 
-#: C/gnome-terminal.xml:356(para)
+#: C/vanilla-terminal.xml:356(para)
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
-"profile, or the name specified by the current profile. <xref linkend=\"gnome-"
+"profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
 "terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
 "titlebar."
 msgstr ""
 "终端窗口的标题栏显示当前配置文件的名字或者当前配置文件指定的名字。<xref "
-"linkend=\"gnome-terminal-tabbed\"/>显示了一个带有四个标签页的"
+"linkend=\"vanilla-terminal-tabbed\"/>显示了一个带有四个标签页的"
 "<application>GNOME 终端</application>窗口。此时，四个标签中的每一个都有不同的"
 "配置文件。当前活动标签页的配置文件名--Profile 1，在标题栏上显示。"
 
-#: C/gnome-terminal.xml:359(title)
+#: C/vanilla-terminal.xml:359(title)
 msgid "Example of a Terminal Window With Tabs"
 msgstr "一个带有标签的终端窗口的例子"
 
-#: C/gnome-terminal.xml:372(para)
+#: C/vanilla-terminal.xml:372(para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-windows\"/> for information about how to "
+"See <xref linkend=\"vanilla-terminal-windows\"/> for information about how to "
 "open a new tabbed terminal."
 msgstr ""
-"查看 <xref linkend=\"gnome-terminal-windows\"/>获取关于怎样打开一个新标签终端"
+"查看 <xref linkend=\"vanilla-terminal-windows\"/>获取关于怎样打开一个新标签终端"
 "的信息。"
 
-#: C/gnome-terminal.xml:382(title)
+#: C/vanilla-terminal.xml:382(title)
 msgid "Usage"
 msgstr "使用方法"
 
-#: C/gnome-terminal.xml:385(title)
+#: C/vanilla-terminal.xml:385(title)
 msgid "Opening and Closing Terminals"
 msgstr "打开和关闭终端"
 
-#: C/gnome-terminal.xml:388(term)
+#: C/vanilla-terminal.xml:388(term)
 msgid "To open a new terminal window:"
 msgstr "要打开一个新终端窗口："
 
-#: C/gnome-terminal.xml:390(para)
+#: C/vanilla-terminal.xml:390(para)
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open Terminal</"
 "guimenuitem></menuchoice>."
@@ -646,17 +646,17 @@ msgstr ""
 "选择 <menuchoice><guimenu>文件</guimenu><guimenuitem>打开终端</guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:392(para)
+#: C/vanilla-terminal.xml:392(para)
 msgid ""
 "The new terminal inherits the application settings and default shell from "
 "the parent terminal."
 msgstr "新终端从父终端继承程序设置和默认 shell。"
 
-#: C/gnome-terminal.xml:397(term)
+#: C/vanilla-terminal.xml:397(term)
 msgid "To close a terminal window:"
 msgstr "要选择一个终端窗口："
 
-#: C/gnome-terminal.xml:399(para)
+#: C/vanilla-terminal.xml:399(para)
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close Window</"
 "guimenuitem></menuchoice>."
@@ -664,7 +664,7 @@ msgstr ""
 "选择 <menuchoice><guimenu>文件</guimenu><guimenuitem>关闭窗口</guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:401(para)
+#: C/vanilla-terminal.xml:401(para)
 msgid ""
 "This action closes the terminal and any subprocesses that you opened from "
 "the terminal. If you close the last terminal window, the <application>GNOME "
@@ -673,11 +673,11 @@ msgstr ""
 "这个动作关闭终端和从这个终端打开的任何子进程。如果关闭最后一个终端窗口，"
 "<application>GNOME 终端</application>程序将退出。"
 
-#: C/gnome-terminal.xml:406(term)
+#: C/vanilla-terminal.xml:406(term)
 msgid "To add a new tabbed terminal to a window:"
 msgstr "要在一个窗口中添加一个新标签终端："
 
-#: C/gnome-terminal.xml:408(para)
+#: C/vanilla-terminal.xml:408(para)
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guisubmenu>Open Tab</"
 "guisubmenu><guimenuitem>Default</guimenuitem></menuchoice> or just "
@@ -689,18 +689,18 @@ msgstr ""
 "<menuchoice><guimenu>文件</guimenu><guimenuitem>打开标签页</guimenuitem></"
 "menuchoice>"
 
-#: C/gnome-terminal.xml:413(term)
+#: C/vanilla-terminal.xml:413(term)
 msgid "To display a tabbed terminal:"
 msgstr "要显示一个带标签的终端："
 
-#: C/gnome-terminal.xml:415(para)
+#: C/vanilla-terminal.xml:415(para)
 msgid ""
 "Click on the tab of the tabbed terminal that you want to display, or select "
 "a tab title from the <guimenu>Tabs</guimenu> menu."
 msgstr ""
 "在您想显示的标签页上点击，或从<guimenu>标签页</guimenu>菜单中选择标签标题。"
 
-#: C/gnome-terminal.xml:418(para)
+#: C/vanilla-terminal.xml:418(para)
 msgid ""
 "Alternatively, choose <menuchoice><guimenu>Tabs</guimenu><guimenuitem>Next "
 "Tab</guimenuitem></menuchoice> or <menuchoice><guimenu>Tabs</"
@@ -711,15 +711,15 @@ msgstr ""
 "guimenuitem></menuchoice>或<menuchoice><guimenu>标签页</guimenu><guimenuitem>"
 "前一个标签页</guimenuitem></menuchoice>来在标签之间导航。"
 
-#: C/gnome-terminal.xml:424(term)
+#: C/vanilla-terminal.xml:424(term)
 msgid "To close a tabbed terminal:"
 msgstr "要关闭一个带标签的终端："
 
-#: C/gnome-terminal.xml:429(para)
+#: C/vanilla-terminal.xml:429(para)
 msgid "Display the tabbed terminal that you want to close."
 msgstr "显示您想关闭的带标签的终端。"
 
-#: C/gnome-terminal.xml:434(para)
+#: C/vanilla-terminal.xml:434(para)
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close Tab</"
 "guimenuitem></menuchoice>."
@@ -727,15 +727,15 @@ msgstr ""
 "选择 <menuchoice><guimenu>文件</guimenu><guimenuitem>关闭标签</guimenuitem></"
 "menuchoice>"
 
-#: C/gnome-terminal.xml:444(title)
+#: C/vanilla-terminal.xml:444(title)
 msgid "Managing Profiles"
 msgstr "管理配置文件"
 
-#: C/gnome-terminal.xml:447(term)
+#: C/vanilla-terminal.xml:447(term)
 msgid "To add a new profile:"
 msgstr "要添加一个新的配置文件："
 
-#: C/gnome-terminal.xml:452(para)
+#: C/vanilla-terminal.xml:452(para)
 msgid ""
 "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>New Profile</"
 "guimenuitem></menuchoice> to display the <guilabel>New Profile</guilabel> "
@@ -744,19 +744,19 @@ msgstr ""
 "选择 <menuchoice><guimenu>文件</guimenu><guimenuitem>新建配置文件</"
 "guimenuitem></menuchoice>来显示 <guilabel>新建配置文件</guilabel> 对话框。"
 
-#: C/gnome-terminal.xml:456(para)
+#: C/vanilla-terminal.xml:456(para)
 msgid ""
 "Type the new profile name in the <guilabel>Profile name</guilabel> text box."
 msgstr "在 <guilabel>配置文件名</guilabel> 文本框中输入新配置文件名。"
 
-#: C/gnome-terminal.xml:460(para)
+#: C/vanilla-terminal.xml:460(para)
 msgid ""
 "Use the <guilabel>Base on</guilabel> drop-down list to select the profile on "
 "which you want to base the new profile."
 msgstr ""
 "使用 <guilabel>基于</guilabel> 下拉菜单来选择新配置文件基于的配置文件。"
 
-#: C/gnome-terminal.xml:464(para)
+#: C/vanilla-terminal.xml:464(para)
 msgid ""
 "Click <guibutton>Create</guibutton> to display the <guilabel>Editing "
 "Profile</guilabel> dialog."
@@ -764,7 +764,7 @@ msgstr ""
 "点击 <guibutton>创建</guibutton> 来显示 <guilabel>编辑配置文件</guilabel>对话"
 "框。"
 
-#: C/gnome-terminal.xml:468(para)
+#: C/vanilla-terminal.xml:468(para)
 msgid ""
 "Click <guibutton>Close</guibutton>. <application>GNOME Terminal</"
 "application> adds the profile to the <menuchoice><guimenu>Terminal</"
@@ -774,17 +774,17 @@ msgstr ""
 "<menuchoice><guimenu>终端</guimenu><guisubmenu>更改配置文件</guisubmenu></"
 "menuchoice>子菜单中添加配置文件。"
 
-#: C/gnome-terminal.xml:476(term)
+#: C/vanilla-terminal.xml:476(term)
 msgid "To change the profile of a tabbed terminal:"
 msgstr "要更改带标签的终端的配置文件："
 
-#: C/gnome-terminal.xml:481(para)
+#: C/vanilla-terminal.xml:481(para)
 msgid ""
 "Click on the tab of the tabbed terminal for which you want to change the "
 "profile."
 msgstr "点击您想更改配置文件的标签页。"
 
-#: C/gnome-terminal.xml:485(para)
+#: C/vanilla-terminal.xml:485(para)
 msgid ""
 "Choose <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Change Profile</"
 "guisubmenu><guimenuitem><replaceable>profilename</replaceable></"
@@ -794,11 +794,11 @@ msgstr ""
 "guisubmenu><guimenuitem><replaceable>配置文件</replaceable></guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:493(term)
+#: C/vanilla-terminal.xml:493(term)
 msgid "To edit a profile:"
 msgstr "要编辑配置文件："
 
-#: C/gnome-terminal.xml:495(para)
+#: C/vanilla-terminal.xml:495(para)
 msgid ""
 "You edit profiles in the <guilabel>Editing Profile</guilabel> dialog. You "
 "can access the <guilabel>Editing Profile</guilabel> dialog in the following "
@@ -807,7 +807,7 @@ msgstr ""
 "在 <guilabel>Editing Profile</guilabel>对话框中编辑配置文件。您可以使用如下方"
 "法进入<guilabel>Editing Profile</guilabel>对话框："
 
-#: C/gnome-terminal.xml:499(para)
+#: C/vanilla-terminal.xml:499(para)
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guisubmenu>Current Profile</"
 "guisubmenu></menuchoice>."
@@ -815,7 +815,7 @@ msgstr ""
 "选择 <menuchoice><guimenu>编辑</guimenu><guisubmenu>当前配置文件</"
 "guisubmenu></menuchoice>。"
 
-#: C/gnome-terminal.xml:503(para)
+#: C/vanilla-terminal.xml:503(para)
 msgid ""
 "Right-click in the terminal window, then choose "
 "<menuchoice><guimenuitem>Profiles</guimenuitem><guimenuitem>Profile "
@@ -824,23 +824,23 @@ msgstr ""
 "右键点击终端窗口，然后从快捷菜单中选择 <menuchoice><guimenuitem>配置文件</"
 "guimenuitem><guimenuitem>配置文件首选项</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:507(para)
+#: C/vanilla-terminal.xml:507(para)
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guisubmenu>Profiles</guisubmenu></"
 "menuchoice>, select the profile you want to edit, then click "
 "<guibutton>Edit</guibutton>. For information on the options you can set for "
-"profiles, see <xref linkend=\"gnome-terminal-prefs\"/>."
+"profiles, see <xref linkend=\"vanilla-terminal-prefs\"/>."
 msgstr ""
 "选择<menuchoice><guimenu>编辑</guimenu><guisubmenu>配置文件</guisubmenu></"
 "menuchoice>，选择要编辑的配置文件，然后点击<guibutton>编辑</guibutton>。要获"
-"取您可以在配置文件中设置的选项，查看<xref linkend=\"gnome-terminal-prefs\"/"
+"取您可以在配置文件中设置的选项，查看<xref linkend=\"vanilla-terminal-prefs\"/"
 ">。"
 
-#: C/gnome-terminal.xml:514(term)
+#: C/vanilla-terminal.xml:514(term)
 msgid "To delete a profile:"
 msgstr "要删除一个配置文件："
 
-#: C/gnome-terminal.xml:519(para)
+#: C/vanilla-terminal.xml:519(para)
 msgid ""
 "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</"
 "guimenuitem></menuchoice>."
@@ -848,7 +848,7 @@ msgstr ""
 "选择 <menuchoice><guimenu>编辑</guimenu><guimenuitem>配置文件</guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:523(para)
+#: C/vanilla-terminal.xml:523(para)
 msgid ""
 "Select the name of the profile that you want to delete in the "
 "<guilabel>Profiles</guilabel> list, then click <guibutton>Delete</"
@@ -857,11 +857,11 @@ msgstr ""
 "在<guilabel>Profiles</guilabel>列表中选择您要删除的配置文件名，然后点击"
 "<guibutton>删除</guibutton>。显示<guilabel>删除配置文件</guilabel>对话框。"
 
-#: C/gnome-terminal.xml:527(para)
+#: C/vanilla-terminal.xml:527(para)
 msgid "Click <guibutton>Delete</guibutton> to confirm the deletion."
 msgstr "点击 <guibutton>删除</guibutton>来确认这个删除动作。"
 
-#: C/gnome-terminal.xml:531(para)
+#: C/vanilla-terminal.xml:531(para)
 msgid ""
 "Click <guibutton>Close</guibutton> to close the <guilabel>Edit Profiles</"
 "guilabel> dialog."
@@ -869,15 +869,15 @@ msgstr ""
 "点击<guibutton>关闭</guibutton>来关闭<guilabel>编辑配置文件</guilabel>对话"
 "框。"
 
-#: C/gnome-terminal.xml:541(title)
+#: C/vanilla-terminal.xml:541(title)
 msgid "Modifying a Terminal Window"
 msgstr "更改一个终端窗口"
 
-#: C/gnome-terminal.xml:544(term)
+#: C/vanilla-terminal.xml:544(term)
 msgid "To hide the menubar:"
 msgstr "要隐藏菜单栏："
 
-#: C/gnome-terminal.xml:546(para)
+#: C/vanilla-terminal.xml:546(para)
 msgid ""
 "Choose <menuchoice><guimenu>View</guimenu><guimenuitem>Show Menubar</"
 "guimenuitem></menuchoice>."
@@ -885,11 +885,11 @@ msgstr ""
 "选择 <menuchoice><guimenu>查看</guimenu><guimenuitem>显示菜单栏</"
 "guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:551(term)
+#: C/vanilla-terminal.xml:551(term)
 msgid "To show a hidden menubar:"
 msgstr "要显示隐藏的菜单栏："
 
-#: C/gnome-terminal.xml:553(para)
+#: C/vanilla-terminal.xml:553(para)
 msgid ""
 "Right-click on the terminal window, then choose <guimenuitem>Show Menubar</"
 "guimenuitem> from the popup menu."
@@ -897,13 +897,13 @@ msgstr ""
 "在终端窗口右键点击, 然后在快捷菜单中选择 <guimenuitem>显示菜单栏</"
 "guimenuitem>。"
 
-#: C/gnome-terminal.xml:557(term)
+#: C/vanilla-terminal.xml:557(term)
 msgid ""
 "To display the <application>GNOME Terminal</application> window in full-"
 "screen mode:"
 msgstr "要以全屏模式显示<application>GNOME 终端</application>窗口："
 
-#: C/gnome-terminal.xml:559(para)
+#: C/vanilla-terminal.xml:559(para)
 msgid ""
 "Choose <menuchoice><guimenu>View</guimenu><guimenuitem>Full Screen</"
 "guimenuitem></menuchoice>. Full-screen mode displays the text in a window "
@@ -916,40 +916,40 @@ msgstr ""
 "口框架或标题栏。要从这个模式退出，再次选择<menuchoice><guimenu>查看</"
 "guimenu><guimenuitem>全屏</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:563(term)
+#: C/vanilla-terminal.xml:563(term)
 msgid "To change the appearance of the terminal window:"
 msgstr "要更改终端窗口的外观："
 
-#: C/gnome-terminal.xml:565(para)
+#: C/vanilla-terminal.xml:565(para)
 msgid ""
-"See <xref linkend=\"gnome-terminal-prefs\"/> for information about the "
+"See <xref linkend=\"vanilla-terminal-prefs\"/> for information about the "
 "options that you can choose in the <guilabel>Editing Profile</guilabel> "
 "dialog to change the appearance of the terminal window. For example, you can "
 "change the background color, or the location of the scrollbar."
 msgstr ""
-"查看<xref linkend=\"gnome-terminal-prefs\"/>获取更多关于您可以在<guilabel>编"
+"查看<xref linkend=\"vanilla-terminal-prefs\"/>获取更多关于您可以在<guilabel>编"
 "辑配置文件</guilabel>对话框中更改终端窗口外观的选项的更多信息。例如，您可以更"
 "改背景色或滚动条的位置。"
 
-#: C/gnome-terminal.xml:572(title)
+#: C/vanilla-terminal.xml:572(title)
 msgid "Working with the Contents of Terminal Windows"
 msgstr "操作终端窗口的内容"
 
-#: C/gnome-terminal.xml:575(term)
+#: C/vanilla-terminal.xml:575(term)
 msgid "To scroll through previous commands and output:"
 msgstr "要翻阅先前的命令并显示："
 
-#: C/gnome-terminal.xml:577(para)
+#: C/vanilla-terminal.xml:577(para)
 msgid "Perform one of the following actions:"
 msgstr "执行如下之一的动作："
 
-#: C/gnome-terminal.xml:582(para)
+#: C/vanilla-terminal.xml:582(para)
 msgid ""
 "Use the scrollbar, which is usually displayed on the right of the terminal "
 "window."
 msgstr "使用滚动条，其一般是在终端窗口的右边显示。"
 
-#: C/gnome-terminal.xml:586(para)
+#: C/vanilla-terminal.xml:586(para)
 msgid ""
 "Press the <keycombo><keycap>Shift</keycap><keycap>Page Up</keycap></"
 "keycombo>, <keycombo><keycap>Shift</keycap><keycap>Page Down</keycap></"
@@ -961,7 +961,7 @@ msgstr ""
 "<keycombo><keycap>Shift</keycap><keycap>Home</keycap></keycombo>或 "
 "<keycombo><keycap>Shift</keycap><keycap>End</keycap></keycombo>组合键。"
 
-#: C/gnome-terminal.xml:590(para)
+#: C/vanilla-terminal.xml:590(para)
 msgid ""
 "The number of lines that you can scroll back to in the terminal window is "
 "determined by the <guilabel>Scrollback</guilabel> setting in the "
@@ -977,15 +977,15 @@ msgstr ""
 "向键</keycap></keycombo> 或 <keycombo><keycap>Control</keycap><keycap>Shift</"
 "keycap><keycap>下方向键</keycap></keycombo> 一次向上或向下滚动一行。"
 
-#: C/gnome-terminal.xml:595(term)
+#: C/vanilla-terminal.xml:595(term)
 msgid "To select and copy text:"
 msgstr "要选择和复制文本："
 
-#: C/gnome-terminal.xml:597(para)
+#: C/vanilla-terminal.xml:597(para)
 msgid "You can select text in any of the following ways:"
 msgstr "您可以通过如下任何方式选择文本："
 
-#: C/gnome-terminal.xml:602(para)
+#: C/vanilla-terminal.xml:602(para)
 msgid ""
 "To select a character at a time, click on the first character that you want "
 "to select and drag the mouse to the last character that you want to select."
@@ -993,7 +993,7 @@ msgstr ""
 "要一次选择连续字符，在您要选择的第一个字符上点击并且拖动鼠标到您要选择的最后"
 "一个字符。"
 
-#: C/gnome-terminal.xml:606(para)
+#: C/vanilla-terminal.xml:606(para)
 msgid ""
 "To select a word at a time, double-click on the first word that you want to "
 "select and drag the mouse to the last word that you want to select. Symbols "
@@ -1002,13 +1002,13 @@ msgstr ""
 "要以单词为单位选择，在您要选择的第一个单词上双击并且拖动鼠标到您要选择的最后"
 "一个单词。符号单独地被选择。"
 
-#: C/gnome-terminal.xml:610(para)
+#: C/vanilla-terminal.xml:610(para)
 msgid ""
 "To select a line at a time, triple-click on the first line that you want to "
 "select and drag the mouse to the last line that you want to select."
 msgstr "要以行为单位选择，在要选择的起始行三击并拖动鼠标到要选择的最后一行。"
 
-#: C/gnome-terminal.xml:614(para)
+#: C/vanilla-terminal.xml:614(para)
 msgid ""
 "These actions select all text between the first and last items. For all text "
 "selections, <application>GNOME Terminal</application> copies the selected "
@@ -1021,18 +1021,18 @@ msgstr ""
 "要明确的复制选中的文本，选择<menuchoice><guimenu>编辑</guimenu><guimenuitem>"
 "复制</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:619(term)
+#: C/vanilla-terminal.xml:619(term)
 msgid "To paste text into a terminal:"
 msgstr "要在终端中粘贴文本："
 
-#: C/gnome-terminal.xml:621(para)
+#: C/vanilla-terminal.xml:621(para)
 msgid ""
 "If you previously copied text to the clipboard, you can paste the text into "
 "a terminal by performing one of the following actions:"
 msgstr ""
 "如果您已经将一段文本复制到了剪切板，您可以执行如下动作将这段文本粘贴到终端："
 
-#: C/gnome-terminal.xml:625(para)
+#: C/vanilla-terminal.xml:625(para)
 msgid ""
 "To paste text that you copied by selection only, middle-click at the command "
 "prompt. If you do not have a middle mouse button, refer to the X Server "
@@ -1041,7 +1041,7 @@ msgstr ""
 "要粘贴您仅通过选择复制的文本，在命令提示符处点击中键。如果您的鼠标没有中键，"
 "查看 X Server 文档获取如何模拟一个鼠标中键的信息。"
 
-#: C/gnome-terminal.xml:629(para)
+#: C/vanilla-terminal.xml:629(para)
 msgid ""
 "To paste text that you explicitly copied, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Paste</guimenuitem></menuchoice>."
@@ -1049,11 +1049,11 @@ msgstr ""
 "要粘贴您明确复制的文本，选择<menuchoice><guimenu>编辑</guimenu><guimenuitem>"
 "粘贴</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:636(term)
+#: C/vanilla-terminal.xml:636(term)
 msgid "To drag a file name into a terminal window:"
 msgstr "要拖动一个文件名到终端窗口："
 
-#: C/gnome-terminal.xml:638(para)
+#: C/vanilla-terminal.xml:638(para)
 msgid ""
 "You can drag a file name to a terminal from another application such as a "
 "file manager. The terminal displays the path and the full name of the file."
@@ -1061,25 +1061,25 @@ msgstr ""
 "您可以从其它程序(如文件管理器)拖动一个文件名到终端。终端显示这个文件的路径和"
 "全名。"
 
-#: C/gnome-terminal.xml:643(term)
+#: C/vanilla-terminal.xml:643(term)
 msgid "To access a link:"
 msgstr "要进入一个链接："
 
-#: C/gnome-terminal.xml:645(para)
+#: C/vanilla-terminal.xml:645(para)
 msgid ""
 "To access a Uniform Resource Locator (URL) that is displayed in a terminal, "
 "perform the following steps:"
 msgstr "要进入一个在终端中显示的统一资源定位符(URL)，执行如下步骤："
 
-#: C/gnome-terminal.xml:649(para)
+#: C/vanilla-terminal.xml:649(para)
 msgid "Move the mouse over the URL until the URL is underlined."
 msgstr "移动鼠标到 URL，直到 URL 被下划线。"
 
-#: C/gnome-terminal.xml:653(para)
+#: C/vanilla-terminal.xml:653(para)
 msgid "Right-click on the URL to open a popup menu."
 msgstr "在 URL 上右键点击打开一个快捷菜单。"
 
-#: C/gnome-terminal.xml:657(para)
+#: C/vanilla-terminal.xml:657(para)
 msgid ""
 "Choose <guimenuitem>Open Link</guimenuitem> to start a link application and "
 "display the file located at the URL."
@@ -1087,11 +1087,11 @@ msgstr ""
 "选择 <guimenuitem>打开链接</guimenuitem>启动关联的应用程序并显示 URL 关联的文"
 "件。"
 
-#: C/gnome-terminal.xml:667(title)
+#: C/vanilla-terminal.xml:667(title)
 msgid "Viewing the Keyboard Shortcut Settings"
 msgstr "查看键盘快捷键设置"
 
-#: C/gnome-terminal.xml:668(para)
+#: C/vanilla-terminal.xml:668(para)
 msgid ""
 "To view the keyboard shortcut settings that are defined for "
 "<application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</"
@@ -1102,11 +1102,11 @@ msgstr ""
 "<menuchoice><guimenu>编辑</guimenu><guimenuitem>键盘快捷键</guimenuitem></"
 "menuchoice>。<guilabel>键盘快捷键</guilabel>对话框包含如下内容："
 
-#: C/gnome-terminal.xml:672(guilabel)
+#: C/vanilla-terminal.xml:672(guilabel)
 msgid "Disable all menu access keys (such as Alt+f to open File menu)"
 msgstr "禁用所有的打开菜单的快捷键 (例如 Alt+f 打开文件菜单)"
 
-#: C/gnome-terminal.xml:674(para)
+#: C/vanilla-terminal.xml:674(para)
 msgid ""
 "Deselect this option to disable the access keys that are defined to enable "
 "you to use the keyboard instead of the mouse to select a menu item. Each "
@@ -1118,11 +1118,11 @@ msgstr ""
 "通过在菜单那或对话框选项上的前边有个下划线的字母标明。某些情况下，需要同时按"
 "下<keycap>Alt</keycap>键和那个访问键来执行这个动作。"
 
-#: C/gnome-terminal.xml:679(guilabel)
+#: C/vanilla-terminal.xml:679(guilabel)
 msgid "Disable menu shortcut key (F10 by default)"
 msgstr "禁用菜单快捷键 (默认是 F10)"
 
-#: C/gnome-terminal.xml:681(para)
+#: C/vanilla-terminal.xml:681(para)
 msgid ""
 "Deselect this option to disable the shortcut key that is defined to enable "
 "you to access the <application>GNOME Terminal</application> menus. The "
@@ -1131,33 +1131,33 @@ msgstr ""
 "反选这个选项以禁用定义用于开启<application>GNOME 终端</application>菜单的快捷"
 "键。默认的开启菜单的快捷键是<keycap>F10</keycap>。"
 
-#: C/gnome-terminal.xml:686(guilabel)
+#: C/vanilla-terminal.xml:686(guilabel)
 msgid "Shortcut Keys"
 msgstr "快捷键"
 
-#: C/gnome-terminal.xml:688(para)
+#: C/vanilla-terminal.xml:688(para)
 msgid ""
 "The <guilabel>Shortcut Keys</guilabel> section of the dialog lists the "
 "shortcut keys that are defined for each menu item."
 msgstr ""
 "这个对话框的<guilabel>Shortcut Keys</guilabel>节列出了每个菜单条目的快捷键。"
 
-#: C/gnome-terminal.xml:690(para)
+#: C/vanilla-terminal.xml:690(para)
 msgid ""
 "Not all keys can be used as shortcut keys, such as <keycap>Tab</keycap>."
 msgstr "不是所有的键都能作为快捷键，例如<keycap>Tab</keycap>。"
 
-#: C/gnome-terminal.xml:697(title)
+#: C/vanilla-terminal.xml:697(title)
 msgid "Text Size"
 msgstr "字体大小"
 
-#: C/gnome-terminal.xml:698(para)
+#: C/vanilla-terminal.xml:698(para)
 msgid ""
 "You can use the following methods to resize the text in the GNOME Terminal "
 "window:"
 msgstr "您可以使用如下方法重新调整 GNOME 终端窗口中字体的大小："
 
-#: C/gnome-terminal.xml:700(para)
+#: C/vanilla-terminal.xml:700(para)
 msgid ""
 "To increase the size of the text, choose <menuchoice><guimenu>View</"
 "guimenu><guimenuitem>Zoom In</guimenuitem></menuchoice>."
@@ -1165,7 +1165,7 @@ msgstr ""
 "要增大字体的大小，选择 <menuchoice><guimenu>查看</guimenu><guimenuitem>放大</"
 "guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:702(para)
+#: C/vanilla-terminal.xml:702(para)
 msgid ""
 "To decrease the size of the text, choose <menuchoice><guimenu>View</"
 "guimenu><guimenuitem>Zoom Out</guimenuitem></menuchoice>."
@@ -1173,7 +1173,7 @@ msgstr ""
 "要减小字体的大小，选择 <menuchoice><guimenu>查看</guimenu><guimenuitem>缩小</"
 "guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:704(para)
+#: C/vanilla-terminal.xml:704(para)
 msgid ""
 "To view the text at actual size, choose <menuchoice><guimenu>View</"
 "guimenu><guimenuitem>Normal Size</guimenuitem></menuchoice>."
@@ -1181,17 +1181,17 @@ msgstr ""
 "要以实际大小查看文本，选择<menuchoice><guimenu>查看</guimenu><guimenuitem>普"
 "通大小</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:711(title)
+#: C/vanilla-terminal.xml:711(title)
 msgid "To Change the Terminal Title"
 msgstr "要更改终端标题"
 
-#: C/gnome-terminal.xml:712(para)
+#: C/vanilla-terminal.xml:712(para)
 msgid ""
 "To change the title of the currently displayed terminal, perform the "
 "following steps:"
 msgstr "要更改终端中当前显示的标题，执行如下步骤："
 
-#: C/gnome-terminal.xml:716(para)
+#: C/vanilla-terminal.xml:716(para)
 msgid ""
 "Choose <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Set Title</"
 "guimenuitem></menuchoice>."
@@ -1199,7 +1199,7 @@ msgstr ""
 "选择 <menuchoice><guimenu>终端</guimenu><guimenuitem>设置标题</guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:719(para)
+#: C/vanilla-terminal.xml:719(para)
 msgid ""
 "Type the new title in the <guilabel>Title</guilabel> text box. "
 "<application>GNOME Terminal</application> applies the change immediately."
@@ -1207,18 +1207,18 @@ msgstr ""
 "在<guilabel>标题</guilabel>文本框输入新的标题。<application>GNOME 终端</"
 "application>立即使用这个更改。"
 
-#: C/gnome-terminal.xml:722(para)
+#: C/vanilla-terminal.xml:722(para)
 msgid ""
 "Click <guibutton>Close</guibutton> to close the <guilabel>Set Title</"
 "guilabel> dialog."
 msgstr ""
 "点击<guibutton>关闭</guibutton>以关闭<guilabel>设置标题</guilabel>对话框。"
 
-#: C/gnome-terminal.xml:728(title)
+#: C/vanilla-terminal.xml:728(title)
 msgid "To Change the Character Encoding"
 msgstr "要更改字符编码"
 
-#: C/gnome-terminal.xml:729(para)
+#: C/vanilla-terminal.xml:729(para)
 msgid ""
 "To change the character encoding, choose <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Set Character Encoding</guisubmenu></menuchoice>, then "
@@ -1227,11 +1227,11 @@ msgstr ""
 "要更改字符编码，选择<menuchoice><guimenu>终端</guimenu><guisubmenu>设置字符编"
 "码</guisubmenu></menuchoice>，然后选择相应的编码。"
 
-#: C/gnome-terminal.xml:734(title)
+#: C/vanilla-terminal.xml:734(title)
 msgid "To Change the List of Character Encodings"
 msgstr "要更改字符编码列表"
 
-#: C/gnome-terminal.xml:735(para)
+#: C/vanilla-terminal.xml:735(para)
 msgid ""
 "To change the list of character encodings displayed in the <guisubmenu>Set "
 "Character Encoding</guisubmenu> menu, perform the following steps:"
@@ -1239,7 +1239,7 @@ msgstr ""
 "要更改<guisubmenu>设置字符编码</guisubmenu>菜单中显示的字符编码列表，执行如下"
 "步骤："
 
-#: C/gnome-terminal.xml:740(para)
+#: C/vanilla-terminal.xml:740(para)
 msgid ""
 "Choose <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Set Character "
 "Encoding</guisubmenu><guimenuitem>Add or Remove</guimenuitem></menuchoice>."
@@ -1247,7 +1247,7 @@ msgstr ""
 "选择 <menuchoice><guimenu>终端</guimenu><guisubmenu>设置字符编码</"
 "guisubmenu><guimenuitem>添加或删除</guimenuitem></menuchoice>。"
 
-#: C/gnome-terminal.xml:744(para)
+#: C/vanilla-terminal.xml:744(para)
 msgid ""
 "To add an encoding to the <guisubmenu>Set Character Encoding</guisubmenu> "
 "menu, select the encoding in the <guilabel>Available encodings</guilabel> "
@@ -1256,7 +1256,7 @@ msgstr ""
 "要向<guisubmenu>Set Character Encoding</guisubmenu>菜单中添加一个编码，在"
 "<guilabel>可用的编码</guilabel>列表框中选择这个编码，然后点击右向箭头按钮。"
 
-#: C/gnome-terminal.xml:748(para)
+#: C/vanilla-terminal.xml:748(para)
 msgid ""
 "To remove an encoding from the <guisubmenu>Set Character Encoding</"
 "guisubmenu> menu, select the encoding in the <guilabel>Encodings shown in "
@@ -1265,7 +1265,7 @@ msgstr ""
 "要从<guisubmenu>设置字符编码</guisubmenu>菜单中移除一个编码，在<guilabel>菜单"
 "中显示的编码</guilabel>列表框中选择这个编码，然后点击左向箭头按钮。"
 
-#: C/gnome-terminal.xml:752(para)
+#: C/vanilla-terminal.xml:752(para)
 msgid ""
 "Click <guibutton>Close</guibutton> to close the <guilabel>Add or Remove "
 "Terminal Encodings</guilabel> dialog."
@@ -1273,19 +1273,19 @@ msgstr ""
 "点击<guibutton>Close</guibutton>以关闭<guilabel>添加或删除终端编码</guilabel>"
 "对话框。"
 
-#: C/gnome-terminal.xml:760(title)
+#: C/vanilla-terminal.xml:760(title)
 msgid "To Recover Your Terminal"
 msgstr "要恢复您的终端"
 
-#: C/gnome-terminal.xml:761(para)
+#: C/vanilla-terminal.xml:761(para)
 msgid "This section provides some advice if you have problems with terminals."
 msgstr "如果您使用终端有问题，本节提供一些建议。"
 
-#: C/gnome-terminal.xml:766(term)
+#: C/vanilla-terminal.xml:766(term)
 msgid "To reset the state of the terminal:"
 msgstr "要复位终端的状态："
 
-#: C/gnome-terminal.xml:768(para)
+#: C/vanilla-terminal.xml:768(para)
 msgid ""
 "Choose <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Reset</"
 "guimenuitem></menuchoice>."
@@ -1293,11 +1293,11 @@ msgstr ""
 "选择<menuchoice><guimenu>终端</guimenu><guimenuitem>复位</guimenuitem></"
 "menuchoice>。"
 
-#: C/gnome-terminal.xml:776(term)
+#: C/vanilla-terminal.xml:776(term)
 msgid "To reset the terminal and clear the screen:"
 msgstr "要重置终端并清理屏幕："
 
-#: C/gnome-terminal.xml:778(para)
+#: C/vanilla-terminal.xml:778(para)
 msgid ""
 "Choose <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Reset and Clear</"
 "guimenuitem></menuchoice>."
@@ -1305,11 +1305,11 @@ msgstr ""
 "选择<menuchoice><guimenu>终端</guimenu><guimenuitem>复位并清屏</"
 "guimenuitem></menuchoice>"
 
-#: C/gnome-terminal.xml:790(title)
+#: C/vanilla-terminal.xml:790(title)
 msgid "Preferences"
 msgstr "首选项"
 
-#: C/gnome-terminal.xml:791(para)
+#: C/vanilla-terminal.xml:791(para)
 msgid ""
 "To configure <application>GNOME Terminal</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</"
@@ -1324,7 +1324,7 @@ msgstr ""
 "guimenuitem></menuchoice>，选择要编辑的配置文件，点击<guibutton>编辑</"
 "guibutton>。"
 
-#: C/gnome-terminal.xml:793(para)
+#: C/vanilla-terminal.xml:793(para)
 msgid ""
 "The <guilabel>Editing Profile</guilabel> dialog contains the following "
 "tabbed sections that you can use to configure <application>GNOME Terminal</"
@@ -1333,23 +1333,23 @@ msgstr ""
 "<guilabel>编辑配置文件</guilabel>对话框包含如下标签，您可以使用其配置"
 "<application>GNOME 终端</application>："
 
-#: C/gnome-terminal.xml:812(title)
+#: C/vanilla-terminal.xml:812(title)
 msgid "General"
 msgstr "常规"
 
-#: C/gnome-terminal.xml:816(guilabel)
+#: C/vanilla-terminal.xml:816(guilabel)
 msgid "Profile name"
 msgstr "配置文件名"
 
-#: C/gnome-terminal.xml:818(para)
+#: C/vanilla-terminal.xml:818(para)
 msgid "Use this text box to specify the name of the current profile."
 msgstr "使用这个文本框指定当前配置文件的名字。"
 
-#: C/gnome-terminal.xml:825(guilabel)
+#: C/vanilla-terminal.xml:825(guilabel)
 msgid "Use the system fixed width font"
 msgstr "使用系统等宽字体"
 
-#: C/gnome-terminal.xml:827(para)
+#: C/vanilla-terminal.xml:827(para)
 msgid ""
 "Select this option to use the standard fixed width font that is specified in "
 "the <guilabel>Font</guilabel> tab of the <application>Appearance</"
@@ -1358,11 +1358,11 @@ msgstr ""
 "选择这项使用标准等宽字体，其是在<application>外观</application>首选项工具的"
 "<guilabel>字体</guilabel>标签中指定的。"
 
-#: C/gnome-terminal.xml:834(guilabel)
+#: C/vanilla-terminal.xml:834(guilabel)
 msgid "Font"
 msgstr "字体"
 
-#: C/gnome-terminal.xml:836(para)
+#: C/vanilla-terminal.xml:836(para)
 msgid ""
 "Click on this button to select a font type and font size for the terminal. "
 "This button is only enabled if the <guilabel>Use the system terminal font</"
@@ -1371,54 +1371,54 @@ msgstr ""
 "点击这个按钮来为终端选择一个字体类型和字体大小。这个按钮只有在 <guilabel>使用"
 "系统终端字体</guilabel>选项没有被选择时才被启用。"
 
-#: C/gnome-terminal.xml:842(guilabel)
+#: C/vanilla-terminal.xml:842(guilabel)
 msgid "Allow bold text"
 msgstr "允许粗体字"
 
-#: C/gnome-terminal.xml:844(para)
+#: C/vanilla-terminal.xml:844(para)
 msgid "Select this option to enable the terminal to display bold text."
 msgstr "选择这项使终端显示粗体字。"
 
-#: C/gnome-terminal.xml:851(guilabel)
+#: C/vanilla-terminal.xml:851(guilabel)
 msgid "Show menubar by default in new terminals"
 msgstr "在新终端中默认显示菜单栏"
 
-#: C/gnome-terminal.xml:854(para)
+#: C/vanilla-terminal.xml:854(para)
 msgid "Select this option to show the menubar on new terminal windows."
 msgstr "选择这项在新终端窗口中显示菜单栏。"
 
-#: C/gnome-terminal.xml:861(guilabel)
+#: C/vanilla-terminal.xml:861(guilabel)
 msgid "Terminal bell"
 msgstr "终端响铃"
 
-#: C/gnome-terminal.xml:863(para)
+#: C/vanilla-terminal.xml:863(para)
 msgid "Select this option to enable the terminal bell."
 msgstr "选择这项启用终端响铃"
 
-#: C/gnome-terminal.xml:870(guilabel)
+#: C/vanilla-terminal.xml:870(guilabel)
 msgid "Select-by-word characters"
 msgstr "选择单词的标识字符"
 
-#: C/gnome-terminal.xml:872(para)
+#: C/vanilla-terminal.xml:872(para)
 msgid ""
 "Use this text box to specify characters or groups of characters that "
 "<application>GNOME Terminal</application> considers to be words when you "
-"select text by word. See <xref linkend=\"gnome-terminal-contents\"/> for "
+"select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
 "使用这个文本框指定在您按单词为单位选择文本时<application>GNOME 终端</"
-"application>认为是单词的字符或字符组。参看<xref linkend=\"gnome-terminal-"
+"application>认为是单词的字符或字符组。参看<xref linkend=\"vanilla-terminal-"
 "contents\"/>获取更多关于怎样以单词为单位选择文本的信息。"
 
-#: C/gnome-terminal.xml:881(title)
+#: C/vanilla-terminal.xml:881(title)
 msgid "Title and Command"
 msgstr "标题和命令"
 
-#: C/gnome-terminal.xml:885(guilabel)
+#: C/vanilla-terminal.xml:885(guilabel)
 msgid "Initial title"
 msgstr "初始标题"
 
-#: C/gnome-terminal.xml:887(para)
+#: C/vanilla-terminal.xml:887(para)
 msgid ""
 "Use this text box to specify the initial title of terminals that use the "
 "profile. New terminals that are started from the current terminal have the "
@@ -1427,22 +1427,22 @@ msgstr ""
 "使用这个文本框指定使用这个配置文件的终端的初始标题。从当前终端启动的新终端使"
 "用这个新初始标题。"
 
-#: C/gnome-terminal.xml:894(guilabel)
+#: C/vanilla-terminal.xml:894(guilabel)
 msgid "When terminal commands set their own titles"
 msgstr "终端命令设置其自己的标题时"
 
-#: C/gnome-terminal.xml:896(para)
+#: C/vanilla-terminal.xml:896(para)
 msgid ""
 "Use this drop-down list to specify how to handle dynamically-set titles, "
 "that is, terminal titles set by commands that run in the terminal."
 msgstr ""
 "使用下拉菜单指定怎样处理动态设置的标题，即，终端标题由其中运行的命令设置。"
 
-#: C/gnome-terminal.xml:903(guilabel)
+#: C/vanilla-terminal.xml:903(guilabel)
 msgid "Run command as a login shell"
 msgstr "以登录 shell 方式运行命令"
 
-#: C/gnome-terminal.xml:905(para)
+#: C/vanilla-terminal.xml:905(para)
 msgid ""
 "Select this option to force the command that currently runs inside the "
 "terminal to run as a login shell. If the command is not a shell, the setting "
@@ -1451,21 +1451,21 @@ msgstr ""
 "选择这项强迫当前运行在终端中的命令按照登录 shell 方式运行。如果这个命令不是 "
 "shell，这项设置无效。"
 
-#: C/gnome-terminal.xml:912(guilabel)
+#: C/vanilla-terminal.xml:912(guilabel)
 msgid "Update login records when command is launched"
 msgstr "运行命令时更新登录记录"
 
-#: C/gnome-terminal.xml:914(para)
+#: C/vanilla-terminal.xml:914(para)
 msgid ""
 "Select this option to insert a new entry in the login records when a new "
 "shell is opened."
 msgstr "选择这项在一个新 shell 打开时在登录记录中插入一个新条目。"
 
-#: C/gnome-terminal.xml:921(guilabel)
+#: C/vanilla-terminal.xml:921(guilabel)
 msgid "Run a custom command instead of my shell"
 msgstr "运行自定义命令而不是 Shell"
 
-#: C/gnome-terminal.xml:924(para)
+#: C/vanilla-terminal.xml:924(para)
 msgid ""
 "Select this option to run a specified command, other than the normal shell, "
 "in the terminal. Specify the custom command in the <guilabel>Custom command</"
@@ -1474,25 +1474,25 @@ msgstr ""
 "选择这项以在终端中运行指定命令而不是通常的 shell。在 <guilabel>自定义命令</"
 "guilabel>文本框中指定自定义命令。"
 
-#: C/gnome-terminal.xml:931(guilabel)
+#: C/vanilla-terminal.xml:931(guilabel)
 msgid "When command exits"
 msgstr "在命令退出时"
 
-#: C/gnome-terminal.xml:933(para)
+#: C/vanilla-terminal.xml:933(para)
 msgid ""
 "Use this drop-down list to specify what action to perform when the command "
 "exits."
 msgstr "使用下拉菜单指定命令退出时执行的动作。"
 
-#: C/gnome-terminal.xml:941(title)
+#: C/vanilla-terminal.xml:941(title)
 msgid "Colours"
 msgstr "颜色"
 
-#: C/gnome-terminal.xml:945(guilabel)
+#: C/vanilla-terminal.xml:945(guilabel)
 msgid "Foreground and Background"
 msgstr "前景和背景"
 
-#: C/gnome-terminal.xml:948(para)
+#: C/vanilla-terminal.xml:948(para)
 msgid ""
 "Select the <guilabel>Use colours from system theme</guilabel> option to use "
 "the colors that are specified in the GNOME Desktop theme that is selected in "
@@ -1505,7 +1505,7 @@ msgstr ""
 "\"><application>外观</application>首选项工具</ulink>的<guilabel>主题</"
 "guilabel>标签选择的。"
 
-#: C/gnome-terminal.xml:951(para)
+#: C/vanilla-terminal.xml:951(para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the "
 "foreground and background colors for the terminal. <application>GNOME "
@@ -1515,37 +1515,37 @@ msgstr ""
 "使用<guilabel>内置方案</guilabel>下拉菜单为终端指定前景色和背景色。"
 "<application>GNOME 终端</application>支持如下前景色和背景色组合："
 
-#: C/gnome-terminal.xml:957(guilabel)
+#: C/vanilla-terminal.xml:957(guilabel)
 msgid "Black on light yellow"
 msgstr "黑字浅黄背景"
 
-#: C/gnome-terminal.xml:962(guilabel)
+#: C/vanilla-terminal.xml:962(guilabel)
 msgid "Black on white"
 msgstr "白底黑字"
 
-#: C/gnome-terminal.xml:967(guilabel)
+#: C/vanilla-terminal.xml:967(guilabel)
 msgid "Gray on black"
 msgstr "灰字黑底"
 
-#: C/gnome-terminal.xml:972(guilabel)
+#: C/vanilla-terminal.xml:972(guilabel)
 msgid "Green on black"
 msgstr "绿字黑底"
 
-#: C/gnome-terminal.xml:977(guilabel)
+#: C/vanilla-terminal.xml:977(guilabel)
 msgid "White on black"
 msgstr "白字黑底"
 
-#: C/gnome-terminal.xml:982(guilabel)
+#: C/vanilla-terminal.xml:982(guilabel)
 msgid "Custom"
 msgstr "自定义"
 
-#: C/gnome-terminal.xml:984(para)
+#: C/vanilla-terminal.xml:984(para)
 msgid ""
 "This option enables you to select colors that are not in the selected color "
 "scheme."
 msgstr "这个选项是您可以选择在已选的配色方案中没有的颜色。"
 
-#: C/gnome-terminal.xml:989(para)
+#: C/vanilla-terminal.xml:989(para)
 msgid ""
 "The actual display of the foreground and background colors can vary "
 "depending on the color scheme that you choose. For example, if you choose "
@@ -1560,7 +1560,7 @@ msgstr ""
 "序将显示前景色和背景色为黑底量灰色前景。<guilabel>内置方案</guilabel>下拉菜单"
 "只有在 <guilabel>使用系统主题中的颜色</guilabel> 未被选中时才启用。"
 
-#: C/gnome-terminal.xml:992(para)
+#: C/vanilla-terminal.xml:992(para)
 msgid ""
 "Click on the <guibutton>Text colour</guibutton> button to display the "
 "<guilabel>Choose terminal text colour</guilabel> dialog. Use the color wheel "
@@ -1574,7 +1574,7 @@ msgstr ""
 "<guibutton>确定</guibutton>。<guibutton>文本颜色</guibutton>按钮只有在"
 "<guilabel>使用系统主题中的颜色</guilabel>选项没有选中时才被启用。"
 
-#: C/gnome-terminal.xml:995(para)
+#: C/vanilla-terminal.xml:995(para)
 msgid ""
 "Click on the <guibutton>Background colour</guibutton> button to display the "
 "<guilabel>Choose terminal background colour</guilabel> dialog. Use the color "
@@ -1588,11 +1588,11 @@ msgstr ""
 "确定</guibutton>。<guibutton>背景颜色</guibutton>按钮只有在<guilabel>使用系统"
 "主题颜色</guilabel>选项没有被选中时才启用。"
 
-#: C/gnome-terminal.xml:1002(guilabel)
+#: C/vanilla-terminal.xml:1002(guilabel)
 msgid "Palette"
 msgstr "调色板"
 
-#: C/gnome-terminal.xml:1004(para)
+#: C/vanilla-terminal.xml:1004(para)
 msgid ""
 "The terminal emulation can only use 16 colors at a time to draw text. The "
 "color palette specifies these 16 colors. Applications that run in the "
@@ -1601,7 +1601,7 @@ msgstr ""
 "终端模拟器只能同时使用 16 种颜色绘制文本。调色板指定了这 16 种颜色。终端中运"
 "行的程序使用一个索引数字来从调色板中指定颜色。"
 
-#: C/gnome-terminal.xml:1006(para)
+#: C/vanilla-terminal.xml:1006(para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to choose a "
 "preset color schemes. The color palette below and the contents of the "
@@ -1610,7 +1610,7 @@ msgstr ""
 "使用<guilabel>内置方案</guilabel>下拉菜单选择预设的颜色方案。下边的调色板和终"
 "端窗口中的内容同时更新以显示这种方案。"
 
-#: C/gnome-terminal.xml:1007(para)
+#: C/vanilla-terminal.xml:1007(para)
 msgid ""
 "Use the <guilabel>Colour palette</guilabel> to customize the 16 default "
 "colors in the custom color palette. To customize a color, click on the color "
@@ -1622,24 +1622,24 @@ msgstr ""
 "定义一种颜色，在这种颜色上点击，以显示<guilabel>调色板颜色</guilabel>对话框。"
 "使用色轮或自旋框来自定义颜色，然后点击<guibutton>确定</guibutton>。"
 
-#: C/gnome-terminal.xml:1014(title)
+#: C/vanilla-terminal.xml:1014(title)
 msgid "Effects"
 msgstr "效果"
 
-#: C/gnome-terminal.xml:1018(guilabel)
+#: C/vanilla-terminal.xml:1018(guilabel)
 msgid "Background"
 msgstr "背景"
 
-#: C/gnome-terminal.xml:1020(para)
+#: C/vanilla-terminal.xml:1020(para)
 msgid ""
 "Select a background for the terminal window. The options are as follows:"
 msgstr "为终端窗口设置背景。有如下选项："
 
-#: C/gnome-terminal.xml:1026(guilabel)
+#: C/vanilla-terminal.xml:1026(guilabel)
 msgid "Solid color"
 msgstr "纯色"
 
-#: C/gnome-terminal.xml:1028(para)
+#: C/vanilla-terminal.xml:1028(para)
 msgid ""
 "Select this option to use the background color that is specified in the "
 "<guilabel>Colors</guilabel> tabbed section as the background color for the "
@@ -1648,11 +1648,11 @@ msgstr ""
 "选择此项使用在<guilabel>颜色</guilabel>标签中指定的背景颜色作为终端的背景颜"
 "色。"
 
-#: C/gnome-terminal.xml:1034(guilabel)
+#: C/vanilla-terminal.xml:1034(guilabel)
 msgid "Background image"
 msgstr "背景图片"
 
-#: C/gnome-terminal.xml:1036(para)
+#: C/vanilla-terminal.xml:1036(para)
 msgid ""
 "Select this option to use an image file as the background for the terminal. "
 "Use the <guilabel>Image file</guilabel> drop-down combination box to specify "
@@ -1663,7 +1663,7 @@ msgstr ""
 "合框来指定图像文件的位置和名字。或者，点击<guibutton>浏览</guibutton>来寻找和"
 "选择图像文件。"
 
-#: C/gnome-terminal.xml:1039(para)
+#: C/vanilla-terminal.xml:1039(para)
 msgid ""
 "Select the <guilabel>Background image scrolls</guilabel> option to enable "
 "the background image to scroll with the text when you scroll through the "
@@ -1675,19 +1675,19 @@ msgstr ""
 "随文本滚动。如果没有选择这项，背景图片固定在终端背景上，只有文字滚动。这项只"
 "有在您选择了<guilabel>背景图像</guilabel>选项时才可用。"
 
-#: C/gnome-terminal.xml:1043(guilabel)
+#: C/vanilla-terminal.xml:1043(guilabel)
 msgid "Transparent background"
 msgstr "透明背景"
 
-#: C/gnome-terminal.xml:1045(para)
+#: C/vanilla-terminal.xml:1045(para)
 msgid "Select this option to use a transparent background for the terminal."
 msgstr "选择这个选项在终端中使用透明背景。"
 
-#: C/gnome-terminal.xml:1054(guilabel)
+#: C/vanilla-terminal.xml:1054(guilabel)
 msgid "Shade transparent or image background"
 msgstr "加深图像或透明背景"
 
-#: C/gnome-terminal.xml:1057(para)
+#: C/vanilla-terminal.xml:1057(para)
 msgid ""
 "Use this slider to shade or dim the background of the terminal. This option "
 "is only enabled if you select the <guilabel>Background image</guilabel> or "
@@ -1696,25 +1696,25 @@ msgstr ""
 "使用这个滑块加深或减淡终端的背景。这个选项只有在您选择了<guilabel>背景图像</"
 "guilabel>或<guilabel>透明背景</guilabel>选项时才可用。"
 
-#: C/gnome-terminal.xml:1066(title)
+#: C/vanilla-terminal.xml:1066(title)
 msgid "Scrolling"
 msgstr "滚动"
 
-#: C/gnome-terminal.xml:1070(guilabel)
+#: C/vanilla-terminal.xml:1070(guilabel)
 msgid "Scrollbar is"
 msgstr "滚动条"
 
-#: C/gnome-terminal.xml:1072(para)
+#: C/vanilla-terminal.xml:1072(para)
 msgid ""
 "Use this drop-down list to specify the position of the scrollbar on the "
 "terminal window."
 msgstr "使用这个下拉菜单指定终端窗口的滚动条位置。"
 
-#: C/gnome-terminal.xml:1079(guilabel)
+#: C/vanilla-terminal.xml:1079(guilabel)
 msgid "Scrollback ... lines"
 msgstr "回滚 ... 行"
 
-#: C/gnome-terminal.xml:1081(para)
+#: C/vanilla-terminal.xml:1081(para)
 msgid ""
 "Use this spin box to specify the number of lines that you can scroll back "
 "using the scrollbar. For example, if you specify 100 you can scroll back the "
@@ -1723,22 +1723,22 @@ msgstr ""
 "使用这个自旋框指定可以使用滚动条回滚的行数。例如，如果您指定可以回滚 100 行，"
 "在终端上显示最后 100 行。"
 
-#: C/gnome-terminal.xml:1088(guilabel)
+#: C/vanilla-terminal.xml:1088(guilabel)
 msgid "Scroll on output"
 msgstr "输出时滚动"
 
-#: C/gnome-terminal.xml:1090(para)
+#: C/vanilla-terminal.xml:1090(para)
 msgid ""
 "Select this option to enable you to scroll the output on the terminal while "
 "the terminal continues to display more output from a command."
 msgstr ""
 "选择这个选项使您在终端从一个命令继续显示更多的输出时可以滚动在终端的输出。"
 
-#: C/gnome-terminal.xml:1097(guilabel)
+#: C/vanilla-terminal.xml:1097(guilabel)
 msgid "Scroll on keystroke"
 msgstr "击键时滚动"
 
-#: C/gnome-terminal.xml:1099(para)
+#: C/vanilla-terminal.xml:1099(para)
 msgid ""
 "Select this option to enable you to press any key on the keyboard to scroll "
 "down the terminal window to the command prompt. This action only applies if "
@@ -1748,41 +1748,41 @@ msgstr ""
 "选择这项允许您按下任何键来滚动终端窗口至命令提示符。这个动作只在您向上滚动终"
 "端窗口并且想回到命令提示符时可用。"
 
-#: C/gnome-terminal.xml:1108(title)
+#: C/vanilla-terminal.xml:1108(title)
 msgid "Compatibility"
 msgstr "兼容性"
 
-#: C/gnome-terminal.xml:1112(guilabel)
+#: C/vanilla-terminal.xml:1112(guilabel)
 msgid "Backspace key generates"
 msgstr "按退格键产生"
 
-#: C/gnome-terminal.xml:1114(para)
+#: C/vanilla-terminal.xml:1114(para)
 msgid ""
 "Use the drop-down list to select the function that you want the "
 "<keycap>Backspace</keycap> key to perform."
 msgstr "使用下拉菜单选择您希望<keycap>退格键</keycap>键执行的功能。"
 
-#: C/gnome-terminal.xml:1121(guilabel)
+#: C/vanilla-terminal.xml:1121(guilabel)
 msgid "Delete key generates"
 msgstr "按 Delete 键时产生"
 
-#: C/gnome-terminal.xml:1123(para)
+#: C/vanilla-terminal.xml:1123(para)
 msgid ""
 "Use the drop-down list to select the function that you want the "
 "<keycap>Delete</keycap> key to perform."
 msgstr "使用下拉菜单选择您希望<keycap>Delete</keycap>键执行的功能。"
 
-#: C/gnome-terminal.xml:1130(guibutton)
+#: C/vanilla-terminal.xml:1130(guibutton)
 msgid "Reset compatibility options to defaults"
 msgstr "重设兼容性选项为默认值"
 
-#: C/gnome-terminal.xml:1132(para)
+#: C/vanilla-terminal.xml:1132(para)
 msgid ""
 "Click on this button to reset the options on the <guilabel>Compatibility</"
 "guilabel> tabbed section to the default settings."
 msgstr "点击这个按钮重设<guilabel>兼容性</guilabel>标签选项中的选项为默认值。"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
-#: C/gnome-terminal.xml:0(None)
+#: C/vanilla-terminal.xml:0(None)
 msgid "translator-credits"
 msgstr "YunQiang Su <wzssyqa@gmail.com>, 2009"

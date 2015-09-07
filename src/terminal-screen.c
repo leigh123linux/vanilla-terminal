@@ -2,12 +2,12 @@
  * Copyright © 2001 Havoc Pennington
  * Copyright © 2007, 2008, 2010 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -1390,7 +1390,7 @@ get_child_environment (TerminalScreen *screen,
 
   g_hash_table_remove (env_table, "COLUMNS");
   g_hash_table_remove (env_table, "LINES");
-  g_hash_table_remove (env_table, "GNOME_DESKTOP_ICON");
+  g_hash_table_remove (env_table, "DESKTOP_ICON");
   
   g_hash_table_replace (env_table, g_strdup ("COLORTERM"), g_strdup (EXECUTABLE_NAME));
   

@@ -1,19 +1,5 @@
 
-This is the GNOME terminal emulator application.  gnome-terminal is
-only the shell (menubar, prefs dialog); the terminal emulation ("stuff
-in the middle") comes from the VTE widget. Remember this when 
-choosing a bugzilla component. ;-)
+Vanilla terminal is derived from gnome-terminal 3.6.2.2.
 
-How it works
-===
+Its goal is to provide a terminal application that isn't dependent on any particular desktop environment and that can be used as default in many of them.
 
-Profiles - 
-  all settings are stored in profiles. prefs dialog edits the current
-  profile
-
-Session - 
-  just the number of open windows/tabs and their profile is stored
-  per-session
- 
-Command line options - 
-  do not overlap things that are preferences

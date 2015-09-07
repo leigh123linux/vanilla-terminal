@@ -2,12 +2,12 @@
  * Copyright © 2002 Red Hat, Inc.
  * Copyright © 2008 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -314,7 +314,7 @@ response_callback (GtkWidget *window,
                    EncodingDialogData *data)
 {
   if (id == GTK_RESPONSE_HELP)
-    terminal_util_show_help ("gnome-terminal-encoding-add", GTK_WINDOW (window));
+    terminal_util_show_help ("vanilla-terminal-encoding-add", GTK_WINDOW (window));
   else
     gtk_widget_destroy (GTK_WIDGET (window));
 }
@@ -486,7 +486,7 @@ terminal_encoding_dialog_show (GtkWindow *transient_parent)
   g_object_set_data_full (G_OBJECT (data->dialog), "GT::Data", data, (GDestroyNotify) encoding_dialog_data_free);
 
   gtk_window_set_transient_for (GTK_WINDOW (data->dialog), transient_parent);
-  gtk_window_set_role (GTK_WINDOW (data->dialog), "gnome-terminal-encodings");
+  gtk_window_set_role (GTK_WINDOW (data->dialog), "vanilla-terminal-encodings");
   g_signal_connect (data->dialog, "response",
                     G_CALLBACK (response_callback), data);
 

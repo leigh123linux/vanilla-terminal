@@ -1,11 +1,11 @@
 [encoding: UTF-8]
 # List of source files containing translatable strings.
 # Please keep this file sorted alphabetically.
-gnome-terminal.desktop.in.in
+vanilla-terminal.desktop.in.in
 src/eggsmclient.c
 src/encodings-dialog.glade
 src/find-dialog.glade
-src/gnome-terminal.schemas.in
+src/vanilla-terminal.schemas.in
 src/keybinding-editor.glade
 src/profile-editor.c
 src/profile-manager.glade

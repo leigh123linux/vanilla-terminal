@@ -3,12 +3,12 @@
  * Copyright © 2002 Mathias Hasselmann
  * Copyright © 2008 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -567,7 +567,7 @@ editor_response_cb (GtkWidget *editor,
 {  
   if (response == GTK_RESPONSE_HELP)
     {
-      terminal_util_show_help ("gnome-terminal-prefs", GTK_WINDOW (editor));
+      terminal_util_show_help ("vanilla-terminal-prefs", GTK_WINDOW (editor));
       return;
     }
     
@@ -598,9 +598,9 @@ create_preview_pixbuf (const gchar *filename)
 
   if (mime_type != NULL)
     {
-      thumbs = gnome_thumbnail_factory_new (GNOME_THUMBNAIL_SIZE_NORMAL);
+      thumbs = vanilla_thumbnail_factory_new (THUMBNAIL_SIZE_NORMAL);
 
-      pixbuf = gnome_thumbnail_factory_generate_thumbnail (thumbs,
+      pixbuf = vanilla_thumbnail_factory_generate_thumbnail (thumbs,
                                                            filename,
                                                            mime_type);
       g_object_unref (thumbs);

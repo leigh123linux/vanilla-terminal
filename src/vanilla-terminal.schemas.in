@@ -8,26 +8,26 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/profile_list</key>
-      <applyto>/apps/gnome-terminal/global/profile_list</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/profile_list</key>
+      <applyto>/apps/vanilla-terminal/global/profile_list</applyto>
+      <owner>vanilla-terminal</owner>
       <type>list</type>
       <list_type>string</list_type>
       <default>[Default]</default>
       <locale name="C">
          <short>List of profiles</short>
          <long>
-           List of profiles known to gnome-terminal. The list contains 
+           List of profiles known to vanilla-terminal. The list contains 
            strings naming subdirectories relative to
-          /apps/gnome-terminal/profiles.
+          /apps/vanilla-terminal/profiles.
          </long>
       </locale>
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/default_profile</key>
-      <applyto>/apps/gnome-terminal/global/default_profile</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/default_profile</key>
+      <applyto>/apps/vanilla-terminal/global/default_profile</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>Default</default>
       <locale name="C">
@@ -40,9 +40,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/use_mnemonics</key>
-      <applyto>/apps/gnome-terminal/global/use_mnemonics</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/use_mnemonics</key>
+      <applyto>/apps/vanilla-terminal/global/use_mnemonics</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -56,9 +56,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/use_menu_accelerators</key>
-      <applyto>/apps/gnome-terminal/global/use_menu_accelerators</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/use_menu_accelerators</key>
+      <applyto>/apps/vanilla-terminal/global/use_menu_accelerators</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -74,9 +74,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/active_encodings</key>
-      <applyto>/apps/gnome-terminal/global/active_encodings</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/active_encodings</key>
+      <applyto>/apps/vanilla-terminal/global/active_encodings</applyto>
+      <owner>vanilla-terminal</owner>
       <type>list</type>
       <list_type>string</list_type>
       <locale name="C">
@@ -97,9 +97,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/global/confirm_window_close</key>
-      <applyto>/apps/gnome-terminal/global/confirm_window_close</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/global/confirm_window_close</key>
+      <applyto>/apps/vanilla-terminal/global/confirm_window_close</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -120,9 +120,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/visible_name</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/visible_name</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/visible_name</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/visible_name</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <default>Default</default>
@@ -134,9 +134,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/default_show_menubar</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/default_show_menubar</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/default_show_menubar</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/default_show_menubar</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -149,9 +149,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/foreground_color</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/foreground_color</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/foreground_color</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/foreground_color</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>#000000</default>
       <locale name="C">
@@ -165,9 +165,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/background_color</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/background_color</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/background_color</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/background_color</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>#FFFFDD</default>
       <locale name="C">
@@ -181,9 +181,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/bold_color</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/bold_color</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/bold_color</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/bold_color</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>#000000</default>
       <locale name="C">
@@ -198,9 +198,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/bold_color_same_as_fg</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/bold_color_same_as_fg</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/bold_color_same_as_fg</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/bold_color_same_as_fg</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -213,9 +213,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/title_mode</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/title_mode</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/title_mode</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/title_mode</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>replace</default>
       <locale name="C">
@@ -232,9 +232,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/title</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/title</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/title</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/title</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
 	<default>Terminal</default>
@@ -249,9 +249,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/allow_bold</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/allow_bold</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/allow_bold</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/allow_bold</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -264,9 +264,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/silent_bell</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/silent_bell</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/silent_bell</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/silent_bell</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -279,9 +279,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/word_chars</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/word_chars</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/word_chars</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/word_chars</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>-A-Za-z0-9,./?%&amp;#:_=+@~</default>
       <locale name="C">
@@ -296,9 +296,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/use_custom_default_size</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/use_custom_default_size</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/use_custom_default_size</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/use_custom_default_size</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -310,9 +310,9 @@
       </locale>
     </schema>
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/default_size_columns</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/default_size_columns</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/default_size_columns</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/default_size_columns</applyto>
+      <owner>vanilla-terminal</owner>
       <type>int</type>
       <default>80</default>
       <locale name="C">
@@ -325,9 +325,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/default_size_rows</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/default_size_rows</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/default_size_rows</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/default_size_rows</applyto>
+      <owner>vanilla-terminal</owner>
       <type>int</type>
       <default>24</default>
       <locale name="C">
@@ -340,9 +340,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scrollbar_position</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scrollbar_position</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scrollbar_position</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scrollbar_position</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>right</default>
       <locale name="C">
@@ -355,9 +355,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scrollback_lines</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scrollback_lines</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scrollback_lines</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scrollback_lines</applyto>
+      <owner>vanilla-terminal</owner>
       <type>int</type>
       <default>512</default>
       <locale name="C">
@@ -372,9 +372,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scrollback_unlimited</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scrollback_unlimited</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scrollback_unlimited</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scrollback_unlimited</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -389,9 +389,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scroll_on_keystroke</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scroll_on_keystroke</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scroll_on_keystroke</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scroll_on_keystroke</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -403,9 +403,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scroll_on_output</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scroll_on_output</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scroll_on_output</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scroll_on_output</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -418,9 +418,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/exit_action</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/exit_action</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/exit_action</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/exit_action</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>close</default>
       <locale name="C">
@@ -433,9 +433,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/login_shell</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/login_shell</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/login_shell</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/login_shell</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -448,9 +448,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/update_records</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/update_records</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/update_records</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/update_records</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -463,9 +463,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/use_custom_command</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/use_custom_command</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/use_custom_command</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/use_custom_command</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>false</default>
       <locale name="C">
@@ -478,9 +478,9 @@
     </schema>
 
      <schema>
-       <key>/schemas/apps/gnome-terminal/profiles/Default/cursor_blink_mode</key>
-       <applyto>/apps/gnome-terminal/profiles/Default/cursor_blink_mode</applyto>
-       <owner>gnome-terminal</owner>
+       <key>/schemas/apps/vanilla-terminal/profiles/Default/cursor_blink_mode</key>
+       <applyto>/apps/vanilla-terminal/profiles/Default/cursor_blink_mode</applyto>
+       <owner>vanilla-terminal</owner>
        <type>string</type>
        <default>system</default>
        <locale name="C">
@@ -493,9 +493,9 @@
      </schema>
     
      <schema>
-       <key>/schemas/apps/gnome-terminal/profiles/Default/cursor_shape</key>
-       <applyto>/apps/gnome-terminal/profiles/Default/cursor_shape</applyto>
-       <owner>gnome-terminal</owner>
+       <key>/schemas/apps/vanilla-terminal/profiles/Default/cursor_shape</key>
+       <applyto>/apps/vanilla-terminal/profiles/Default/cursor_shape</applyto>
+       <owner>vanilla-terminal</owner>
        <type>string</type>
        <default>block</default>
        <locale name="C">
@@ -508,9 +508,9 @@
      </schema>
     
      <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/custom_command</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/custom_command</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/custom_command</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/custom_command</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default></default>
       <locale name="C">
@@ -523,9 +523,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/icon</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/icon</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/icon</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/icon</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default></default>
       <locale name="C">
@@ -537,9 +537,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/palette</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/palette</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/palette</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/palette</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>#2E2E34343636:#CCCC00000000:#4E4E9A9A0606:#C4C4A0A00000:#34346565A4A4:#757550507B7B:#060698209A9A:#D3D3D7D7CFCF:#555557575353:#EFEF29292929:#8A8AE2E23434:#FCFCE9E94F4F:#72729F9FCFCF:#ADAD7F7FA8A8:#3434E2E2E2E2:#EEEEEEEEECEC</default>
       <locale name="C">
@@ -554,9 +554,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/font</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/font</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/font</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/font</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>Monospace 12</default>
       <locale name="C">
@@ -568,9 +568,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/background_type</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/background_type</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/background_type</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/background_type</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>transparent</default>
       <locale name="C">
@@ -585,9 +585,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/background_image</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/background_image</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/background_image</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/background_image</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default></default>
       <locale name="C">
@@ -599,9 +599,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/scroll_background</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/scroll_background</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/scroll_background</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/scroll_background</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -615,9 +615,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/background_darkness</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/background_darkness</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/background_darkness</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/background_darkness</applyto>
+      <owner>vanilla-terminal</owner>
       <type>float</type>
       <default>0.95</default>
       <locale name="C">
@@ -633,9 +633,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/backspace_binding</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/backspace_binding</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/backspace_binding</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/backspace_binding</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>ascii-del</default>
       <locale name="C">
@@ -653,9 +653,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/delete_binding</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/delete_binding</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/delete_binding</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/delete_binding</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>escape-sequence</default>
       <locale name="C">
@@ -673,9 +673,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/use_theme_colors</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/use_theme_colors</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/use_theme_colors</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/use_theme_colors</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -688,9 +688,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/use_system_font</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/use_system_font</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/use_system_font</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/use_system_font</applyto>
+      <owner>vanilla-terminal</owner>
       <type>bool</type>
       <default>true</default>
       <locale name="C">
@@ -704,9 +704,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/profiles/Default/encoding</key>
-      <applyto>/apps/gnome-terminal/profiles/Default/encoding</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/profiles/Default/encoding</key>
+      <applyto>/apps/vanilla-terminal/profiles/Default/encoding</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <default>current</default>
@@ -721,9 +721,9 @@
     <!-- Keybindings -->
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/new_tab</key>
-      <applyto>/apps/gnome-terminal/keybindings/new_tab</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/new_tab</key>
+      <applyto>/apps/vanilla-terminal/keybindings/new_tab</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;t</default>
       <locale name="C">
@@ -738,9 +738,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/new_window</key>
-      <applyto>/apps/gnome-terminal/keybindings/new_window</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/new_window</key>
+      <applyto>/apps/vanilla-terminal/keybindings/new_window</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;n</default>
       <locale name="C">
@@ -755,9 +755,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/new_profile</key>
-      <applyto>/apps/gnome-terminal/keybindings/new_profile</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/new_profile</key>
+      <applyto>/apps/vanilla-terminal/keybindings/new_profile</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Keyboard shortcut to create a new profile</short>
@@ -772,9 +772,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/save_contents</key>
-      <applyto>/apps/gnome-terminal/keybindings/save_contents</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/save_contents</key>
+      <applyto>/apps/vanilla-terminal/keybindings/save_contents</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>disabled</default>
       <locale name="C">
@@ -789,9 +789,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/close_tab</key>
-      <applyto>/apps/gnome-terminal/keybindings/close_tab</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/close_tab</key>
+      <applyto>/apps/vanilla-terminal/keybindings/close_tab</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;w</default>
       <locale name="C">
@@ -806,9 +806,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/close_window</key>
-      <applyto>/apps/gnome-terminal/keybindings/close_window</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/close_window</key>
+      <applyto>/apps/vanilla-terminal/keybindings/close_window</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;q</default>
       <locale name="C">
@@ -824,9 +824,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/copy</key>
-      <applyto>/apps/gnome-terminal/keybindings/copy</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/copy</key>
+      <applyto>/apps/vanilla-terminal/keybindings/copy</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>  
       <default>&lt;Ctrl&gt;&lt;Shift&gt;c</default>
       <locale name="C">
@@ -843,9 +843,9 @@
 
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/paste</key>
-      <applyto>/apps/gnome-terminal/keybindings/paste</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/paste</key>
+      <applyto>/apps/vanilla-terminal/keybindings/paste</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;v</default>
       <locale name="C">
@@ -861,9 +861,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/full_screen</key>
-      <applyto>/apps/gnome-terminal/keybindings/full_screen</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/full_screen</key>
+      <applyto>/apps/vanilla-terminal/keybindings/full_screen</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>F11</default>
       <locale name="C">
@@ -877,9 +877,9 @@
       </locale>
     </schema>
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/toggle_menubar</key>
-      <applyto>/apps/gnome-terminal/keybindings/toggle_menubar</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/toggle_menubar</key>
+      <applyto>/apps/vanilla-terminal/keybindings/toggle_menubar</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Keyboard shortcut to toggle the visibility of the menubar</short>
@@ -893,9 +893,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/set_terminal_title</key>
-      <applyto>/apps/gnome-terminal/keybindings/set_terminal_title</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/set_terminal_title</key>
+      <applyto>/apps/vanilla-terminal/keybindings/set_terminal_title</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Keyboard shortcut to set the terminal title</short>
@@ -909,9 +909,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/reset</key>
-      <applyto>/apps/gnome-terminal/keybindings/reset</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/reset</key>
+      <applyto>/apps/vanilla-terminal/keybindings/reset</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Keyboard shortcut to reset the terminal</short>
@@ -925,9 +925,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/reset_and_clear</key>
-      <applyto>/apps/gnome-terminal/keybindings/reset_and_clear</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/reset_and_clear</key>
+      <applyto>/apps/vanilla-terminal/keybindings/reset_and_clear</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Keyboard shortcut to reset and clear the terminal</short>
@@ -941,9 +941,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/prev_tab</key>
-      <applyto>/apps/gnome-terminal/keybindings/prev_tab</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/prev_tab</key>
+      <applyto>/apps/vanilla-terminal/keybindings/prev_tab</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Control&gt;Page_Up</default>
       <locale name="C">
@@ -958,9 +958,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/next_tab</key>
-      <applyto>/apps/gnome-terminal/keybindings/next_tab</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/next_tab</key>
+      <applyto>/apps/vanilla-terminal/keybindings/next_tab</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Control&gt;Page_Down</default>
       <locale name="C">
@@ -975,9 +975,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/move_tab_left</key>
-      <applyto>/apps/gnome-terminal/keybindings/move_tab_left</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/move_tab_left</key>
+      <applyto>/apps/vanilla-terminal/keybindings/move_tab_left</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;Page_Up</default>
       <locale name="C">
@@ -992,9 +992,9 @@
     </schema>
     
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/move_tab_right</key>
-      <applyto>/apps/gnome-terminal/keybindings/move_tab_right</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/move_tab_right</key>
+      <applyto>/apps/vanilla-terminal/keybindings/move_tab_right</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;&lt;Shift&gt;Page_Down</default>
       <locale name="C">
@@ -1009,9 +1009,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/detach_tab</key>
-      <applyto>/apps/gnome-terminal/keybindings/detach_tab</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/detach_tab</key>
+      <applyto>/apps/vanilla-terminal/keybindings/detach_tab</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <locale name="C">
          <short>Accelerator to detach current tab.</short>
@@ -1025,9 +1025,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_1</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_1</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_1</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_1</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;1</default>
       <locale name="C">
@@ -1042,9 +1042,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_2</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_2</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_2</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_2</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;2</default>
       <locale name="C">
@@ -1059,9 +1059,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_3</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_3</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_3</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_3</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;3</default>
       <locale name="C">
@@ -1076,9 +1076,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_4</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_4</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_4</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_4</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;4</default>
       <locale name="C">
@@ -1093,9 +1093,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_5</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_5</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_5</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_5</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;5</default>
       <locale name="C">
@@ -1110,9 +1110,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_6</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_6</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_6</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_6</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;6</default>
       <locale name="C">
@@ -1127,9 +1127,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_7</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_7</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_7</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_7</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;7</default>
       <locale name="C">
@@ -1144,9 +1144,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_8</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_8</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_8</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_8</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;8</default>
       <locale name="C">
@@ -1161,9 +1161,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_9</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_9</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_9</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_9</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;9</default>
       <locale name="C">
@@ -1178,9 +1178,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_10</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_10</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_10</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_10</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Alt&gt;0</default>
       <locale name="C">
@@ -1195,9 +1195,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_11</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_11</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_11</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_11</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
 <!-- no default -->
       <locale name="C">
@@ -1212,9 +1212,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/switch_to_tab_12</key>
-      <applyto>/apps/gnome-terminal/keybindings/switch_to_tab_12</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/switch_to_tab_12</key>
+      <applyto>/apps/vanilla-terminal/keybindings/switch_to_tab_12</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
 <!-- no default -->
       <locale name="C">
@@ -1229,9 +1229,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/help</key>
-      <applyto>/apps/gnome-terminal/keybindings/help</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/help</key>
+      <applyto>/apps/vanilla-terminal/keybindings/help</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>F1</default>
       <locale name="C">
@@ -1246,9 +1246,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/zoom_in</key>
-      <applyto>/apps/gnome-terminal/keybindings/zoom_in</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/zoom_in</key>
+      <applyto>/apps/vanilla-terminal/keybindings/zoom_in</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;plus</default>
       <locale name="C">
@@ -1263,9 +1263,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/zoom_out</key>
-      <applyto>/apps/gnome-terminal/keybindings/zoom_out</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/zoom_out</key>
+      <applyto>/apps/vanilla-terminal/keybindings/zoom_out</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;minus</default>
       <locale name="C">
@@ -1280,9 +1280,9 @@
     </schema>
 
     <schema>
-      <key>/schemas/apps/gnome-terminal/keybindings/zoom_normal</key>
-      <applyto>/apps/gnome-terminal/keybindings/zoom_normal</applyto>
-      <owner>gnome-terminal</owner>
+      <key>/schemas/apps/vanilla-terminal/keybindings/zoom_normal</key>
+      <applyto>/apps/vanilla-terminal/keybindings/zoom_normal</applyto>
+      <owner>vanilla-terminal</owner>
       <type>string</type>
       <default>&lt;Ctrl&gt;0</default>
       <locale name="C">

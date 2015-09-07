@@ -5,12 +5,12 @@
  * Copyright © 2003 Mariano Suarez-Alvarez
  * Copyright © 2008 Christian Persch
  *
- * Gnome-terminal is free software; you can redistribute it and/or modify
+ * Terminal is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 3 of the License, or
  * (at your option) any later version.
  *
- * Gnome-terminal is distributed in the hope that it will be useful,
+ * Terminal is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -172,7 +172,7 @@ unsupported_option_callback (const gchar *option_name,
                              gpointer     data,
                              GError     **error)
 {
-  g_printerr (_("Option \"%s\" is no longer supported in this version of gnome-terminal;"
+  g_printerr (_("Option \"%s\" is no longer supported in this version of vanilla-terminal;"
                " you might want to create a profile with the desired setting, and use"
                " the new '--profile' option\n"), option_name);
   return TRUE; /* we do not want to bail out here but continue */
@@ -185,7 +185,7 @@ option_version_cb (const gchar *option_name,
                    gpointer     data,
                    GError     **error)
 {
-  g_print ("%s %s\n", _("GNOME Terminal"), VERSION);
+  g_print ("%s %s\n", _("Terminal"), VERSION);
 
   exit (EXIT_SUCCESS);
 }
@@ -1352,11 +1352,11 @@ get_goption_context (TerminalOptions *options)
 
   context = g_option_context_new (NULL);
   g_option_context_set_translation_domain (context, GETTEXT_PACKAGE);
-  g_option_context_set_description (context, N_("GNOME Terminal Emulator"));
+  g_option_context_set_description (context, N_("Terminal Emulator"));
 
-  group = g_option_group_new ("gnome-terminal",
-                              N_("GNOME Terminal Emulator"),
-                              N_("Show GNOME Terminal options"),
+  group = g_option_group_new ("vanilla-terminal",
+                              N_("Terminal Emulator"),
+                              N_("Show Terminal options"),
                               options,
                               NULL);
   g_option_group_set_translation_domain (group, GETTEXT_PACKAGE);
