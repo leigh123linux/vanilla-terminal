@@ -359,7 +359,7 @@
       <applyto>/apps/vanilla-terminal/profiles/Default/scrollback_lines</applyto>
       <owner>vanilla-terminal</owner>
       <type>int</type>
-      <default>512</default>
+      <default>8192</default>
       <locale name="C">
          <short>Number of lines to keep in scrollback</short>
          <long>
