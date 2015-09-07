@@ -2,14 +2,14 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" 
 "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
   <!ENTITY legal SYSTEM "legal.xml">
-  <!ENTITY app "GNOME Terminal">  
+  <!ENTITY app "Terminal">  
   <!ENTITY appversion "2.30">
   <!ENTITY manrevision "2.9">
   <!ENTITY date "January 2010">
 ]>
 <!-- =============Document Header ============================= -->
 <!-- (Do not remove this comment block.)
-  Maintained by the GNOME Documentation Project
+  Maintained by the Documentation Project
   Template version: 2.0 beta
   Template last modified Jan 2, 2002 
     
@@ -51,12 +51,12 @@ text-based commands through a shell such as Bash.
         <holder>Paul Cutler</holder> 
      </copyright>	 
      <publisher> 
-        <publishername>GNOME Documentation Project</publishername> 
+        <publishername>Documentation Project</publishername> 
      </publisher> &legal; 
      <authorgroup> 
         <author> 
           <firstname>Sun</firstname> 
-          <surname>GNOME Documentation Team</surname> 
+          <surname>Documentation Team</surname> 
           <affiliation> 
              <orgname>Sun Microsystems</orgname> 
           </affiliation> 
@@ -65,137 +65,137 @@ text-based commands through a shell such as Bash.
           <firstname>Miguel</firstname> 
           <surname>de Icaza</surname> 
           <affiliation> 
-             <orgname>GNOME Documentation Project</orgname> 
+             <orgname>Documentation Project</orgname> 
           </affiliation> 
         </author> 
         <author> 
           <firstname>Michael</firstname> 
           <surname>Zucchi</surname> 
           <affiliation> 
-             <orgname>GNOME Documentation Project</orgname> 
+             <orgname>Documentation Project</orgname> 
           </affiliation> 
         </author> 
         <author> 
           <firstname>Alexander</firstname> 
           <surname>Kirillov</surname> 
           <affiliation> 
-             <orgname>GNOME Documentation Project</orgname> 
+             <orgname>Documentation Project</orgname> 
           </affiliation> 
         </author> 
      </authorgroup> 
      <publisher role="maintainer">
-       <publishername>GNOME Documentation Project</publishername>
+       <publishername>Documentation Project</publishername>
      </publisher>
 	<releaseinfo revision="2.30" role="review">
     </releaseinfo>
      <revhistory>
 	<revision> 
-          <revnumber>GNOME Terminal Manual V2.9</revnumber> 
+          <revnumber>Terminal Manual V2.9</revnumber> 
           <date>January 2010</date> 
           <revdescription> 
              <para role="author">Paul Cutler
 		<email>pcutler@gnome.org</email> </para>
-             <para role="publisher">GNOME Documentation Project</para>
+             <para role="publisher">Documentation Project</para>
           </revdescription> 
         </revision> 
 	<revision> 
-          <revnumber>GNOME Terminal Manual V2.8</revnumber> 
+          <revnumber>Terminal Manual V2.8</revnumber> 
           <date>March 2009</date> 
           <revdescription> 
              <para role="author">Paul Cutler</para>
-             <para role="publisher">GNOME Documentation Project</para>
+             <para role="publisher">Documentation Project</para>
           </revdescription> 
         </revision>
 	<revision> 
-          <revnumber>GNOME Terminal Manual V2.7</revnumber> 
+          <revnumber>Terminal Manual V2.7</revnumber> 
           <date>November 2003</date> 
           <revdescription> 
-             <para role="author">Sun GNOME Documentation Team</para>
-             <para role="publisher">GNOME Documentation Project</para>
+             <para role="author">Sun Documentation Team</para>
+             <para role="publisher">Documentation Project</para>
           </revdescription> 
         </revision>
 	<revision> 
-          <revnumber>GNOME Terminal Manual V2.6</revnumber> 
+          <revnumber>Terminal Manual V2.6</revnumber> 
           <date>September 2003</date> 
           <revdescription> 
-             <para role="author">Sun GNOME Documentation Team</para>
-             <para role="publisher">GNOME Documentation Project</para>
+             <para role="author">Sun Documentation Team</para>
+             <para role="publisher">Documentation Project</para>
           </revdescription> 
         </revision>
 	<revision> 
-          <revnumber>GNOME Terminal Manual V2.5</revnumber> 
+          <revnumber>Terminal Manual V2.5</revnumber> 
           <date>May 2003</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision>
 			<revision> 
-          <revnumber>GNOME Terminal Manual V2.4</revnumber> 
+          <revnumber>Terminal Manual V2.4</revnumber> 
           <date>January 2003</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision>
         <revision> 
-          <revnumber>GNOME Terminal Manual V2.3</revnumber> 
+          <revnumber>Terminal Manual V2.3</revnumber> 
           <date>August 2002</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision>
         <revision> 
-          <revnumber>GNOME Terminal Manual V2.2</revnumber> 
+          <revnumber>Terminal Manual V2.2</revnumber> 
           <date>August 2002</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision>
         <revision> 
-          <revnumber>GNOME Terminal Manual V2.1</revnumber> 
+          <revnumber>Terminal Manual V2.1</revnumber> 
           <date>August 2002</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision>
         <revision> 
-          <revnumber>GNOME Terminal Manual V2.0</revnumber> 
+          <revnumber>Terminal Manual V2.0</revnumber> 
           <date>April 2002</date> 
           <revdescription> 
              <para role="author">
-                Sun GNOME Documentation Team
+                Sun Documentation Team
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision> 
         <revision> 
-          <revnumber>GNOME Terminal User's Guide</revnumber> 
+          <revnumber>Terminal User's Guide</revnumber> 
           <date>May 2000</date> 
           <revdescription> 
              <para role="author">
@@ -203,7 +203,7 @@ text-based commands through a shell such as Bash.
                 <email>docs@gnome.org</email> 
              </para>
              <para role="publisher">
-                GNOME Documentation Project 
+                Documentation Project 
              </para>
           </revdescription> 
         </revision> 
@@ -211,8 +211,6 @@ text-based commands through a shell such as Bash.
      <releaseinfo> This manual describes version &appversion; of &app;.
         </releaseinfo> 
      <legalnotice> 
-        <title>Feedback</title> 
-        <para> To report a bug or make a suggestion regarding the &app; application or this manual, follow the directions in the <ulink url="help:user-guide/feedback" type="help">GNOME Feedback Page</ulink>. </para>
      </legalnotice> 
   </articleinfo> 
   <indexterm> 
@@ -230,7 +228,7 @@ text-based commands through a shell such as Bash.
      </para>
      <variablelist> 
         <varlistentry> 
-          <term>Access a UNIX shell in the GNOME environment</term> 
+          <term>Access a UNIX shell</term> 
           <listitem> 
              <para>
                 A shell is a program that interprets and executes the commands that you type at a command line prompt. When you start <application>&app;</application>, the application starts the default shell that is specified in your system account. You can switch to a different shell at any time. 
@@ -955,7 +953,7 @@ text-based commands through a shell such as Bash.
                 </term> 
              <listitem> 
                 <para>
-                  Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the GNOME Desktop theme that is selected in the <guilabel>Theme</guilabel> tab of the <ulink type="help" url="help:user-guide/prefs-theme"><application>Appearance</application> preference tool</ulink>.
+                  Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the desktop theme that is selected in the <guilabel>Theme</guilabel> tab of the <ulink type="help" url="help:user-guide/prefs-theme"><application>Appearance</application> preference tool</ulink>.
                 </para>
                 <para>
                   Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the foreground and background colors for the terminal. <application>&app;</application> supports the following foreground and background color combinations: 
