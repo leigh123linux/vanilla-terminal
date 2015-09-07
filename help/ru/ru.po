@@ -24,12 +24,12 @@ msgid "@@image: 'figures/vanilla-terminal-tabbed.png'; md5=9fdbc20ee951085c29710
 msgstr ""
 
 #: C/vanilla-terminal.xml:18(title)
-msgid "GNOME Terminal Manual"
-msgstr "Руководство по Терминалу среды GNOME"
+msgid "Terminal Manual"
+msgstr "Руководство по Терминалу среды"
 
 #: C/vanilla-terminal.xml:20(para)
-msgid "User manual for the GNOME Terminal application."
-msgstr "Руководство пользователя Терминала среды GNOME"
+msgid "User manual for the Terminal application."
+msgstr "Руководство пользователя Терминала среды"
 
 #: C/vanilla-terminal.xml:25(year)
 msgid "2002"
@@ -64,20 +64,20 @@ msgid "Alexander Kirillov"
 msgstr "Alexander Kirillov"
 
 #: C/vanilla-terminal.xml:43(publishername) C/vanilla-terminal.xml:57(orgname) C/vanilla-terminal.xml:64(orgname) C/vanilla-terminal.xml:71(orgname) C/vanilla-terminal.xml:76(publishername) C/vanilla-terminal.xml:86(para) C/vanilla-terminal.xml:96(para) C/vanilla-terminal.xml:104(para) C/vanilla-terminal.xml:114(para) C/vanilla-terminal.xml:126(para) C/vanilla-terminal.xml:138(para) C/vanilla-terminal.xml:150(para) C/vanilla-terminal.xml:162(para) C/vanilla-terminal.xml:174(para) C/vanilla-terminal.xml:187(para)
-msgid "GNOME Documentation Project"
-msgstr "Проект документации GNOME"
+msgid "Documentation Project"
+msgstr "Проект документации"
 
 #: C/vanilla-terminal.xml:2(para)
 msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License (GFDL), Version 1.1 or any later version published by the Free Software Foundation with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. You can find a copy of the GFDL at this <ulink type=\"help\" url=\"ghelp:fdl\">link</ulink> or in the file COPYING-DOCS distributed with this manual."
 msgstr "Следующим разрешается копировать и/или модифицировать этот документ при условии соблюдения GNU Free Documentation License (GFDL), версии 1.1 или любой более поздней опубликованной Фондом свободного программного обеспечения версией без неизменяемых частей, без текстов на обложках. Вы можете найти копию лицензии по этой <ulink type=\"help\" url=\"ghelp:fdl\">ссылке</ulink> или в файле COPYING-DOCS, распространяемом с этим документом."
 
 #: C/vanilla-terminal.xml:12(para)
-msgid "This manual is part of a collection of GNOME manuals distributed under the GFDL. If you want to distribute this manual separately from the collection, you can do so by adding a copy of the license to the manual, as described in section 6 of the license."
-msgstr "Этот документ является частью документации GNOME, распространяемой под лицензией GFDL. Если вы хотите распространять этот документ отдельно от общей документации, вы должны приложить копию лицензии к документу, как написано в части 6 лицензии."
+msgid "This manual is part of a collection of manuals distributed under the GFDL. If you want to distribute this manual separately from the collection, you can do so by adding a copy of the license to the manual, as described in section 6 of the license."
+msgstr "Этот документ является частью документации, распространяемой под лицензией GFDL. Если вы хотите распространять этот документ отдельно от общей документации, вы должны приложить копию лицензии к документу, как написано в части 6 лицензии."
 
 #: C/vanilla-terminal.xml:19(para)
-msgid "Many of the names used by companies to distinguish their products and services are claimed as trademarks. Where those names appear in any GNOME documentation, and the members of the GNOME Documentation Project are made aware of those trademarks, then the names are in capital letters or initial capital letters."
-msgstr "Многие имена и марки используются компаниями для различения их продуктов и услуг и являются торговыми марками. Эти марки присутствуют в любой части документации GNOME, и члены проекта документирования GNOME знают об этом. Имена выделяются заглавными буквами или начальной заглавной буквой."
+msgid "Many of the names used by companies to distinguish their products and services are claimed as trademarks. Where those names appear in any documentation, and the members of the Documentation Project are made aware of those trademarks, then the names are in capital letters or initial capital letters."
+msgstr "Многие имена и марки используются компаниями для различения их продуктов и услуг и являются торговыми марками. Эти марки присутствуют в любой части документации, и члены проекта документирования знают об этом. Имена выделяются заглавными буквами или начальной заглавной буквой."
 
 #: C/vanilla-terminal.xml:35(para)
 msgid "DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY, ACCURACY, AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU. SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL WRITER, AUTHOR OR ANY CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
@@ -96,8 +96,8 @@ msgid "Sun"
 msgstr "Sun"
 
 #: C/vanilla-terminal.xml:48(surname)
-msgid "GNOME Documentation Team"
-msgstr "Команда документирования GNOME"
+msgid "Documentation Team"
+msgstr "Команда документирования"
 
 #: C/vanilla-terminal.xml:54(firstname)
 msgid "Miguel"
@@ -124,76 +124,76 @@ msgid "Kirillov"
 msgstr "Kirillov"
 
 #: C/vanilla-terminal.xml:80(revnumber)
-msgid "GNOME Terminal Manual V2.8"
-msgstr "Руководство терминала среды GNOME, вер. 2.8"
+msgid "Terminal Manual V2.8"
+msgstr "Руководство терминала среды, вер. 2.8"
 
 #: C/vanilla-terminal.xml:81(date)
 msgid "March 2004"
 msgstr "Март 2004"
 
 #: C/vanilla-terminal.xml:83(para) C/vanilla-terminal.xml:95(para) C/vanilla-terminal.xml:103(para) C/vanilla-terminal.xml:111(para) C/vanilla-terminal.xml:123(para) C/vanilla-terminal.xml:135(para) C/vanilla-terminal.xml:147(para) C/vanilla-terminal.xml:159(para) C/vanilla-terminal.xml:171(para)
-msgid "Sun GNOME Documentation Team"
-msgstr "Sun GNOME Documentation Team"
+msgid "Sun Documentation Team"
+msgstr "Sun Documentation Team"
 
 #: C/vanilla-terminal.xml:92(revnumber)
-msgid "GNOME Terminal Manual V2.7"
-msgstr "Руководство терминала среды GNOME, вер. 2.7"
+msgid "Terminal Manual V2.7"
+msgstr "Руководство терминала среды, вер. 2.7"
 
 #: C/vanilla-terminal.xml:93(date)
 msgid "November 2003"
 msgstr "Ноябрь 2003"
 
 #: C/vanilla-terminal.xml:100(revnumber)
-msgid "GNOME Terminal Manual V2.6"
-msgstr "Руководство терминала среды GNOME, вер. 2.6"
+msgid "Terminal Manual V2.6"
+msgstr "Руководство терминала среды, вер. 2.6"
 
 #: C/vanilla-terminal.xml:101(date)
 msgid "September 2003"
 msgstr "Сентябрь 2003"
 
 #: C/vanilla-terminal.xml:108(revnumber)
-msgid "GNOME Terminal Manual V2.5"
-msgstr "Руководство терминала среды GNOME, вер. 2.5"
+msgid "Terminal Manual V2.5"
+msgstr "Руководство терминала среды, вер. 2.5"
 
 #: C/vanilla-terminal.xml:109(date)
 msgid "May 2003"
 msgstr "Май 2003"
 
 #: C/vanilla-terminal.xml:120(revnumber)
-msgid "GNOME Terminal Manual V2.4"
-msgstr "Руководство терминала среды GNOME, вер. 2.4"
+msgid "Terminal Manual V2.4"
+msgstr "Руководство терминала среды, вер. 2.4"
 
 #: C/vanilla-terminal.xml:121(date)
 msgid "January 2003"
 msgstr "Январь 2003"
 
 #: C/vanilla-terminal.xml:132(revnumber)
-msgid "GNOME Terminal Manual V2.3"
-msgstr "Руководство терминала среды GNOME, вер. 2.3"
+msgid "Terminal Manual V2.3"
+msgstr "Руководство терминала среды, вер. 2.3"
 
 #: C/vanilla-terminal.xml:133(date) C/vanilla-terminal.xml:145(date) C/vanilla-terminal.xml:157(date)
 msgid "August 2002"
 msgstr "Август 2002"
 
 #: C/vanilla-terminal.xml:144(revnumber)
-msgid "GNOME Terminal Manual V2.2"
-msgstr "Руководство терминала среды GNOME, вер. 2.2"
+msgid "Terminal Manual V2.2"
+msgstr "Руководство терминала среды, вер. 2.2"
 
 #: C/vanilla-terminal.xml:156(revnumber)
-msgid "GNOME Terminal Manual V2.1"
-msgstr "Руководство терминала среды GNOME, вер. 2.1"
+msgid "Terminal Manual V2.1"
+msgstr "Руководство терминала среды, вер. 2.1"
 
 #: C/vanilla-terminal.xml:168(revnumber)
-msgid "GNOME Terminal Manual V2.0"
-msgstr "Руководство терминала среды GNOME, вер. 2.0"
+msgid "Terminal Manual V2.0"
+msgstr "Руководство терминала среды, вер. 2.0"
 
 #: C/vanilla-terminal.xml:169(date)
 msgid "April 2002"
 msgstr "Апрель 2002"
 
 #: C/vanilla-terminal.xml:180(revnumber)
-msgid "GNOME Terminal User's Guide"
-msgstr "Руководство пользователя по Терминалу среды GNOME"
+msgid "Terminal User's Guide"
+msgstr "Руководство пользователя по Терминалу среды"
 
 #: C/vanilla-terminal.xml:181(date)
 msgid "May 2000"
@@ -204,20 +204,20 @@ msgid "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org
 msgstr "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org</email>"
 
 #: C/vanilla-terminal.xml:193(releaseinfo)
-msgid "This manual describes version 2.5.90 of GNOME Terminal."
-msgstr "Это руководство описывает версию 2.5.90 Терминала среды GNOME"
+msgid "This manual describes version 2.5.90 of Terminal."
+msgstr "Это руководство описывает версию 2.5.90 Терминала среды"
 
 #: C/vanilla-terminal.xml:196(title)
 msgid "Feedback"
 msgstr "Обратная связь"
 
 #: C/vanilla-terminal.xml:197(para)
-msgid "To report a bug or make a suggestion regarding the GNOME Terminal application or this manual, follow the directions in the <ulink url=\"ghelp:user-guide?feedback\" type=\"help\">GNOME Feedback Page</ulink>."
-msgstr "Чтобы сообщить об ошибке или внести предложение относительно Терминала среды GNOME или данного руководства следуйте ссылке <ulink url=\"ghelp:user-guide?feedback\" type=\"help\"> Обратная связь с GNOME</ulink>."
+msgid "To report a bug or make a suggestion regarding the Terminal application or this manual, follow the directions in the <ulink url=\"ghelp:user-guide?feedback\" type=\"help\"></ulink>."
+msgstr "Чтобы сообщить об ошибке или внести предложение относительно Терминала среды или данного руководства следуйте ссылке <ulink url=\"ghelp:user-guide?feedback\" type=\"help\"> Обратная связь с</ulink>."
 
 #: C/vanilla-terminal.xml:201(primary)
-msgid "GNOME Terminal"
-msgstr "Терминал среды GNOME"
+msgid "Terminal"
+msgstr "Терминал среды"
 
 #: C/vanilla-terminal.xml:204(primary)
 msgid "terminal application"
@@ -228,40 +228,40 @@ msgid "Introduction"
 msgstr "Введение"
 
 #: C/vanilla-terminal.xml:208(para)
-msgid "<application>GNOME Terminal</application> is a terminal emulation application that you can use to perform the following tasks:"
-msgstr "<application>Терминал среды GNOME</application> - это программа эмуляции терминала, которую вы можете использовать для выполнения следующих задач:"
+msgid "<application>Terminal</application> is a terminal emulation application that you can use to perform the following tasks:"
+msgstr "<application>Терминал среды</application> - это программа эмуляции терминала, которую вы можете использовать для выполнения следующих задач:"
 
 #: C/vanilla-terminal.xml:213(term)
-msgid "Access a UNIX shell in the GNOME environment"
-msgstr "Доступ к интерпретатору командной строки UNIX в окружении GNOME"
+msgid "Access a UNIX shell"
+msgstr "Доступ к интерпретатору командной строки UNIX в окружении"
 
 #: C/vanilla-terminal.xml:215(para)
-msgid "A shell is a program that interprets and executes the commands that you type at a command line prompt. When you start <application>GNOME Terminal</application>, the application starts the default shell that is specified in your system account. You can switch to a different shell at any time."
-msgstr "Интерпретатор командной строки исполняет команды, которые вы набираете в командной строке. Когда вы запускаете <application>Терминал среды GNOME</application>, приложение запускает интерпретатор по умолчанию, который указана в вашей учётной записи. Вы можете перейти к использованию другого интерпретатора в любое время."
+msgid "A shell is a program that interprets and executes the commands that you type at a command line prompt. When you start <application>Terminal</application>, the application starts the default shell that is specified in your system account. You can switch to a different shell at any time."
+msgstr "Интерпретатор командной строки исполняет команды, которые вы набираете в командной строке. Когда вы запускаете <application>Терминал среды</application>, приложение запускает интерпретатор по умолчанию, который указана в вашей учётной записи. Вы можете перейти к использованию другого интерпретатора в любое время."
 
 #: C/vanilla-terminal.xml:221(term)
 msgid "Run any application that is designed to run on VT102, VT220, and <application>xterm</application> terminals"
 msgstr "Запустить любое приложение, спроектированное для запуска на терминалах VT102, VT220 и <application>xterm</application>."
 
 #: C/vanilla-terminal.xml:223(para)
-msgid "<application>GNOME Terminal</application> emulates the <application>xterm</application> application developed by the X Consortium. In turn, the <application>xterm</application> application emulates the DEC VT102 terminal and also supports the DEC VT220 escape sequences. An escape sequence is a series of characters that starts with the <keycap>Esc</keycap> character. <application>GNOME Terminal</application> accepts all of the escape sequences that the VT102 and VT220 terminals use for functions such as to position the cursor and to clear the screen."
-msgstr "<application>Терминал среды GNOME</application> эмулирует программу <application>xterm</application>, разрабатываемую X Consortium. В свою очередь, программа <application>xterm</application> эмулирует терминал DEC VT102 и также поддерживает управляющие последовательности DEC VT220. Управляющие последовательности (ESC-последовательности) - это серия символов, которая начинается с символа <keycap>Esc</keycap> (комбинация символов, обычно используемая для задания неотображаемых символов и символов, имеющих специальное значение). <application>Терминал среды GNOME</application> допускает все управляющие последовательности, которые используют терминалы VT102 и VT220 для функций, таких, как положение курсора и очистка экрана."
+msgid "<application>Terminal</application> emulates the <application>xterm</application> application developed by the X Consortium. In turn, the <application>xterm</application> application emulates the DEC VT102 terminal and also supports the DEC VT220 escape sequences. An escape sequence is a series of characters that starts with the <keycap>Esc</keycap> character. <application>Terminal</application> accepts all of the escape sequences that the VT102 and VT220 terminals use for functions such as to position the cursor and to clear the screen."
+msgstr "<application>Терминал среды</application> эмулирует программу <application>xterm</application>, разрабатываемую X Consortium. В свою очередь, программа <application>xterm</application> эмулирует терминал DEC VT102 и также поддерживает управляющие последовательности DEC VT220. Управляющие последовательности (ESC-последовательности) - это серия символов, которая начинается с символа <keycap>Esc</keycap> (комбинация символов, обычно используемая для задания неотображаемых символов и символов, имеющих специальное значение). <application>Терминал среды</application> допускает все управляющие последовательности, которые используют терминалы VT102 и VT220 для функций, таких, как положение курсора и очистка экрана."
 
 #: C/vanilla-terminal.xml:231(title)
 msgid "Getting Started"
 msgstr "Приступая к работе"
 
 #: C/vanilla-terminal.xml:232(para)
-msgid "The following sections describe how to start <application>GNOME Terminal</application>."
-msgstr "Следующие разделы описывают как запустить <application>Терминал среды GNOME</application>."
+msgid "The following sections describe how to start <application>Terminal</application>."
+msgstr "Следующие разделы описывают как запустить <application>Терминал среды</application>."
 
 #: C/vanilla-terminal.xml:236(title)
-msgid "Starting GNOME Terminal"
-msgstr "Запуск Терминала среды GNOME"
+msgid "Starting Terminal"
+msgstr "Запуск Терминала среды"
 
 #: C/vanilla-terminal.xml:237(para)
-msgid "You can start <application>GNOME Terminal</application> in the following ways:"
-msgstr "Вы можете запустить <application>Терминал среды GNOME</application> следующими способами:"
+msgid "You can start <application>Terminal</application> in the following ways:"
+msgstr "Вы можете запустить <application>Терминал среды</application> следующими способами:"
 
 #: C/vanilla-terminal.xml:242(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -280,32 +280,32 @@ msgid "Execute the following command: <command>vanilla-terminal</command>"
 msgstr "Выполните следующую команду: <command>vanilla-terminal</command>"
 
 #: C/vanilla-terminal.xml:254(para)
-msgid "You can use command line options to modify the way in which you run <application>GNOME Terminal</application>. To view the command line options, execute the following command: <command>vanilla-terminal --help</command>"
-msgstr "Вы можете использовать параметры командной строки, чтобы изменить способ запуска <application>Терминала среды GNOME</application>. Чтобы просмотреть параметры командной строки, выполните следующую команду: <command>vanilla-terminal --help</command>"
+msgid "You can use command line options to modify the way in which you run <application>Terminal</application>. To view the command line options, execute the following command: <command>vanilla-terminal --help</command>"
+msgstr "Вы можете использовать параметры командной строки, чтобы изменить способ запуска <application>Терминала среды</application>. Чтобы просмотреть параметры командной строки, выполните следующую команду: <command>vanilla-terminal --help</command>"
 
 #: C/vanilla-terminal.xml:262(title)
-msgid "When You First Start GNOME Terminal"
-msgstr "Ваш первый запуск Терминала среды GNOME"
+msgid "When You First Start Terminal"
+msgstr "Ваш первый запуск Терминала среды"
 
 #: C/vanilla-terminal.xml:263(para)
-msgid "When you start <application>GNOME Terminal</application> for the first time, the application opens a terminal window with a group of default settings. The group of default settings is called the Default profile. The profile name appears in the titlebar of the <application>GNOME Terminal</application> window."
-msgstr "Когда вы запускаете <application>Терминал среды GNOME</application> в первый раз, приложение открывает терминальное окно с группой установок по умолчанию. Группа установок по умолчанию называется Профилем по умолчанию. Название профиля появляется в строке заголовка окна <application>Терминала среды GNOME</application>."
+msgid "When you start <application>Terminal</application> for the first time, the application opens a terminal window with a group of default settings. The group of default settings is called the Default profile. The profile name appears in the titlebar of the <application>Terminal</application> window."
+msgstr "Когда вы запускаете <application>Терминал среды</application> в первый раз, приложение открывает терминальное окно с группой установок по умолчанию. Группа установок по умолчанию называется Профилем по умолчанию. Название профиля появляется в строке заголовка окна <application>Терминала среды</application>."
 
 #: C/vanilla-terminal.xml:266(title)
-msgid "Example of a Default GNOME Terminal Window"
-msgstr "Пример окна по умолчанию Терминала среды GNOME"
+msgid "Example of a Default Terminal Window"
+msgstr "Пример окна по умолчанию Терминала среды"
 
 #: C/vanilla-terminal.xml:268(screeninfo) C/vanilla-terminal.xml:274(phrase) C/vanilla-terminal.xml:338(screeninfo) C/vanilla-terminal.xml:344(phrase)
-msgid "GNOME Terminal default window"
-msgstr "Окно по умолчанию Терминала среды GNOME"
+msgid "Terminal default window"
+msgstr "Окно по умолчанию Терминала среды"
 
 #: C/vanilla-terminal.xml:279(para)
-msgid "The terminal window displays a command prompt where you can type UNIX commands. The command prompt can be a %, #, &gt;, $, or any other special character. The cursor is positioned at the command prompt. When you type a UNIX command and press <keycap>Return</keycap>, the computer executes the command. By default, <application>GNOME Terminal</application> uses the default shell specified for the user who starts the application."
-msgstr "Окно терминала отображает приглашение на ввод команды, в котором вы можете набирать команды UNIX. Приглашение на ввод команды может быть в виде %, #, &gt;, $ или любых других специальных символов. Около приглашения на ввод расположен курсор. Когда вы набираете команду UNIX и нажимаете <keycap>Enter</keycap> компьютер выполняет команду. По умолчанию, <application>Терминал среды GNOME</application> использует интерпретатор командной строки пользователя, запустившего приложение."
+msgid "The terminal window displays a command prompt where you can type UNIX commands. The command prompt can be a %, #, &gt;, $, or any other special character. The cursor is positioned at the command prompt. When you type a UNIX command and press <keycap>Return</keycap>, the computer executes the command. By default, <application>Terminal</application> uses the default shell specified for the user who starts the application."
+msgstr "Окно терминала отображает приглашение на ввод команды, в котором вы можете набирать команды UNIX. Приглашение на ввод команды может быть в виде %, #, &gt;, $ или любых других специальных символов. Около приглашения на ввод расположен курсор. Когда вы набираете команду UNIX и нажимаете <keycap>Enter</keycap> компьютер выполняет команду. По умолчанию, <application>Терминал среды</application> использует интерпретатор командной строки пользователя, запустившего приложение."
 
 #: C/vanilla-terminal.xml:282(para)
-msgid "<application>GNOME Terminal</application> also sets the following environment variables:"
-msgstr "<application>Терминал среды GNOME</application> также устанавливает следующие переменные окружения:"
+msgid "<application>Terminal</application> also sets the following environment variables:"
+msgstr "<application>Терминал среды</application> также устанавливает следующие переменные окружения:"
 
 #: C/vanilla-terminal.xml:288(varname)
 msgid "TERM"
@@ -336,8 +336,8 @@ msgid "Terminal Profiles"
 msgstr "Профили Терминала"
 
 #: C/vanilla-terminal.xml:318(para)
-msgid "You can create a new profile, and apply the new profile to the terminal to modify characteristics such as font, color and effects, scroll behavior, window title, and compatibility. You can also specify a command that runs automatically when you start <application>GNOME Terminal</application> in the profile."
-msgstr "Вы можете создавать новые профили и применять новые профили к терминалу, чтобы изменить такие характеристики, как шрифт, цвета и эффекты, вид полос прокрутки, заголовка окна, совместимости. В профиле вы также можете определить команду, которая запускается автоматически при запуске <application>Терминала среды GNOME</application>."
+msgid "You can create a new profile, and apply the new profile to the terminal to modify characteristics such as font, color and effects, scroll behavior, window title, and compatibility. You can also specify a command that runs automatically when you start <application>Terminal</application> in the profile."
+msgstr "Вы можете создавать новые профили и применять новые профили к терминалу, чтобы изменить такие характеристики, как шрифт, цвета и эффекты, вид полос прокрутки, заголовка окна, совместимости. В профиле вы также можете определить команду, которая запускается автоматически при запуске <application>Терминала среды</application>."
 
 #: C/vanilla-terminal.xml:320(para)
 msgid "You define each terminal profile in the <guilabel>Edit Profiles</guilabel> dialog, which you access from the <guimenu>Edit</guimenu> menu. You can define as many different profiles as you require. When you start a terminal, you can choose the profile that you want to use for the terminal. Alternatively, you can change the terminal profile while you use the terminal. To specify an initial profile for a terminal when you start the application from a command line, use the following command:"
@@ -352,8 +352,8 @@ msgid "vanilla-terminal --window-with-profile=<placeholder-1/>"
 msgstr "vanilla-terminal --window-with-profile=<placeholder-1/>"
 
 #: C/vanilla-terminal.xml:324(para)
-msgid "The name of the current profile appears in the titlebar of the <application>GNOME Terminal</application>, unless you specify a different titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
-msgstr "Название текущего профиля появится в строке заголовка <application>Терминала среды GNOME</application>, если вы не определили другое название заголовка в диалоге <guilabel>Изменение профиля</guilabel>."
+msgid "The name of the current profile appears in the titlebar of the <application>Terminal</application>, unless you specify a different titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
+msgstr "Название текущего профиля появится в строке заголовка <application>Терминала среды</application>, если вы не определили другое название заголовка в диалоге <guilabel>Изменение профиля</guilabel>."
 
 #: C/vanilla-terminal.xml:326(para)
 msgid "See <xref linkend=\"vanilla-terminal-manage-profiles\"/> for information about how to define and use a new terminal profile."
@@ -364,12 +364,12 @@ msgid "Working With Multiple Terminals"
 msgstr "Работа с несколькими терминалами"
 
 #: C/vanilla-terminal.xml:331(para)
-msgid "<application>GNOME Terminal</application> provides a tab feature that enables you to open several terminals in a single window. Each terminal opens in a separate tab. Click on the appropriate tab to display the terminal in the window. Each tabbed terminal in a window is a separate subprocess, so you can use each terminal for different tasks. You can apply a different profile to each tabbed terminal in the window."
-msgstr "Особенностью <application>Терминала среды GNOME</application> являются вкладки, которые дают возможность вам открывать несколько терминалов в одном окне. Каждый терминал открывается в отдельной вкладке. Клик мышью на соответствующей вкладке отображает окно терминала. Каждая вкладка терминала в общем окне - это отдельный подпроцесс, так что вы можете использовать каждый терминал для различных задач. Вы можете применять различные профили к каждой вкладке терминала в общем окне."
+msgid "<application>Terminal</application> provides a tab feature that enables you to open several terminals in a single window. Each terminal opens in a separate tab. Click on the appropriate tab to display the terminal in the window. Each tabbed terminal in a window is a separate subprocess, so you can use each terminal for different tasks. You can apply a different profile to each tabbed terminal in the window."
+msgstr "Особенностью <application>Терминала среды</application> являются вкладки, которые дают возможность вам открывать несколько терминалов в одном окне. Каждый терминал открывается в отдельной вкладке. Клик мышью на соответствующей вкладке отображает окно терминала. Каждая вкладка терминала в общем окне - это отдельный подпроцесс, так что вы можете использовать каждый терминал для различных задач. Вы можете применять различные профили к каждой вкладке терминала в общем окне."
 
 #: C/vanilla-terminal.xml:333(para)
-msgid "The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend=\"vanilla-terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar."
-msgstr "Заголовок окна терминала отображает или имя текущего профиля, или название, присвоенное текущему профилю. <xref linkend=\"vanilla-terminal-tabbed\"/> показывает окно <application>Терминала среды GNOME</application> с четырьмя вкладками. В этом случае каждая из четырёх вкладок имеет свой профиль. Название профиля активной вкладки, Profile 1, появляется в строке заголовка."
+msgid "The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend=\"vanilla-terminal-tabbed\"/> shows a <application>Terminal</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar."
+msgstr "Заголовок окна терминала отображает или имя текущего профиля, или название, присвоенное текущему профилю. <xref linkend=\"vanilla-terminal-tabbed\"/> показывает окно <application>Терминала среды</application> с четырьмя вкладками. В этом случае каждая из четырёх вкладок имеет свой профиль. Название профиля активной вкладки, Profile 1, появляется в строке заголовка."
 
 #: C/vanilla-terminal.xml:336(title)
 msgid "Example of a Terminal Window With Tabs"
@@ -408,8 +408,8 @@ msgid "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close Window</guim
 msgstr "Выберите <menuchoice><guimenu>Файл</guimenu><guimenuitem>Закрыть окно</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:376(para)
-msgid "This action closes the terminal and any subprocesses that you opened from the terminal. If you close the last terminal window, the <application>GNOME Terminal</application> application exits."
-msgstr "Это действие закроет терминал и все подпроцессы, которые вы запустили из терминала. Если вы закроете последнее окно терминала, <application>Терминал среды GNOME</application> завершает работу."
+msgid "This action closes the terminal and any subprocesses that you opened from the terminal. If you close the last terminal window, the <application>Terminal</application> application exits."
+msgstr "Это действие закроет терминал и все подпроцессы, которые вы запустили из терминала. Если вы закроете последнее окно терминала, <application>Терминал среды</application> завершает работу."
 
 #: C/vanilla-terminal.xml:381(term)
 msgid "To add a new tabbed terminal to a window:"
@@ -468,8 +468,8 @@ msgid "Click <guibutton>Create</guibutton> to display the <guilabel>Editing Prof
 msgstr "Нажмите <guibutton>Создать</guibutton> для отображения диалога <guilabel>Изменение профиля</guilabel>."
 
 #: C/vanilla-terminal.xml:443(para)
-msgid "Click <guibutton>Close</guibutton>. <application>GNOME Terminal</application> adds the profile to the <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
-msgstr "Нажмите <guibutton>Закрыть</guibutton>. <application>Терминал среды GNOME</application> добавит новый профиль к подменю <menuchoice><guimenu>Терминал</guimenu><guisubmenu>Использовать профиль</guisubmenu></menuchoice>."
+msgid "Click <guibutton>Close</guibutton>. <application>Terminal</application> adds the profile to the <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
+msgstr "Нажмите <guibutton>Закрыть</guibutton>. <application>Терминал среды</application> добавит новый профиль к подменю <menuchoice><guimenu>Терминал</guimenu><guisubmenu>Использовать профиль</guisubmenu></menuchoice>."
 
 #: C/vanilla-terminal.xml:451(term)
 msgid "To change the profile of a tabbed terminal:"
@@ -544,8 +544,8 @@ msgid "Right-click on the terminal window, then choose <guimenuitem>Show Menubar
 msgstr "Щёлкните правой кнопкой на окне терминала, затем выберите <guimenuitem>Показать меню</guimenuitem> из контекстного меню."
 
 #: C/vanilla-terminal.xml:532(term)
-msgid "To display the <application>GNOME Terminal</application> window in full-screen mode:"
-msgstr "Чтобы отобразить окно <application>Терминала среды GNOME</application> в полноэкранном режиме:"
+msgid "To display the <application>Terminal</application> window in full-screen mode:"
+msgstr "Чтобы отобразить окно <application>Терминала среды</application> в полноэкранном режиме:"
 
 #: C/vanilla-terminal.xml:534(para)
 msgid "Choose <menuchoice><guimenu>View</guimenu><guimenuitem>Full Screen</guimenuitem></menuchoice>. Full-screen mode displays the text in a window that fills the full screen. The window does not contain a window frame or titlebar. To exit from this mode, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Full Screen</guimenuitem></menuchoice> again."
@@ -604,8 +604,8 @@ msgid "To select a line at a time, triple-click on the first line that you want 
 msgstr "Чтобы выделить по строкам, трижды щёлкните на первой строке, которую вы хотите выделить, и тяните мышь до последней строки, которую вы хотите выделить."
 
 #: C/vanilla-terminal.xml:589(para)
-msgid "These actions select all text between the first and last items. For all text selections, <application>GNOME Terminal</application> copies the selected text into the clipboard when you release the mouse button. To explicitly copy the selected text, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
-msgstr "Эти действия выделяют весь текст от первого до последнего знака. Для выделения всего текста <application>Терминал среды GNOME</application> копирует выделенный текст в буфер обмена когда вы отпускаете кнопку мыши. Для копирования явным образом выделенного текста выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Копировать</guimenuitem></menuchoice>."
+msgid "These actions select all text between the first and last items. For all text selections, <application>Terminal</application> copies the selected text into the clipboard when you release the mouse button. To explicitly copy the selected text, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
+msgstr "Эти действия выделяют весь текст от первого до последнего знака. Для выделения всего текста <application>Терминал среды</application> копирует выделенный текст в буфер обмена когда вы отпускаете кнопку мыши. Для копирования явным образом выделенного текста выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Копировать</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:594(term)
 msgid "To paste text into a terminal:"
@@ -656,8 +656,8 @@ msgid "Viewing the Keyboard Shortcut Settings"
 msgstr "Просмотр установленных комбинаций клавиш"
 
 #: C/vanilla-terminal.xml:643(para)
-msgid "To view the keyboard shortcut settings that are defined for <application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The <guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
-msgstr "Чтобы просмотреть установки комбинаций клавиш, которые определены для <application>Терминала среды GNOME</application>, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Комбинации клавиш</guimenuitem></menuchoice>. Диалог <guilabel>Комбинации клавиш</guilabel> содержит следующие пункты:"
+msgid "To view the keyboard shortcut settings that are defined for <application>Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The <guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
+msgstr "Чтобы просмотреть установки комбинаций клавиш, которые определены для <application>Терминала среды</application>, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Комбинации клавиш</guimenuitem></menuchoice>. Диалог <guilabel>Комбинации клавиш</guilabel> содержит следующие пункты:"
 
 #: C/vanilla-terminal.xml:647(guilabel)
 msgid "Disable all menu access keys (such as Alt+f to open File menu)"
@@ -672,8 +672,8 @@ msgid "Disable menu shortcut key (F10 by default)"
 msgstr "Отключить клавишу для доступа в меню (F10 по умолчанию)"
 
 #: C/vanilla-terminal.xml:656(para)
-msgid "Select this option to disable the shortcut key that is defined to enable you to access the <application>GNOME Terminal</application> menus. The default shortcut key to access the menus is <keycap>F10</keycap>."
-msgstr "Выберите этот пункт для отключения клавиши доступа в меню, которая определена для доступа в меню <application>Терминала среды GNOME</application>. Клавиша доступа в меню по умолчанию <keycap>F10</keycap>."
+msgid "Select this option to disable the shortcut key that is defined to enable you to access the <application>Terminal</application> menus. The default shortcut key to access the menus is <keycap>F10</keycap>."
+msgstr "Выберите этот пункт для отключения клавиши доступа в меню, которая определена для доступа в меню <application>Терминала среды</application>. Клавиша доступа в меню по умолчанию <keycap>F10</keycap>."
 
 #: C/vanilla-terminal.xml:661(guilabel)
 msgid "Shortcut Keys"
@@ -692,8 +692,8 @@ msgid "Text Size"
 msgstr "Размер текста"
 
 #: C/vanilla-terminal.xml:673(para)
-msgid "You can use the following methods to resize the text in the GNOME Terminal window:"
-msgstr "Вы можете использовать следующие способы изменить размер текста в окне Терминала среды GNOME:"
+msgid "You can use the following methods to resize the text in the Terminal window:"
+msgstr "Вы можете использовать следующие способы изменить размер текста в окне Терминала среды:"
 
 #: C/vanilla-terminal.xml:675(para)
 msgid "To increase the size of the text, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Zoom In</guimenuitem></menuchoice>."
@@ -720,8 +720,8 @@ msgid "Choose <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Set Title</gui
 msgstr "Выберите <menuchoice><guimenu>Терминал</guimenu><guimenuitem>Установить заголовок</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:694(para)
-msgid "Type the new title in the <guilabel>Title</guilabel> text box. <application>GNOME Terminal</application> applies the change immediately."
-msgstr "Введите новый заголовок в текстовом поле <guilabel>Заголовок</guilabel>. Изменения в <application>Терминале среды GNOME</application> встуаят в силу немедленно."
+msgid "Type the new title in the <guilabel>Title</guilabel> text box. <application>Terminal</application> applies the change immediately."
+msgstr "Введите новый заголовок в текстовом поле <guilabel>Заголовок</guilabel>. Изменения в <application>Терминале среды</application> встуаят в силу немедленно."
 
 #: C/vanilla-terminal.xml:697(para)
 msgid "Click <guibutton>Close</guibutton> to close the <guilabel>Set Title</guilabel> dialog."
@@ -788,12 +788,12 @@ msgid "Preferences"
 msgstr "Параметры"
 
 #: C/vanilla-terminal.xml:764(para)
-msgid "To configure <application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</guimenuitem></menuchoice>. To configure another profile that you set up choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</guimenuitem></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>."
-msgstr "Чтобы настроить <application>Терминал среды GNOME</application>, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Текущий профиль</guimenuitem></menuchoice>. Чтобы настроить другой профиль, который вы установили, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Профили</guimenuitem></menuchoice>, выберите профиль, который вы хотите редактировать, затем щёлкните <guibutton>Правка</guibutton>."
+msgid "To configure <application>Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</guimenuitem></menuchoice>. To configure another profile that you set up choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</guimenuitem></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>."
+msgstr "Чтобы настроить <application>Терминал среды</application>, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Текущий профиль</guimenuitem></menuchoice>. Чтобы настроить другой профиль, который вы установили, выберите <menuchoice><guimenu>Правка</guimenu><guimenuitem>Профили</guimenuitem></menuchoice>, выберите профиль, который вы хотите редактировать, затем щёлкните <guibutton>Правка</guibutton>."
 
 #: C/vanilla-terminal.xml:766(para)
-msgid "The <guilabel>Editing Profile</guilabel> dialog contains the following tabbed sections that you can use to configure <application>GNOME Terminal</application>:"
-msgstr "Диалог <guilabel>Изменение профиля</guilabel> содержит следующие страницы, которые вы можете использовать для настройки <application>Терминала среды GNOME</application>:"
+msgid "The <guilabel>Editing Profile</guilabel> dialog contains the following tabbed sections that you can use to configure <application>Terminal</application>:"
+msgstr "Диалог <guilabel>Изменение профиля</guilabel> содержит следующие страницы, которые вы можете использовать для настройки <application>Терминала среды</application>:"
 
 #: C/vanilla-terminal.xml:785(title)
 msgid "General"
@@ -868,8 +868,8 @@ msgid "Select-by-word characters"
 msgstr "Выбирающие слово символы"
 
 #: C/vanilla-terminal.xml:863(para)
-msgid "Use this text box to specify characters or groups of characters that <application>GNOME Terminal</application> considers to be words when you select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for more information about how to select text by word."
-msgstr "Используйте это текстовое поле чтобы определить символы или группы символов, которые рассматриваются <application>Терминалом среды GNOME</application> как слова, когда вы выбираете текст по словам. Смотрите <xref linkend=\"vanilla-terminal-contents\"/> для подробной информации о том, как выбрать текст по словам."
+msgid "Use this text box to specify characters or groups of characters that <application>Terminal</application> considers to be words when you select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for more information about how to select text by word."
+msgstr "Используйте это текстовое поле чтобы определить символы или группы символов, которые рассматриваются <application>Терминалом среды</application> как слова, когда вы выбираете текст по словам. Смотрите <xref linkend=\"vanilla-terminal-contents\"/> для подробной информации о том, как выбрать текст по словам."
 
 #: C/vanilla-terminal.xml:872(title)
 msgid "Title and Command"
@@ -932,12 +932,12 @@ msgid "Foreground and Background"
 msgstr "Текст и фон"
 
 #: C/vanilla-terminal.xml:939(para)
-msgid "Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the GNOME Desktop theme that is selected in the <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\"><application>Theme</application> preference tool</ulink>."
-msgstr "Выберите параметр <guilabel>Использовать цвета из системной темы</guilabel> чтобы использовать цвета, определённые в теме рабочего стола GNOME, которая выбрана в <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\">настройках <application>Тема</application></ulink>."
+msgid "Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the desktop theme that is selected in the <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\"><application>Theme</application> preference tool</ulink>."
+msgstr "Выберите параметр <guilabel>Использовать цвета из системной темы</guilabel> чтобы использовать цвета, определённые в теме рабочего стола, которая выбрана в <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\">настройках <application>Тема</application></ulink>."
 
 #: C/vanilla-terminal.xml:942(para)
-msgid "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the foreground and background colors for the terminal. <application>GNOME Terminal</application> supports the following foreground and background color combinations:"
-msgstr "Используйте выпадающий список <guilabel>Встроенные схемы</guilabel> чтобы определить цвета текста и фона для терминала. <application>Терминал среды GNOME</application> поддерживает следующие комбинации цвета текста и фона:"
+msgid "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the foreground and background colors for the terminal. <application>Terminal</application> supports the following foreground and background color combinations:"
+msgstr "Используйте выпадающий список <guilabel>Встроенные схемы</guilabel> чтобы определить цвета текста и фона для терминала. <application>Терминал среды</application> поддерживает следующие комбинации цвета текста и фона:"
 
 #: C/vanilla-terminal.xml:948(guilabel)
 msgid "Black on light yellow"

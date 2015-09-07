@@ -23,12 +23,12 @@ msgid "@@image: 'figures/vanilla-terminal-tabbed.png'; md5=fd1c1b81fec91087349f1
 msgstr "@@image: 'figures/vanilla-terminal-tabbed.png'; md5=fd1c1b81fec91087349f1500b82501fe"
 
 #: C/vanilla-terminal.xml:18(title)
-msgid "GNOME Terminal Manual"
-msgstr "Handbok för GNOME-terminal"
+msgid "Terminal Manual"
+msgstr "Handbok för-terminal"
 
 #: C/vanilla-terminal.xml:20(para)
-msgid "User manual for the GNOME Terminal application."
-msgstr "Användarhandbok för programmet GNOME-terminal."
+msgid "User manual for the Terminal application."
+msgstr "Användarhandbok för programmet-terminal."
 
 #: C/vanilla-terminal.xml:25(year)
 msgid "2002"
@@ -80,20 +80,20 @@ msgstr "Alexander Kirillov"
 #: C/vanilla-terminal.xml:162(para)
 #: C/vanilla-terminal.xml:174(para)
 #: C/vanilla-terminal.xml:187(para)
-msgid "GNOME Documentation Project"
-msgstr "Dokumentationsprojekt för GNOME"
+msgid "Documentation Project"
+msgstr "Dokumentationsprojekt för"
 
 #: C/vanilla-terminal.xml:2(para)
 msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License (GFDL), Version 1.1 or any later version published by the Free Software Foundation with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. You can find a copy of the GFDL at this <ulink type=\"help\" url=\"ghelp:fdl\">link</ulink> or in the file COPYING-DOCS distributed with this manual."
 msgstr "Tillstånd att kopiera, distribuera och/eller modifiera detta dokument ges under villkoren i GNU Free Documentation License (GFDL), version 1.1 eller senare, utgivet av Free Software Foundation utan standardavsnitt och omslagstexter.  En kopia av GFDL finns att hämta på denna <ulink type=\"help\" url=\"ghelp:fdl\">länk</ulink> eller i filen COPYING-DOCS som medföljer denna handbok."
 
 #: C/vanilla-terminal.xml:12(para)
-msgid "This manual is part of a collection of GNOME manuals distributed under the GFDL. If you want to distribute this manual separately from the collection, you can do so by adding a copy of the license to the manual, as described in section 6 of the license."
-msgstr "Denna handbok utgör en av flera GNOME-handböcker som distribueras under villkoren i GFDL.  Om du vill distribuera denna handbok separat från övriga handböcker kan du göra detta genom att lägga till en kopia av licensavtalet i handboken enligt instruktionerna i avsnitt 6 i licensavtalet."
+msgid "This manual is part of a collection of manuals distributed under the GFDL. If you want to distribute this manual separately from the collection, you can do so by adding a copy of the license to the manual, as described in section 6 of the license."
+msgstr "Denna handbok utgör en av flera-handböcker som distribueras under villkoren i GFDL.  Om du vill distribuera denna handbok separat från övriga handböcker kan du göra detta genom att lägga till en kopia av licensavtalet i handboken enligt instruktionerna i avsnitt 6 i licensavtalet."
 
 #: C/vanilla-terminal.xml:19(para)
-msgid "Many of the names used by companies to distinguish their products and services are claimed as trademarks. Where those names appear in any GNOME documentation, and the members of the GNOME Documentation Project are made aware of those trademarks, then the names are in capital letters or initial capital letters."
-msgstr "Flera namn på produkter och tjänster är registrerade varumärken. I de fall dessa namn förekommer i GNOME-dokumentation - och medlemmarna i GNOME-dokumentationsprojektet är medvetna om dessa varumärken - är de skrivna med versaler eller med inledande versal."
+msgid "Many of the names used by companies to distinguish their products and services are claimed as trademarks. Where those names appear in any documentation, and the members of the Documentation Project are made aware of those trademarks, then the names are in capital letters or initial capital letters."
+msgstr "Flera namn på produkter och tjänster är registrerade varumärken. I de fall dessa namn förekommer i-dokumentation - och medlemmarna i-dokumentationsprojektet är medvetna om dessa varumärken - är de skrivna med versaler eller med inledande versal."
 
 #: C/vanilla-terminal.xml:35(para)
 msgid "DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY, ACCURACY, AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU. SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL WRITER, AUTHOR OR ANY CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
@@ -112,8 +112,8 @@ msgid "Sun"
 msgstr "Sun"
 
 #: C/vanilla-terminal.xml:48(surname)
-msgid "GNOME Documentation Team"
-msgstr "GNOME-dokumentationsteam"
+msgid "Documentation Team"
+msgstr "Dokumentationsteam"
 
 #: C/vanilla-terminal.xml:54(firstname)
 msgid "Miguel"
@@ -140,8 +140,8 @@ msgid "Kirillov"
 msgstr "Kirillov"
 
 #: C/vanilla-terminal.xml:80(revnumber)
-msgid "GNOME Terminal Manual V2.8"
-msgstr "Handbok för GNOME-terminal v2.8"
+msgid "Terminal Manual V2.8"
+msgstr "Handbok för-terminal v2.8"
 
 #: C/vanilla-terminal.xml:81(date)
 msgid "March 2004"
@@ -156,44 +156,44 @@ msgstr "Mars 2004"
 #: C/vanilla-terminal.xml:147(para)
 #: C/vanilla-terminal.xml:159(para)
 #: C/vanilla-terminal.xml:171(para)
-msgid "Sun GNOME Documentation Team"
-msgstr "Suns GNOME-dokumentationsteam"
+msgid "Sun Documentation Team"
+msgstr "Suns-dokumentationsteam"
 
 #: C/vanilla-terminal.xml:92(revnumber)
-msgid "GNOME Terminal Manual V2.7"
-msgstr "Handbok för GNOME-terminal v2.7"
+msgid "Terminal Manual V2.7"
+msgstr "Handbok för-terminal v2.7"
 
 #: C/vanilla-terminal.xml:93(date)
 msgid "November 2003"
 msgstr "November 2003"
 
 #: C/vanilla-terminal.xml:100(revnumber)
-msgid "GNOME Terminal Manual V2.6"
-msgstr "Handbok för GNOME-terminal v2.6"
+msgid "Terminal Manual V2.6"
+msgstr "Handbok för-terminal v2.6"
 
 #: C/vanilla-terminal.xml:101(date)
 msgid "September 2003"
 msgstr "September 2003"
 
 #: C/vanilla-terminal.xml:108(revnumber)
-msgid "GNOME Terminal Manual V2.5"
-msgstr "Handbok för GNOME-terminal v2.5"
+msgid "Terminal Manual V2.5"
+msgstr "Handbok för-terminal v2.5"
 
 #: C/vanilla-terminal.xml:109(date)
 msgid "May 2003"
 msgstr "Maj 2003"
 
 #: C/vanilla-terminal.xml:120(revnumber)
-msgid "GNOME Terminal Manual V2.4"
-msgstr "Handbok för GNOME-terminal v2.4"
+msgid "Terminal Manual V2.4"
+msgstr "Handbok för-terminal v2.4"
 
 #: C/vanilla-terminal.xml:121(date)
 msgid "January 2003"
 msgstr "Januari 2003"
 
 #: C/vanilla-terminal.xml:132(revnumber)
-msgid "GNOME Terminal Manual V2.3"
-msgstr "Handbok för GNOME-terminal v2.3"
+msgid "Terminal Manual V2.3"
+msgstr "Handbok för-terminal v2.3"
 
 #: C/vanilla-terminal.xml:133(date)
 #: C/vanilla-terminal.xml:145(date)
@@ -202,24 +202,24 @@ msgid "August 2002"
 msgstr "Augusti 2002"
 
 #: C/vanilla-terminal.xml:144(revnumber)
-msgid "GNOME Terminal Manual V2.2"
-msgstr "Handbok för GNOME-terminal v2.2"
+msgid "Terminal Manual V2.2"
+msgstr "Handbok för-terminal v2.2"
 
 #: C/vanilla-terminal.xml:156(revnumber)
-msgid "GNOME Terminal Manual V2.1"
-msgstr "Handbok för GNOME-terminal v2.1"
+msgid "Terminal Manual V2.1"
+msgstr "Handbok för-terminal v2.1"
 
 #: C/vanilla-terminal.xml:168(revnumber)
-msgid "GNOME Terminal Manual V2.0"
-msgstr "Handbok för GNOME-terminal v2.0"
+msgid "Terminal Manual V2.0"
+msgstr "Handbok för-terminal v2.0"
 
 #: C/vanilla-terminal.xml:169(date)
 msgid "April 2002"
 msgstr "April 2002"
 
 #: C/vanilla-terminal.xml:180(revnumber)
-msgid "GNOME Terminal User's Guide"
-msgstr "Användarguide för GNOME-terminal"
+msgid "Terminal User's Guide"
+msgstr "Användarguide för-terminal"
 
 #: C/vanilla-terminal.xml:181(date)
 msgid "May 2000"
@@ -230,20 +230,20 @@ msgid "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org
 msgstr "Miguel de Icaza, Michael Zucchi, Alexander Kirollov <email>docs@gnome.org</email>"
 
 #: C/vanilla-terminal.xml:193(releaseinfo)
-msgid "This manual describes version 2.5.90 of GNOME Terminal."
-msgstr "Denna handbok beskriver version 2.5.90 av GNOME-terminal."
+msgid "This manual describes version 2.5.90 of Terminal."
+msgstr "Denna handbok beskriver version 2.5.90 av-terminal."
 
 #: C/vanilla-terminal.xml:196(title)
 msgid "Feedback"
 msgstr "Återkoppling"
 
 #: C/vanilla-terminal.xml:197(para)
-msgid "To report a bug or make a suggestion regarding the GNOME Terminal application or this manual, follow the directions in the <ulink url=\"ghelp:user-guide?feedback\" type=\"help\">GNOME Feedback Page</ulink>."
-msgstr "För att rapportera ett fel eller komma med ett förslag angående programmet <application>GNOME-terminal</application> eller denna handbok, följ instruktionerna på <ulink url=\"ghelp:user-guide?feedback\" type=\"help\">GNOME:s återkopplingssida</ulink>."
+msgid "To report a bug or make a suggestion regarding the Terminal application or this manual, follow the directions in the <ulink url=\"ghelp:user-guide?feedback\" type=\"help\"></ulink>."
+msgstr "För att rapportera ett fel eller komma med ett förslag angående programmet <application>Terminal</application> eller denna handbok, följ instruktionerna på <ulink url=\"ghelp:user-guide?feedback\" type=\"help\">återkopplingssida</ulink>."
 
 #: C/vanilla-terminal.xml:201(primary)
-msgid "GNOME Terminal"
-msgstr "GNOME-terminal"
+msgid "Terminal"
+msgstr "Terminal"
 
 #: C/vanilla-terminal.xml:204(primary)
 msgid "terminal application"
@@ -254,40 +254,40 @@ msgid "Introduction"
 msgstr "Introduktion"
 
 #: C/vanilla-terminal.xml:208(para)
-msgid "<application>GNOME Terminal</application> is a terminal emulation application that you can use to perform the following tasks:"
-msgstr "<application>GNOME-terminal</application> är ett terminalemuleringsprogram som du kan använda för att genomföra följande uppgifter:"
+msgid "<application>Terminal</application> is a terminal emulation application that you can use to perform the following tasks:"
+msgstr "<application>Terminal</application> är ett terminalemuleringsprogram som du kan använda för att genomföra följande uppgifter:"
 
 #: C/vanilla-terminal.xml:213(term)
-msgid "Access a UNIX shell in the GNOME environment"
-msgstr "Komma åt ett UNIX-skal i GNOME-miljön"
+msgid "Access a UNIX shell"
+msgstr "Komma åt ett UNIX-skal i-miljön"
 
 #: C/vanilla-terminal.xml:215(para)
-msgid "A shell is a program that interprets and executes the commands that you type at a command line prompt. When you start <application>GNOME Terminal</application>, the application starts the default shell that is specified in your system account. You can switch to a different shell at any time."
-msgstr "Ett skal är ett program som tolkar och kör kommandon som du matar in vid en kommandoradsprompt. När du startar <application>GNOME-terminal</application>, startar programmet standardskalet som har angivits i ditt systemkonto. Du kan byta till ett annat skal när du vill."
+msgid "A shell is a program that interprets and executes the commands that you type at a command line prompt. When you start <application>Terminal</application>, the application starts the default shell that is specified in your system account. You can switch to a different shell at any time."
+msgstr "Ett skal är ett program som tolkar och kör kommandon som du matar in vid en kommandoradsprompt. När du startar <application>Terminal</application>, startar programmet standardskalet som har angivits i ditt systemkonto. Du kan byta till ett annat skal när du vill."
 
 #: C/vanilla-terminal.xml:221(term)
 msgid "Run any application that is designed to run on VT102, VT220, and <application>xterm</application> terminals"
 msgstr "Kör valfritt program som är designat för att köras på terminaler av typen VT102, VT220, och <application>xterm</application>"
 
 #: C/vanilla-terminal.xml:223(para)
-msgid "<application>GNOME Terminal</application> emulates the <application>xterm</application> application developed by the X Consortium. In turn, the <application>xterm</application> application emulates the DEC VT102 terminal and also supports the DEC VT220 escape sequences. An escape sequence is a series of characters that starts with the <keycap>Esc</keycap> character. <application>GNOME Terminal</application> accepts all of the escape sequences that the VT102 and VT220 terminals use for functions such as to position the cursor and to clear the screen."
-msgstr "<application>GNOME-terminal</application> emulerar programmet <application>xterm</application> som utvecklats av X Consortium. Programmet <application>xterm</application> emulerar DEC VT102-terminalen och har även stöd för DEC VT220-kontrollsekvenser. En kontrollsekvens är en serie av tecken som börjar med tecknet <keycap>Esc</keycap>. <application>GNOME-terminal</application> tillåter alla kontrollsekvenser som VT102 och VT220-terminaler använder för funktioner såsom positionering av markören och för att rensa skärmen."
+msgid "<application>Terminal</application> emulates the <application>xterm</application> application developed by the X Consortium. In turn, the <application>xterm</application> application emulates the DEC VT102 terminal and also supports the DEC VT220 escape sequences. An escape sequence is a series of characters that starts with the <keycap>Esc</keycap> character. <application>Terminal</application> accepts all of the escape sequences that the VT102 and VT220 terminals use for functions such as to position the cursor and to clear the screen."
+msgstr "<application>Terminal</application> emulerar programmet <application>xterm</application> som utvecklats av X Consortium. Programmet <application>xterm</application> emulerar DEC VT102-terminalen och har även stöd för DEC VT220-kontrollsekvenser. En kontrollsekvens är en serie av tecken som börjar med tecknet <keycap>Esc</keycap>. <application>Terminal</application> tillåter alla kontrollsekvenser som VT102 och VT220-terminaler använder för funktioner såsom positionering av markören och för att rensa skärmen."
 
 #: C/vanilla-terminal.xml:231(title)
 msgid "Getting Started"
 msgstr "Komma igång"
 
 #: C/vanilla-terminal.xml:232(para)
-msgid "The following sections describe how to start <application>GNOME Terminal</application>."
-msgstr "Följande avsnitt beskriver hur man startar <application>GNOME-terminal</application>."
+msgid "The following sections describe how to start <application>Terminal</application>."
+msgstr "Följande avsnitt beskriver hur man startar <application>Terminal</application>."
 
 #: C/vanilla-terminal.xml:236(title)
-msgid "Starting GNOME Terminal"
-msgstr "Starta GNOME-terminal"
+msgid "Starting Terminal"
+msgstr "Starta-terminal"
 
 #: C/vanilla-terminal.xml:237(para)
-msgid "You can start <application>GNOME Terminal</application> in the following ways:"
-msgstr "Du kan starta <application>GNOME-terminal</application> på följande sätt:"
+msgid "You can start <application>Terminal</application> in the following ways:"
+msgstr "Du kan starta <application>Terminal</application> på följande sätt:"
 
 #: C/vanilla-terminal.xml:242(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -306,35 +306,35 @@ msgid "Execute the following command: <command>vanilla-terminal</command>"
 msgstr "Kör följande kommando: <command>vanilla-terminal</command>"
 
 #: C/vanilla-terminal.xml:254(para)
-msgid "You can use command line options to modify the way in which you run <application>GNOME Terminal</application>. To view the command line options, execute the following command: <command>vanilla-terminal --help</command>"
-msgstr "Du kan använda kommandoradsflaggor för att ändra sättet på vilket du kör <application>GNOME-terminal</application>. Kör följande kommando för att visa kommandoradsflaggorna: <command>vanilla-terminal --help</command>"
+msgid "You can use command line options to modify the way in which you run <application>Terminal</application>. To view the command line options, execute the following command: <command>vanilla-terminal --help</command>"
+msgstr "Du kan använda kommandoradsflaggor för att ändra sättet på vilket du kör <application>Terminal</application>. Kör följande kommando för att visa kommandoradsflaggorna: <command>vanilla-terminal --help</command>"
 
 #: C/vanilla-terminal.xml:262(title)
-msgid "When You First Start GNOME Terminal"
-msgstr "När du först startar GNOME-terminal"
+msgid "When You First Start Terminal"
+msgstr "När du först startar-terminal"
 
 #: C/vanilla-terminal.xml:263(para)
-msgid "When you start <application>GNOME Terminal</application> for the first time, the application opens a terminal window with a group of default settings. The group of default settings is called the Default profile. The profile name appears in the titlebar of the <application>GNOME Terminal</application> window."
-msgstr "När du startar <application>GNOME-terminal</application> för första gången, öppnar programmet ett terminalfönster med en grupp av standardinställningar. Gruppen av standardinställningar kallas för Standard-profilen. Profilnamnet visas i titelraden i <application>GNOME-terminal</application>-fönstret."
+msgid "When you start <application>Terminal</application> for the first time, the application opens a terminal window with a group of default settings. The group of default settings is called the Default profile. The profile name appears in the titlebar of the <application>Terminal</application> window."
+msgstr "När du startar <application>Terminal</application> för första gången, öppnar programmet ett terminalfönster med en grupp av standardinställningar. Gruppen av standardinställningar kallas för Standard-profilen. Profilnamnet visas i titelraden i <application>Terminal</application>-fönstret."
 
 #: C/vanilla-terminal.xml:266(title)
-msgid "Example of a Default GNOME Terminal Window"
-msgstr "Exempel på ett standardfönster av GNOME-terminal"
+msgid "Example of a Default Terminal Window"
+msgstr "Exempel på ett standardfönster av-terminal"
 
 #: C/vanilla-terminal.xml:268(screeninfo)
 #: C/vanilla-terminal.xml:274(phrase)
 #: C/vanilla-terminal.xml:338(screeninfo)
 #: C/vanilla-terminal.xml:344(phrase)
-msgid "GNOME Terminal default window"
-msgstr "Standardfönster av GNOME-terminal"
+msgid "Terminal default window"
+msgstr "Standardfönster av-terminal"
 
 #: C/vanilla-terminal.xml:279(para)
-msgid "The terminal window displays a command prompt where you can type UNIX commands. The command prompt can be a %, #, &gt;, $, or any other special character. The cursor is positioned at the command prompt. When you type a UNIX command and press <keycap>Return</keycap>, the computer executes the command. By default, <application>GNOME Terminal</application> uses the default shell specified for the user who starts the application."
-msgstr "Terminalfönstret visar en kommandoprompt där du kan skriva in UNIX-kommandon. Kommandoprompten kan vara en %, #, &gt;, $, eller ett annat specialtecken. Markören är positionerad vid kommandoprompten. När du skriver in ett UNIX-kommando och trycker på <keycap>Return</keycap>, kör datorn kommandot. Som standard använder <application>GNOME-terminal</application> standardskalet som angivits för användaren som startar programmet."
+msgid "The terminal window displays a command prompt where you can type UNIX commands. The command prompt can be a %, #, &gt;, $, or any other special character. The cursor is positioned at the command prompt. When you type a UNIX command and press <keycap>Return</keycap>, the computer executes the command. By default, <application>Terminal</application> uses the default shell specified for the user who starts the application."
+msgstr "Terminalfönstret visar en kommandoprompt där du kan skriva in UNIX-kommandon. Kommandoprompten kan vara en %, #, &gt;, $, eller ett annat specialtecken. Markören är positionerad vid kommandoprompten. När du skriver in ett UNIX-kommando och trycker på <keycap>Return</keycap>, kör datorn kommandot. Som standard använder <application>Terminal</application> standardskalet som angivits för användaren som startar programmet."
 
 #: C/vanilla-terminal.xml:282(para)
-msgid "<application>GNOME Terminal</application> also sets the following environment variables:"
-msgstr "<application>GNOME-terminal</application> ställer även in följande miljövariabler:"
+msgid "<application>Terminal</application> also sets the following environment variables:"
+msgstr "<application>Terminal</application> ställer även in följande miljövariabler:"
 
 #: C/vanilla-terminal.xml:288(varname)
 msgid "TERM"
@@ -365,8 +365,8 @@ msgid "Terminal Profiles"
 msgstr "Terminalprofiler"
 
 #: C/vanilla-terminal.xml:318(para)
-msgid "You can create a new profile, and apply the new profile to the terminal to modify characteristics such as font, color and effects, scroll behavior, window title, and compatibility. You can also specify a command that runs automatically when you start <application>GNOME Terminal</application> in the profile."
-msgstr "Du kan skapa en ny profil, och använda den nya profilen i terminalen för att ändra egenskaper som till exempel typsnitt, färg och effekter, rullningsbeteende, fönstertitel, och kompatibilitet. Du kan även ange ett kommando som kör automatiskt när du startar <application>GNOME-terminal</application> i profilen."
+msgid "You can create a new profile, and apply the new profile to the terminal to modify characteristics such as font, color and effects, scroll behavior, window title, and compatibility. You can also specify a command that runs automatically when you start <application>Terminal</application> in the profile."
+msgstr "Du kan skapa en ny profil, och använda den nya profilen i terminalen för att ändra egenskaper som till exempel typsnitt, färg och effekter, rullningsbeteende, fönstertitel, och kompatibilitet. Du kan även ange ett kommando som kör automatiskt när du startar <application>Terminal</application> i profilen."
 
 #: C/vanilla-terminal.xml:320(para)
 msgid "You define each terminal profile in the <guilabel>Edit Profiles</guilabel> dialog, which you access from the <guimenu>Edit</guimenu> menu. You can define as many different profiles as you require. When you start a terminal, you can choose the profile that you want to use for the terminal. Alternatively, you can change the terminal profile while you use the terminal. To specify an initial profile for a terminal when you start the application from a command line, use the following command:"
@@ -381,8 +381,8 @@ msgid "vanilla-terminal --window-with-profile=<placeholder-1/>"
 msgstr "vanilla-terminal --window-with-profile=<placeholder-1/>"
 
 #: C/vanilla-terminal.xml:324(para)
-msgid "The name of the current profile appears in the titlebar of the <application>GNOME Terminal</application>, unless you specify a different titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
-msgstr "Namnet på den aktuella profilen visas i titelraden för <application>GNOME-terminal</application>, såvida du inte angivit ett annat titelradsnamn i dialogrutan <guilabel>Redigerar profilen</guilabel>."
+msgid "The name of the current profile appears in the titlebar of the <application>Terminal</application>, unless you specify a different titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
+msgstr "Namnet på den aktuella profilen visas i titelraden för <application>Terminal</application>, såvida du inte angivit ett annat titelradsnamn i dialogrutan <guilabel>Redigerar profilen</guilabel>."
 
 #: C/vanilla-terminal.xml:326(para)
 msgid "See <xref linkend=\"vanilla-terminal-manage-profiles\"/> for information about how to define and use a new terminal profile."
@@ -393,12 +393,12 @@ msgid "Working With Multiple Terminals"
 msgstr "Arbeta med flera terminaler"
 
 #: C/vanilla-terminal.xml:331(para)
-msgid "<application>GNOME Terminal</application> provides a tab feature that enables you to open several terminals in a single window. Each terminal opens in a separate tab. Click on the appropriate tab to display the terminal in the window. Each tabbed terminal in a window is a separate subprocess, so you can use each terminal for different tasks. You can apply a different profile to each tabbed terminal in the window."
-msgstr "<application>GNOME-terminal</application> tillhandahåller en flikfunktion som låter dig öppna flera terminaler i ett och samma fönster. Varje terminal öppnas i en separat flik. Klicka på den lämpliga fliken för att visa terminalen i fönstret. Varje flikad terminal i ett fönster är en separat underprocess, så du kan använda varje terminal för olika uppgifter. Du kan använda olika profiler för varje flikad terminal i fönstret."
+msgid "<application>Terminal</application> provides a tab feature that enables you to open several terminals in a single window. Each terminal opens in a separate tab. Click on the appropriate tab to display the terminal in the window. Each tabbed terminal in a window is a separate subprocess, so you can use each terminal for different tasks. You can apply a different profile to each tabbed terminal in the window."
+msgstr "<application>Terminal</application> tillhandahåller en flikfunktion som låter dig öppna flera terminaler i ett och samma fönster. Varje terminal öppnas i en separat flik. Klicka på den lämpliga fliken för att visa terminalen i fönstret. Varje flikad terminal i ett fönster är en separat underprocess, så du kan använda varje terminal för olika uppgifter. Du kan använda olika profiler för varje flikad terminal i fönstret."
 
 #: C/vanilla-terminal.xml:333(para)
-msgid "The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend=\"vanilla-terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar."
-msgstr "Titelraden i terminalfönstret visar antingen namnet på den aktuella profilen, eller namnet som angivits av den aktuella profilen. <xref linkend=\"vanilla-terminal-tabbed\"/> visar ett <application>GNOME-terminal</application>-fönster med fyra flikar. I det här fallet har alla fyra flikar olika profiler. Namnet på profilen i den aktiva fliken, Profil 1, visas i titelraden."
+msgid "The titlebar of the terminal window shows either the name of the current profile, or the name specified by the current profile. <xref linkend=\"vanilla-terminal-tabbed\"/> shows a <application>Terminal</application> window with four tabs. In this case, each of the four tabs has a different profile. The name of the profile in the active tab, Profile 1, appears in the titlebar."
+msgstr "Titelraden i terminalfönstret visar antingen namnet på den aktuella profilen, eller namnet som angivits av den aktuella profilen. <xref linkend=\"vanilla-terminal-tabbed\"/> visar ett <application>Terminal</application>-fönster med fyra flikar. I det här fallet har alla fyra flikar olika profiler. Namnet på profilen i den aktiva fliken, Profil 1, visas i titelraden."
 
 #: C/vanilla-terminal.xml:336(title)
 msgid "Example of a Terminal Window With Tabs"
@@ -437,8 +437,8 @@ msgid "Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Close Window</guim
 msgstr "Välj <menuchoice><guimenu>Arkiv</guimenu><guimenuitem>Stäng fönster</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:376(para)
-msgid "This action closes the terminal and any subprocesses that you opened from the terminal. If you close the last terminal window, the <application>GNOME Terminal</application> application exits."
-msgstr "Det här åtgärden stänger terminalen och alla underprocesser som du öppnat från terminalen. Om du stänger det sista terminalfönstret, kommer programmet <application>GNOME-terminal</application> att avslutas."
+msgid "This action closes the terminal and any subprocesses that you opened from the terminal. If you close the last terminal window, the <application>Terminal</application> application exits."
+msgstr "Det här åtgärden stänger terminalen och alla underprocesser som du öppnat från terminalen. Om du stänger det sista terminalfönstret, kommer programmet <application>Terminal</application> att avslutas."
 
 #: C/vanilla-terminal.xml:381(term)
 msgid "To add a new tabbed terminal to a window:"
@@ -497,8 +497,8 @@ msgid "Click <guibutton>Create</guibutton> to display the <guilabel>Editing Prof
 msgstr "Klicka på <guibutton>Skapa</guibutton> för att visa dialogrutan <guilabel>Redigerar profilen</guilabel>."
 
 #: C/vanilla-terminal.xml:443(para)
-msgid "Click <guibutton>Close</guibutton>. <application>GNOME Terminal</application> adds the profile to the <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
-msgstr "Klicka på <guibutton>Stäng</guibutton>. <application>GNOME-terminal</application> lägger till profilen till undermenyn <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Byt profil</guisubmenu></menuchoice>."
+msgid "Click <guibutton>Close</guibutton>. <application>Terminal</application> adds the profile to the <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
+msgstr "Klicka på <guibutton>Stäng</guibutton>. <application>Terminal</application> lägger till profilen till undermenyn <menuchoice><guimenu>Terminal</guimenu><guisubmenu>Byt profil</guisubmenu></menuchoice>."
 
 #: C/vanilla-terminal.xml:451(term)
 msgid "To change the profile of a tabbed terminal:"
@@ -573,8 +573,8 @@ msgid "Right-click on the terminal window, then choose <guimenuitem>Show Menubar
 msgstr "Högerklicka på terminalfönstret, välj sedan <guimenuitem>Visa menyrad</guimenuitem> från popupmenyn."
 
 #: C/vanilla-terminal.xml:532(term)
-msgid "To display the <application>GNOME Terminal</application> window in full-screen mode:"
-msgstr "För att visa <application>GNOME-terminal</application>-fönstret i helskärmsläge:"
+msgid "To display the <application>Terminal</application> window in full-screen mode:"
+msgstr "För att visa <application>Terminal</application>-fönstret i helskärmsläge:"
 
 #: C/vanilla-terminal.xml:534(para)
 msgid "Choose <menuchoice><guimenu>View</guimenu><guimenuitem>Full Screen</guimenuitem></menuchoice>. Full-screen mode displays the text in a window that fills the full screen. The window does not contain a window frame or titlebar. To exit from this mode, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Full Screen</guimenuitem></menuchoice> again."
@@ -633,8 +633,8 @@ msgid "To select a line at a time, triple-click on the first line that you want 
 msgstr "För att markera en rad åt gången, trippelklicka på första raden som du vill markera och dra musen till den sista raden som du vill markera."
 
 #: C/vanilla-terminal.xml:589(para)
-msgid "These actions select all text between the first and last items. For all text selections, <application>GNOME Terminal</application> copies the selected text into the clipboard when you release the mouse button. To explicitly copy the selected text, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
-msgstr "Dessa åtgärder markerar all text mellan det första och sista objektet. För alla textmarkeringar, kopierar <application>GNOME-terminal</application> den markerade texten till urklipp när du släpper musknapen. För att uttryckligen kopiera den markerade texten, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Kopiera</guimenuitem></menuchoice>."
+msgid "These actions select all text between the first and last items. For all text selections, <application>Terminal</application> copies the selected text into the clipboard when you release the mouse button. To explicitly copy the selected text, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
+msgstr "Dessa åtgärder markerar all text mellan det första och sista objektet. För alla textmarkeringar, kopierar <application>Terminal</application> den markerade texten till urklipp när du släpper musknapen. För att uttryckligen kopiera den markerade texten, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Kopiera</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:594(term)
 msgid "To paste text into a terminal:"
@@ -685,8 +685,8 @@ msgid "Viewing the Keyboard Shortcut Settings"
 msgstr "Visa inställningar för tangentbordsgenvägar"
 
 #: C/vanilla-terminal.xml:643(para)
-msgid "To view the keyboard shortcut settings that are defined for <application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The <guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
-msgstr "För att visa inställningar för tangentbordsgenvägar som har definierats för <application>GNOME-terminal</application>, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Tangentbordsgenvägar</guimenuitem></menuchoice>. Dialogrutan <guilabel>Tangentbordsgenvägar</guilabel> innehåller följande objekt:"
+msgid "To view the keyboard shortcut settings that are defined for <application>Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The <guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
+msgstr "För att visa inställningar för tangentbordsgenvägar som har definierats för <application>Terminal</application>, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Tangentbordsgenvägar</guimenuitem></menuchoice>. Dialogrutan <guilabel>Tangentbordsgenvägar</guilabel> innehåller följande objekt:"
 
 #: C/vanilla-terminal.xml:647(guilabel)
 msgid "Disable all menu access keys (such as Alt+f to open File menu)"
@@ -701,8 +701,8 @@ msgid "Disable menu shortcut key (F10 by default)"
 msgstr "Inaktivera tangent för menyåtkomst (F10 som standard)"
 
 #: C/vanilla-terminal.xml:656(para)
-msgid "Deselect this option to disable the shortcut key that is defined to enable you to access the <application>GNOME Terminal</application> menus. The default shortcut key to access the menus is <keycap>F10</keycap>."
-msgstr "Avmarkera det här alternativet för att inaktivera genvägstangenten som är definierad för att låta dig komma åt menyerna i <application>GNOME-terminal</application>. Standardtangenten för genvägen för att komma åt menyerna är <keycap>F10</keycap>."
+msgid "Deselect this option to disable the shortcut key that is defined to enable you to access the <application>Terminal</application> menus. The default shortcut key to access the menus is <keycap>F10</keycap>."
+msgstr "Avmarkera det här alternativet för att inaktivera genvägstangenten som är definierad för att låta dig komma åt menyerna i <application>Terminal</application>. Standardtangenten för genvägen för att komma åt menyerna är <keycap>F10</keycap>."
 
 #: C/vanilla-terminal.xml:661(guilabel)
 msgid "Shortcut Keys"
@@ -721,8 +721,8 @@ msgid "Text Size"
 msgstr "Textstorlek"
 
 #: C/vanilla-terminal.xml:673(para)
-msgid "You can use the following methods to resize the text in the GNOME Terminal window:"
-msgstr "Du kan använda följande metoder för att förstora eller förminska texten i GNOME-terminal-fönstret."
+msgid "You can use the following methods to resize the text in the Terminal window:"
+msgstr "Du kan använda följande metoder för att förstora eller förminska texten i-terminal-fönstret."
 
 #: C/vanilla-terminal.xml:675(para)
 msgid "To increase the size of the text, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Zoom In</guimenuitem></menuchoice>."
@@ -749,8 +749,8 @@ msgid "Choose <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Set Title</gui
 msgstr "Välj <menuchoice><guimenu>Terminal</guimenu><guimenuitem>Ställ in titel</guimenuitem></menuchoice>."
 
 #: C/vanilla-terminal.xml:694(para)
-msgid "Type the new title in the <guilabel>Title</guilabel> text box. <application>GNOME Terminal</application> applies the change immediately."
-msgstr "Skriv in den nya titeln i textrutan <guilabel>Titel</guilabel>. <application>GNOME-terminal</application> verkställer ändringen med en gång."
+msgid "Type the new title in the <guilabel>Title</guilabel> text box. <application>Terminal</application> applies the change immediately."
+msgstr "Skriv in den nya titeln i textrutan <guilabel>Titel</guilabel>. <application>Terminal</application> verkställer ändringen med en gång."
 
 #: C/vanilla-terminal.xml:697(para)
 msgid "Click <guibutton>Close</guibutton> to close the <guilabel>Set Title</guilabel> dialog."
@@ -817,12 +817,12 @@ msgid "Preferences"
 msgstr "Inställningar"
 
 #: C/vanilla-terminal.xml:764(para)
-msgid "To configure <application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</guimenuitem></menuchoice>. To configure another profile that you set up choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</guimenuitem></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>."
-msgstr "För att konfigurera <application>GNOME-terminal</application>, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Aktuell profil</guimenuitem></menuchoice>. För att konfigurera en annan profil som du ställt in, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Profiler</guimenuitem></menuchoice>, välj profilen som du vill redigera, klicka sedan på <guibutton>Redigera</guibutton>."
+msgid "To configure <application>Terminal</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</guimenuitem></menuchoice>. To configure another profile that you set up choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</guimenuitem></menuchoice>, select the profile you want to edit, then click <guibutton>Edit</guibutton>."
+msgstr "För att konfigurera <application>Terminal</application>, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Aktuell profil</guimenuitem></menuchoice>. För att konfigurera en annan profil som du ställt in, välj <menuchoice><guimenu>Redigera</guimenu><guimenuitem>Profiler</guimenuitem></menuchoice>, välj profilen som du vill redigera, klicka sedan på <guibutton>Redigera</guibutton>."
 
 #: C/vanilla-terminal.xml:766(para)
-msgid "The <guilabel>Editing Profile</guilabel> dialog contains the following tabbed sections that you can use to configure <application>GNOME Terminal</application>:"
-msgstr "Dialogrutan <guilabel>Redigerar profilen</guilabel> innehåller följande flikade sektioner som du kan använda för att konfigurera <application>GNOME-terminal</application>:"
+msgid "The <guilabel>Editing Profile</guilabel> dialog contains the following tabbed sections that you can use to configure <application>Terminal</application>:"
+msgstr "Dialogrutan <guilabel>Redigerar profilen</guilabel> innehåller följande flikade sektioner som du kan använda för att konfigurera <application>Terminal</application>:"
 
 #: C/vanilla-terminal.xml:785(title)
 msgid "General"
@@ -881,8 +881,8 @@ msgid "Select-by-word characters"
 msgstr "Tecken för välj-per-ord"
 
 #: C/vanilla-terminal.xml:845(para)
-msgid "Use this text box to specify characters or groups of characters that <application>GNOME Terminal</application> considers to be words when you select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for more information about how to select text by word."
-msgstr "Använd den här textrutan för att ange tecken eller grupper som <application>GNOME-terminal</application> anser vara ord när du markerar text efter ord. Se <xref linkend=\"vanilla-terminal-contents\"/> för mer information om hur man markerar text efter ord."
+msgid "Use this text box to specify characters or groups of characters that <application>Terminal</application> considers to be words when you select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for more information about how to select text by word."
+msgstr "Använd den här textrutan för att ange tecken eller grupper som <application>Terminal</application> anser vara ord när du markerar text efter ord. Se <xref linkend=\"vanilla-terminal-contents\"/> för mer information om hur man markerar text efter ord."
 
 #: C/vanilla-terminal.xml:854(title)
 msgid "Title and Command"
@@ -945,12 +945,12 @@ msgid "Foreground and Background"
 msgstr "Förgrund och bakgrund"
 
 #: C/vanilla-terminal.xml:921(para)
-msgid "Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the GNOME Desktop theme that is selected in the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\"><application>Appearance</application> preference tool</ulink>."
-msgstr "Välj alternativet <guilabel>Använd färger från systemtemat</guilabel> för att använda färger som är angivna i temat för GNOME-skrivbordet, som har valts under fliken <guilabel>Tema</guilabel> i <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\">inställningsverktyget <application>Utseende</application></ulink>."
+msgid "Select the <guilabel>Use colours from system theme</guilabel> option to use the colors that are specified in the desktop theme that is selected in the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\"><application>Appearance</application> preference tool</ulink>."
+msgstr "Välj alternativet <guilabel>Använd färger från systemtemat</guilabel> för att använda färger som är angivna i temat för-skrivbordet, som har valts under fliken <guilabel>Tema</guilabel> i <ulink type=\"help\" url=\"ghelp:user-guide?prefs-theme\">inställningsverktyget <application>Utseende</application></ulink>."
 
 #: C/vanilla-terminal.xml:924(para)
-msgid "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the foreground and background colors for the terminal. <application>GNOME Terminal</application> supports the following foreground and background color combinations:"
-msgstr "Använd rullgardinslistan <guilabel>Inbyggda scheman</guilabel> för att ange förgrund- och bakgrundsfärger för terminalen. <application>GNOME-terminal</application> har stöd för följande förgrund- och bakgrundsfärgkombinationer:"
+msgid "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the foreground and background colors for the terminal. <application>Terminal</application> supports the following foreground and background color combinations:"
+msgstr "Använd rullgardinslistan <guilabel>Inbyggda scheman</guilabel> för att ange förgrund- och bakgrundsfärger för terminalen. <application>Terminal</application> har stöd för följande förgrund- och bakgrundsfärgkombinationer:"
 
 #: C/vanilla-terminal.xml:930(guilabel)
 msgid "Black on light yellow"

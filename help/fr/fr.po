@@ -62,8 +62,8 @@ msgstr ""
 "md5='fd1c1b81fec91087349f1500b82501fe'"
 
 #: C/index.docbook:19(articleinfo/title)
-msgid "GNOME Terminal Manual"
-msgstr "Manuel du terminal GNOME"
+msgid "Terminal Manual"
+msgstr "Manuel du terminal"
 
 #: C/index.docbook:21(abstract/para)
 msgid ""
@@ -115,8 +115,8 @@ msgstr "<year>2009</year> <year>2010</year> <holder>Paul Cutler</holder>"
 #: C/index.docbook:180(revdescription/para)
 #: C/index.docbook:192(revdescription/para)
 #: C/index.docbook:205(revdescription/para)
-msgid "GNOME Documentation Project"
-msgstr "Projet de documentation GNOME"
+msgid "Documentation Project"
+msgstr "Projet de documentation"
 
 #: C/index.docbook:2(legalnotice/para)
 msgid ""
@@ -137,12 +137,12 @@ msgstr ""
 
 #: C/index.docbook:12(legalnotice/para) C/legal.xml:12(legalnotice/para)
 msgid ""
-"This manual is part of a collection of GNOME manuals distributed under the "
+"This manual is part of a collection of manuals distributed under the "
 "GFDL. If you want to distribute this manual separately from the collection, "
 "you can do so by adding a copy of the license to the manual, as described in "
 "section 6 of the license."
 msgstr ""
-"Ce manuel fait partie de la collection de manuels GNOME distribués selon les "
+"Ce manuel fait partie de la collection de manuels distribués selon les "
 "termes de la licence de documentation libre GNU. Si vous souhaitez "
 "distribuer ce manuel indépendamment de la collection, vous devez joindre un "
 "exemplaire de la licence au document, comme indiqué dans la section 6 de "
@@ -151,15 +151,15 @@ msgstr ""
 #: C/index.docbook:19(legalnotice/para) C/legal.xml:19(legalnotice/para)
 msgid ""
 "Many of the names used by companies to distinguish their products and "
-"services are claimed as trademarks. Where those names appear in any GNOME "
-"documentation, and the members of the GNOME Documentation Project are made "
+"services are claimed as trademarks. Where those names appear in any "
+"documentation, and the members of the Documentation Project are made "
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
 "La plupart des noms utilisés par les entreprises pour distinguer leurs "
 "produits et services sont des marques déposées. Lorsque ces noms "
-"apparaissent dans la documentation GNOME et que les membres du projet de "
-"Documentation GNOME sont informés de l'existence de ces marques déposées, "
+"apparaissent dans la documentation et que les membres du projet de "
+"Documentation sont informés de l'existence de ces marques déposées, "
 "soit ces noms entiers, soit leur première lettre est en majuscule."
 
 #: C/index.docbook:35(listitem/para) C/legal.xml:35(listitem/para)
@@ -225,35 +225,35 @@ msgstr ""
 
 #: C/index.docbook:57(authorgroup/author)
 msgid ""
-"<firstname>Sun</firstname> <surname>GNOME Documentation Team</surname> "
+"<firstname>Sun</firstname> <surname>Documentation Team</surname> "
 "<affiliation> <orgname>Sun Microsystems</orgname> </affiliation>"
 msgstr ""
-"<firstname>Sun</firstname> <surname>Équipe de documentation GNOME</surname> "
+"<firstname>Sun</firstname> <surname>Équipe de documentation</surname> "
 "<affiliation> <orgname>Sun Microsystems</orgname> </affiliation>"
 
 #: C/index.docbook:64(authorgroup/author)
 msgid ""
 "<firstname>Miguel</firstname> <surname>de Icaza</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Miguel</firstname> <surname>de Icaza</surname> <affiliation> "
-"<orgname>Projet de documentation GNOME</orgname> </affiliation>"
+"<orgname>Projet de documentation</orgname> </affiliation>"
 
 #: C/index.docbook:71(authorgroup/author)
 msgid ""
 "<firstname>Michael</firstname> <surname>Zucchi</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Michael</firstname> <surname>Zucchi</surname> <affiliation> "
-"<orgname>Projet de documentation GNOME</orgname> </affiliation>"
+"<orgname>Projet de documentation</orgname> </affiliation>"
 
 #: C/index.docbook:78(authorgroup/author)
 msgid ""
 "<firstname>Alexander</firstname> <surname>Kirillov</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Alexander</firstname> <surname>Kirillov</surname> <affiliation> "
-"<orgname>Projet de documentation GNOME</orgname> </affiliation>"
+"<orgname>Projet de documentation</orgname> </affiliation>"
 
 #: C/index.docbook:96(revdescription/para)
 msgid "Paul Cutler <email>pcutler@gnome.org</email>"
@@ -261,10 +261,10 @@ msgstr "Paul Cutler <email>pcutler@gnome.org</email>"
 
 #: C/index.docbook:92(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.9</revnumber> <date>January 2010</date> "
+"<revnumber>Terminal Manual V2.9</revnumber> <date>January 2010</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.9</revnumber> <date>janvier 2010</"
+"<revnumber>Manuel Terminal v 2.9</revnumber> <date>janvier 2010</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:105(revdescription/para)
@@ -273,10 +273,10 @@ msgstr "Paul Cutler"
 
 #: C/index.docbook:101(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.8</revnumber> <date>March 2009</date> <_:"
+"<revnumber>Terminal Manual V2.8</revnumber> <date>March 2009</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.8</revnumber> <date>mars 2009</date> "
+"<revnumber>Manuel Terminal v 2.8</revnumber> <date>mars 2009</date> "
 "<_:revdescription-1/>"
 
 #: C/index.docbook:113(revdescription/para)
@@ -287,71 +287,71 @@ msgstr ""
 #: C/index.docbook:165(revdescription/para)
 #: C/index.docbook:177(revdescription/para)
 #: C/index.docbook:189(revdescription/para)
-msgid "Sun GNOME Documentation Team"
-msgstr "Équipe de documentation GNOME de Sun"
+msgid "Sun Documentation Team"
+msgstr "Équipe de documentation de Sun"
 
 #: C/index.docbook:109(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.7</revnumber> <date>November 2003</date> "
+"<revnumber>Terminal Manual V2.7</revnumber> <date>November 2003</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.7</revnumber> <date>novembre 2003</"
+"<revnumber>Manuel Terminal v 2.7</revnumber> <date>novembre 2003</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:117(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.6</revnumber> <date>September 2003</"
+"<revnumber>Terminal Manual V2.6</revnumber> <date>September 2003</"
 "date> <_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.6</revnumber> <date>septembre 2003</"
+"<revnumber>Manuel Terminal v 2.6</revnumber> <date>septembre 2003</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:125(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.5</revnumber> <date>May 2003</date> <_:"
+"<revnumber>Terminal Manual V2.5</revnumber> <date>May 2003</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.5</revnumber> <date>mai 2003</date> "
+"<revnumber>Manuel Terminal v 2.5</revnumber> <date>mai 2003</date> "
 "<_:revdescription-1/>"
 
 #: C/index.docbook:137(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.4</revnumber> <date>January 2003</date> "
+"<revnumber>Terminal Manual V2.4</revnumber> <date>January 2003</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.4</revnumber> <date>janvier 2003</"
+"<revnumber>Manuel Terminal v 2.4</revnumber> <date>janvier 2003</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:149(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.3</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.3</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.3</revnumber> <date>août 2002</date> "
+"<revnumber>Manuel Terminal v 2.3</revnumber> <date>août 2002</date> "
 "<_:revdescription-1/>"
 
 #: C/index.docbook:161(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.2</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.2</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.2</revnumber> <date>août 2002</date> "
+"<revnumber>Manuel Terminal v 2.2</revnumber> <date>août 2002</date> "
 "<_:revdescription-1/>"
 
 #: C/index.docbook:173(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.1</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.1</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.1</revnumber> <date>août 2002</date> "
+"<revnumber>Manuel Terminal v 2.1</revnumber> <date>août 2002</date> "
 "<_:revdescription-1/>"
 
 #: C/index.docbook:185(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.0</revnumber> <date>April 2002</date> <_:"
+"<revnumber>Terminal Manual V2.0</revnumber> <date>April 2002</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Manuel de GNOME Terminal v 2.0</revnumber> <date>avril 2002</"
+"<revnumber>Manuel Terminal v 2.0</revnumber> <date>avril 2002</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:201(revdescription/para)
@@ -364,15 +364,15 @@ msgstr ""
 
 #: C/index.docbook:197(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal User's Guide</revnumber> <date>May 2000</date> <_:"
+"<revnumber>Terminal User's Guide</revnumber> <date>May 2000</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Guide utilisateur de GNOME Terminal</revnumber> <date>mai 2000</"
+"<revnumber>Guide utilisateur Terminal</revnumber> <date>mai 2000</"
 "date> <_:revdescription-1/>"
 
 #: C/index.docbook:211(articleinfo/releaseinfo)
-msgid "This manual describes version 2.30 of GNOME Terminal."
-msgstr "Ce manuel documente la version 2.30 du Terminal GNOME."
+msgid "This manual describes version 2.30 of Terminal."
+msgstr "Ce manuel documente la version 2.30 du Terminal."
 
 #: C/index.docbook:214(legalnotice/title)
 msgid "Feedback"
@@ -380,18 +380,18 @@ msgstr "Votre avis"
 
 #: C/index.docbook:215(legalnotice/para)
 msgid ""
-"To report a bug or make a suggestion regarding the GNOME Terminal "
+"To report a bug or make a suggestion regarding the Terminal "
 "application or this manual, follow the directions in the <ulink url=\"help:"
-"user-guide/feedback\" type=\"help\">GNOME Feedback Page</ulink>."
+"user-guide/feedback\" type=\"help\"></ulink>."
 msgstr ""
 "Pour rapporter une anomalie ou émettre une suggestion concernant "
-"l'application Terminal GNOME ou ce manuel, procédez comme indiqué sur la "
+"l'application Terminal ou ce manuel, procédez comme indiqué sur la "
 "<ulink url=\"help:user-guide?feedback\" type=\"help\">page de réactions sur "
-"GNOME</ulink>."
+"</ulink>."
 
 #: C/index.docbook:218(article/indexterm)
-msgid "<primary>GNOME Terminal</primary>"
-msgstr "<primary>GNOME Terminal</primary>"
+msgid "<primary>Terminal</primary>"
+msgstr "<primary>Terminal</primary>"
 
 #: C/index.docbook:221(article/indexterm)
 msgid "<primary>terminal application</primary>"
@@ -403,26 +403,25 @@ msgstr "Introduction"
 
 #: C/index.docbook:228(sect1/para)
 msgid ""
-"<application>GNOME Terminal</application> is a terminal emulation "
+"<application>Terminal</application> is a terminal emulation "
 "application that you can use to perform the following tasks:"
 msgstr ""
-"Le <application>Terminal GNOME</application> est une application d'émulation "
+"Le <application>Terminal</application> est une application d'émulation "
 "de terminal permettant d'effectuer les opérations suivantes :"
 
 #: C/index.docbook:233(varlistentry/term)
-msgid "Access a UNIX shell in the GNOME environment"
-msgstr "Accès à un shell UNIX dans l'environnement GNOME"
+msgid "Access a UNIX shell"
+msgstr "Accès à un shell UNIX dans l'environnement"
 
 #: C/index.docbook:235(listitem/para)
 msgid ""
 "A shell is a program that interprets and executes the commands that you type "
-"at a command line prompt. When you start <application>GNOME Terminal</"
+"at a command line prompt. When you start <application>Terminal</"
 "application>, the application starts the default shell that is specified in "
 "your system account. You can switch to a different shell at any time."
 msgstr ""
 "Un shell est un programme qui interprète et exécute les commandes saisies "
-"dans l'invite de commande. Lorsque vous lancez le <application>Terminal "
-"GNOME</application>, l'application démarre le shell par défaut renseigné "
+"dans l'invite de commande. Lorsque vous lancez le <application>Terminal</application>, l'application démarre le shell par défaut renseigné "
 "dans votre compte système. Vous pouvez passer à un autre shell à tout moment."
 
 #: C/index.docbook:241(varlistentry/term)
@@ -435,22 +434,21 @@ msgstr ""
 
 #: C/index.docbook:243(listitem/para)
 msgid ""
-"<application>GNOME Terminal</application> emulates the <application>xterm</"
+"<application>Terminal</application> emulates the <application>xterm</"
 "application> application developed by the X Consortium. In turn, the "
 "<application>xterm</application> application emulates the DEC VT102 terminal "
 "and also supports the DEC VT220 escape sequences. An escape sequence is a "
 "series of characters that starts with the <keycap>Esc</keycap> character. "
-"<application>GNOME Terminal</application> accepts all of the escape "
+"<application>Terminal</application> accepts all of the escape "
 "sequences that the VT102 and VT220 terminals use for functions such as to "
 "position the cursor and to clear the screen."
 msgstr ""
-"Le <application>Terminal GNOME</application> propose une émulation du "
+"Le <application>Terminal</application> propose une émulation du "
 "programme <application>xterm</application> développé par le X Consortium. Le "
 "programme <application>xterm</application> est lui-même une émulation du "
 "terminal DEC VT102 et prend également en charge des séquences d'échappement "
 "DEC VT220. Une séquence d'échappement représente une série de caractères qui "
-"commence par le caractère <keycap>Échap</keycap>. Le <application>Terminal "
-"GNOME</application> accepte toutes les séquences d'échappement utilisées par "
+"commence par le caractère <keycap>Échap</keycap>. Le <application>Terminal</application> accepte toutes les séquences d'échappement utilisées par "
 "les terminaux VT102 et VT220 pour les fonctions telles que le positionnement "
 "du pointeur et l'effacement de l'écran."
 
@@ -460,22 +458,21 @@ msgstr "Premiers pas"
 
 #: C/index.docbook:255(sect1/para)
 msgid ""
-"The following sections describe how to start <application>GNOME Terminal</"
+"The following sections describe how to start <application>Terminal</"
 "application>."
 msgstr ""
-"Les sections suivantes expliquent comment lancer le <application>Terminal "
-"GNOME</application>."
+"Les sections suivantes expliquent comment lancer le <application>Terminal</application>."
 
 #: C/index.docbook:259(sect2/title)
-msgid "Starting GNOME Terminal"
-msgstr "Démarrage du Terminal GNOME"
+msgid "Starting Terminal"
+msgstr "Démarrage du Terminal"
 
 #: C/index.docbook:260(sect2/para)
 msgid ""
-"You can start <application>GNOME Terminal</application> in the following "
+"You can start <application>Terminal</application> in the following "
 "ways:"
 msgstr ""
-"Vous pouvez lancer le <application>Terminal GNOME</application> en recourant "
+"Vous pouvez lancer le <application>Terminal</application> en recourant "
 "à l'une des méthodes suivantes :"
 
 #: C/index.docbook:265(varlistentry/term)
@@ -501,50 +498,50 @@ msgstr "Exécutez la commande suivante : <command>vanilla-terminal</command>"
 #: C/index.docbook:277(listitem/para)
 msgid ""
 "You can use command line options to modify the way in which you run "
-"<application>GNOME Terminal</application>. To view the command line options, "
+"<application>Terminal</application>. To view the command line options, "
 "execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "Vous pouvez utiliser les options de ligne de commande pour modifier la "
-"manière dont vous lancez le <application>Terminal GNOME</application>. Pour "
+"manière dont vous lancez le <application>Terminal</application>. Pour "
 "consulter les options de ligne de commande, exécutez la commande suivante : "
 "<command>vanilla-terminal --help</command>"
 
 #: C/index.docbook:285(sect2/title)
-msgid "When You First Start GNOME Terminal"
-msgstr "Premier lancement du Terminal GNOME"
+msgid "When You First Start Terminal"
+msgstr "Premier lancement du Terminal"
 
 #: C/index.docbook:286(sect2/para)
 msgid ""
-"When you start <application>GNOME Terminal</application> for the first time, "
+"When you start <application>Terminal</application> for the first time, "
 "the application opens a terminal window with a group of default settings. "
 "The group of default settings is called the Default profile. The profile "
-"name appears in the titlebar of the <application>GNOME Terminal</"
+"name appears in the titlebar of the <application>Terminal</"
 "application> window."
 msgstr ""
-"Au premier démarrage du <application>Terminal GNOME</application>, "
+"Au premier démarrage du <application>Terminal</application>, "
 "l'application ouvre une fenêtre de terminal avec un groupe de paramètres par "
 "défaut. Celui-ci est appelé Profil par défaut. Le nom du profil apparaît "
-"dans la barre de titre de la fenêtre du <application>Terminal GNOME</"
+"dans la barre de titre de la fenêtre du <application>Terminal</"
 "application>."
 
 #: C/index.docbook:289(figure/title)
-msgid "Example of a Default GNOME Terminal Window"
-msgstr "Exemple d'une fenêtre par défaut du Terminal GNOME"
+msgid "Example of a Default Terminal Window"
+msgstr "Exemple d'une fenêtre par défaut du Terminal"
 
 #: C/index.docbook:291(screenshot/screeninfo)
 #: C/index.docbook:361(screenshot/screeninfo)
-msgid "GNOME Terminal default window"
-msgstr "Fenêtre par défaut du Terminal GNOME"
+msgid "Terminal default window"
+msgstr "Fenêtre par défaut du Terminal"
 
 #: C/index.docbook:292(screenshot/mediaobject)
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>fenêtre par défaut de "
-"GNOME Terminal</phrase> </textobject>"
+"Terminal</phrase> </textobject>"
 
 #: C/index.docbook:302(sect2/para)
 msgid ""
@@ -552,7 +549,7 @@ msgid ""
 "commands. The command prompt can be a %, #, &gt;, $, or any other special "
 "character. The cursor is positioned at the command prompt. When you type a "
 "UNIX command and press <keycap>Return</keycap>, the computer executes the "
-"command. By default, <application>GNOME Terminal</application> uses the "
+"command. By default, <application>Terminal</application> uses the "
 "default shell specified for the user who starts the application."
 msgstr ""
 "La fenêtre de terminal affiche une ligne de commande dans laquelle vous "
@@ -560,15 +557,15 @@ msgstr ""
 "&gt;, $ ou des caractères spéciaux. Le pointeur est positionné sur l'invite "
 "de commande. Lorsque vous tapez une commande UNIX et appuyez sur "
 "<keycap>Entrée</keycap>, l'ordinateur exécute la commande. Par défaut, le "
-"<application>Terminal GNOME</application> utilise le shell par défaut "
+"<application>Terminal</application> utilise le shell par défaut "
 "indiqué par l'utilisateur qui lance l'application."
 
 #: C/index.docbook:305(sect2/para)
 msgid ""
-"<application>GNOME Terminal</application> also sets the following "
+"<application>Terminal</application> also sets the following "
 "environment variables:"
 msgstr ""
-"Le <application>Terminal GNOME</application> définit également les variables "
+"Le <application>Terminal</application> définit également les variables "
 "d'environnement suivantes :"
 
 #: C/index.docbook:310(varlistentry/term)
@@ -604,14 +601,14 @@ msgid ""
 "You can create a new profile, and apply the new profile to the terminal to "
 "modify characteristics such as font, color and effects, scroll behavior, "
 "window title, and compatibility. You can also specify a command that runs "
-"automatically when you start <application>GNOME Terminal</application> in "
+"automatically when you start <application>Terminal</application> in "
 "the profile."
 msgstr ""
 "Vous pouvez créer un nouveau profil et l'appliquer au terminal pour modifier "
 "des caractéristiques telles que la police, la couleur et les effets, le "
 "comportement pendant le défilement, le titre de la fenêtre et la "
 "compatibilité. Vous pouvez également définir dans le profil une commande qui "
-"s'exécute automatiquement au lancement du <application>Terminal GNOME</"
+"s'exécute automatiquement au lancement du <application>Terminal</"
 "application>."
 
 #: C/index.docbook:343(sect2/para)
@@ -644,11 +641,11 @@ msgstr ""
 #: C/index.docbook:347(sect2/para)
 msgid ""
 "The name of the current profile appears in the titlebar of the "
-"<application>GNOME Terminal</application>, unless you specify a different "
+"<application>Terminal</application>, unless you specify a different "
 "titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
 msgstr ""
 "Le nom du profil actuel apparaît dans la barre de titre du "
-"<application>Terminal GNOME</application>, à moins que vous ne indiquez un "
+"<application>Terminal</application>, à moins que vous ne indiquez un "
 "autre nom de barre de titre dans la boîte de dialogue <guilabel>Édition du "
 "profil</guilabel>."
 
@@ -667,14 +664,14 @@ msgstr "Utilisation de plusieurs terminaux"
 
 #: C/index.docbook:354(sect2/para)
 msgid ""
-"<application>GNOME Terminal</application> provides a tab feature that "
+"<application>Terminal</application> provides a tab feature that "
 "enables you to open several terminals in a single window. Each terminal "
 "opens in a separate tab. Click on the appropriate tab to display the "
 "terminal in the window. Each tabbed terminal in a window is a separate "
 "subprocess, so you can use each terminal for different tasks. You can apply "
 "a different profile to each tabbed terminal in the window."
 msgstr ""
-"Le <application>Terminal GNOME</application> propose une fonction de "
+"Le <application>Terminal</application> propose une fonction de "
 "génération d'onglets permettant d'ajouter d'autres terminaux à une fenêtre. "
 "Chaque terminal s'ouvre dans un onglet séparé. Cliquez sur l'onglet "
 "approprié pour que le terminal s'affiche dans la fenêtre. Chaque terminal "
@@ -686,14 +683,14 @@ msgstr ""
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
 "profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
-"terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
+"terminal-tabbed\"/> shows a <application>Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
 "titlebar."
 msgstr ""
 "La barre de titre de la fenêtre de terminal indique le nom du profil actuel "
 "ou le nom indiqué par le profil actuel. La <xref linkend=\"vanilla-terminal-"
-"tabbed\"/> affiche une fenêtre du <application>Terminal GNOME</application> "
+"tabbed\"/> affiche une fenêtre du <application>Terminal</application> "
 "avec quatre onglets. Dans ce cas, chacun des onglets possède un profil "
 "différent. Le nom du profil actuel, Profil1, apparaît dans la barre de titre."
 
@@ -704,12 +701,12 @@ msgstr "Exemple de fenêtre de terminal avec des onglets"
 #: C/index.docbook:362(screenshot/mediaobject)
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>fenêtre par défaut de "
-"GNOME Terminal</phrase> </textobject>"
+"Terminal</phrase> </textobject>"
 
 #: C/index.docbook:372(sect2/para)
 msgid ""
@@ -763,12 +760,12 @@ msgstr ""
 #: C/index.docbook:401(listitem/para)
 msgid ""
 "This action closes the terminal and any subprocesses that you opened from "
-"the terminal. If you close the last terminal window, the <application>GNOME "
+"the terminal. If you close the last terminal window, the <application>"
 "Terminal</application> application exits."
 msgstr ""
 "Cette action ferme la fenêtre et tous les sous-processus ouverts depuis le "
 "terminal. Si vous fermez la dernière fenêtre de terminal, vous quittez le "
-"programme <application>Terminal GNOME</application>."
+"programme <application>Terminal</application>."
 
 #: C/index.docbook:406(varlistentry/term)
 msgid "To add a new tabbed terminal to a window:"
@@ -870,11 +867,11 @@ msgstr ""
 
 #: C/index.docbook:468(listitem/para)
 msgid ""
-"Click <guibutton>Close</guibutton>. <application>GNOME Terminal</"
+"Click <guibutton>Close</guibutton>. <application>Terminal</"
 "application> adds the profile to the <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
 msgstr ""
-"Cliquez sur <guibutton>Fermer</guibutton>. Le <application>Terminal GNOME</"
+"Cliquez sur <guibutton>Fermer</guibutton>. Le <application>Terminal</"
 "application> ajoute le profil au sous-menu <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Changer de profil</guisubmenu></menuchoice>."
 
@@ -1012,10 +1009,10 @@ msgstr ""
 
 #: C/index.docbook:557(varlistentry/term)
 msgid ""
-"To display the <application>GNOME Terminal</application> window in full-"
+"To display the <application>Terminal</application> window in full-"
 "screen mode:"
 msgstr ""
-"Pour afficher la fenêtre du <application>Terminal GNOME</application> en "
+"Pour afficher la fenêtre du <application>Terminal</application> en "
 "plein écran :"
 
 #: C/index.docbook:559(listitem/para)
@@ -1141,14 +1138,13 @@ msgstr ""
 #: C/index.docbook:614(listitem/para)
 msgid ""
 "These actions select all text between the first and last items. For all text "
-"selections, <application>GNOME Terminal</application> copies the selected "
+"selections, <application>Terminal</application> copies the selected "
 "text into the clipboard when you release the mouse button. To explicitly "
 "copy the selected text, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
 msgstr ""
 "Ces actions sélectionnent tout le texte entre les premier et dernier "
-"éléments. Pour toutes les sélections de texte, le <application>Terminal "
-"GNOME</application> copie le texte sélectionné dans le presse-papiers "
+"éléments. Pour toutes les sélections de texte, le <application>Terminal</application> copie le texte sélectionné dans le presse-papiers "
 "lorsque vous relâchez le bouton de la souris. Pour copier explicitement le "
 "texte sélectionné, choisissez <menuchoice><guimenu>Édition</"
 "guimenu><guimenuitem>Copier</guimenuitem></menuchoice>."
@@ -1233,12 +1229,11 @@ msgstr "Affichage des raccourcis clavier"
 #: C/index.docbook:668(sect2/para)
 msgid ""
 "To view the keyboard shortcut settings that are defined for "
-"<application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</"
+"<application>Terminal</application>, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The "
 "<guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
 msgstr ""
-"Pour afficher les raccourcis clavier définis pour le <application>Terminal "
-"GNOME</application>, choisissez <menuchoice><guimenu>Édition</"
+"Pour afficher les raccourcis clavier définis pour le <application>Terminal</application>, choisissez <menuchoice><guimenu>Édition</"
 "guimenu><guimenuitem>Raccourcis clavier</guimenuitem></menuchoice>. La boîte "
 "de dialogue <guilabel>Raccourcis clavier</guilabel> contient les éléments "
 "suivants :"
@@ -1275,11 +1270,11 @@ msgstr ""
 #: C/index.docbook:681(listitem/para)
 msgid ""
 "Deselect this option to disable the shortcut key that is defined to enable "
-"you to access the <application>GNOME Terminal</application> menus. The "
+"you to access the <application>Terminal</application> menus. The "
 "default shortcut key to access the menus is <keycap>F10</keycap>."
 msgstr ""
 "Décochez cette case pour désactiver la touche de raccourci vous permettant "
-"d'accéder aux menus du <application>Terminal GNOME</application>. Par "
+"d'accéder aux menus du <application>Terminal</application>. Par "
 "défaut, il s'agit de <keycap>F10</keycap>."
 
 #: C/index.docbook:686(varlistentry/term)
@@ -1307,11 +1302,11 @@ msgstr "Taille du texte"
 
 #: C/index.docbook:698(sect2/para)
 msgid ""
-"You can use the following methods to resize the text in the GNOME Terminal "
+"You can use the following methods to resize the text in the Terminal "
 "window:"
 msgstr ""
 "Vous pouvez employer l'une des méthodes suivantes pour redimensionner le "
-"texte dans une fenêtre du terminal GNOME :"
+"texte dans une fenêtre du terminal :"
 
 #: C/index.docbook:700(listitem/para)
 msgid ""
@@ -1362,10 +1357,10 @@ msgstr ""
 #: C/index.docbook:719(listitem/para)
 msgid ""
 "Type the new title in the <guilabel>Title</guilabel> text box. "
-"<application>GNOME Terminal</application> applies the change immediately."
+"<application>Terminal</application> applies the change immediately."
 msgstr ""
 "Saisissez le nouveau titre dans la zone de texte <guilabel>Titre</guilabel>. "
-"Le <application>Terminal GNOME</application> applique immédiatement la "
+"Le <application>Terminal</application> applique immédiatement la "
 "modification."
 
 #: C/index.docbook:722(listitem/para)
@@ -1481,14 +1476,14 @@ msgstr "Préférences"
 
 #: C/index.docbook:791(sect1/para)
 msgid ""
-"To configure <application>GNOME Terminal</application>, choose "
+"To configure <application>Terminal</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</"
 "guimenuitem></menuchoice>. To configure another profile that you set up "
 "choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</"
 "guimenuitem></menuchoice>, select the profile you want to edit, then click "
 "<guibutton>Edit</guibutton>."
 msgstr ""
-"Pour configurer le <application>Terminal GNOME</application>, choisissez "
+"Pour configurer le <application>Terminal</application>, choisissez "
 "<menuchoice><guimenu>Édition</guimenu><guimenuitem>Profil actuel</"
 "guimenuitem></menuchoice>. Pour configurer un autre profil, choisissez "
 "<menuchoice><guimenu>Édition</guimenu><guimenuitem>Profils</guimenuitem></"
@@ -1498,12 +1493,11 @@ msgstr ""
 #: C/index.docbook:793(sect1/para)
 msgid ""
 "The <guilabel>Editing Profile</guilabel> dialog contains the following "
-"tabbed sections that you can use to configure <application>GNOME Terminal</"
+"tabbed sections that you can use to configure <application>Terminal</"
 "application>:"
 msgstr ""
 "La boîte de dialogue <guilabel>Édition du profil</guilabel> contient "
-"plusieurs onglets qui vous permettent de configurer le <application>Terminal "
-"GNOME</application> :"
+"plusieurs onglets qui vous permettent de configurer le <application>Terminal</application> :"
 
 #: C/index.docbook:812(sect2/title)
 msgid "General"
@@ -1588,12 +1582,12 @@ msgstr "<guilabel>Sélection par mot des caractères</guilabel>"
 #: C/index.docbook:881(listitem/para)
 msgid ""
 "Use this text box to specify characters or groups of characters that "
-"<application>GNOME Terminal</application> considers to be words when you "
+"<application>Terminal</application> considers to be words when you "
 "select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
 "Cette zone de texte permet d'indiquer les caractères ou groupes de "
-"caractères que le <application>Terminal GNOME</application> doit considérer "
+"caractères que le <application>Terminal</application> doit considérer "
 "comme des mots lorsque vous sélectionnez du texte mot par mot. Reportez-vous "
 "à <xref linkend=\"vanilla-terminal-contents\"/> pour plus d'informations sur "
 "la sélection de texte mot par mot."
@@ -1696,13 +1690,13 @@ msgstr "<guilabel>Premier et arrière-plan</guilabel>"
 #: C/index.docbook:957(listitem/para)
 msgid ""
 "Select the <guilabel>Use colours from system theme</guilabel> option to use "
-"the colors that are specified in the GNOME Desktop theme that is selected in "
+"the colors that are specified in the desktop theme that is selected in "
 "the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"help:"
 "user-guide/prefs-theme\"><application>Appearance</application> preference "
 "tool</ulink>."
 msgstr ""
 "Cochez l'option <guilabel>Utiliser les couleurs du thème système</guilabel> "
-"pour utiliser les couleurs indiquées dans le thème GNOME sélectionné dans "
+"pour utiliser les couleurs indiquées dans le thème sélectionné dans "
 "l'onglet <guilabel>Thème</guilabel> du <ulink type=\"help\" url=\"help:user-"
 "guide?prefs-theme\">panneau de préférences <application>Apparence</"
 "application></ulink>."
@@ -1710,12 +1704,12 @@ msgstr ""
 #: C/index.docbook:960(listitem/para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the "
-"foreground and background colors for the terminal. <application>GNOME "
+"foreground and background colors for the terminal. <application>"
 "Terminal</application> supports the following foreground and background "
 "color combinations:"
 msgstr ""
 "Cette liste déroulante permet d'indiquer les couleurs de premier plan et "
-"d'arrière-plan du terminal. Le <application>Terminal GNOME</application> "
+"d'arrière-plan du terminal. Le <application>Terminal</application> "
 "prend en charge les combinaisons de couleurs suivantes pour le premier plan "
 "et l'arrière-plan :"
 

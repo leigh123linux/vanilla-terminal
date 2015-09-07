@@ -39,8 +39,8 @@ msgstr ""
 "md5=fd1c1b81fec91087349f1500b82501fe"
 
 #: C/vanilla-terminal.xml:19(title)
-msgid "GNOME Terminal Manual"
-msgstr "Příručka Terminálu GNOME"
+msgid "Terminal Manual"
+msgstr "Příručka Terminálu"
 
 #: C/vanilla-terminal.xml:21(para)
 msgid ""
@@ -111,8 +111,8 @@ msgstr "Paul Cutler"
 #: C/vanilla-terminal.xml:144(para) C/vanilla-terminal.xml:156(para)
 #: C/vanilla-terminal.xml:168(para) C/vanilla-terminal.xml:180(para)
 #: C/vanilla-terminal.xml:192(para) C/vanilla-terminal.xml:205(para)
-msgid "GNOME Documentation Project"
-msgstr "Dokumentační projekt GNOME"
+msgid "Documentation Project"
+msgstr "Dokumentační projekt"
 
 #: C/vanilla-terminal.xml:2(para)
 msgid ""
@@ -132,26 +132,26 @@ msgstr ""
 
 #: C/vanilla-terminal.xml:12(para)
 msgid ""
-"This manual is part of a collection of GNOME manuals distributed under the "
+"This manual is part of a collection of manuals distributed under the "
 "GFDL. If you want to distribute this manual separately from the collection, "
 "you can do so by adding a copy of the license to the manual, as described in "
 "section 6 of the license."
 msgstr ""
-"Tato příručka je součástí sbírky příruček GNOME šířených za podmínek licence "
+"Tato příručka je součástí sbírky příruček šířených za podmínek licence "
 "GNU FDL. Pokud chcete tento dokument šířit odděleně od sbírky, musíte "
 "přiložit kopii licence dle popisu v oddíle 6 dané licence."
 
 #: C/vanilla-terminal.xml:19(para)
 msgid ""
 "Many of the names used by companies to distinguish their products and "
-"services are claimed as trademarks. Where those names appear in any GNOME "
-"documentation, and the members of the GNOME Documentation Project are made "
+"services are claimed as trademarks. Where those names appear in any "
+"documentation, and the members of the Documentation Project are made "
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
 "Mnoho užívaných jmen určených k zviditelnění produktů nebo služeb jsou "
 "ochranné známky. Na místech, kde jsou tato jména v dokumentaci užita a "
-"členové Dokumentačního projektu GNOME jsou si vědomi skutečnosti, že se "
+"členové Dokumentačního projektu jsou si vědomi skutečnosti, že se "
 "jedná o ochrannou známku, je takové jméno psáno velkými písmeny celé nebo s "
 "velkým písmenem na začátku."
 
@@ -218,8 +218,8 @@ msgid "Sun"
 msgstr "Sun"
 
 #: C/vanilla-terminal.xml:59(surname)
-msgid "GNOME Documentation Team"
-msgstr "Dokumentační tým GNOME"
+msgid "Documentation Team"
+msgstr "Dokumentační tým"
 
 #: C/vanilla-terminal.xml:65(firstname)
 msgid "Miguel"
@@ -246,8 +246,8 @@ msgid "Kirillov"
 msgstr "Kirillov"
 
 #: C/vanilla-terminal.xml:93(revnumber)
-msgid "GNOME Terminal Manual V2.9"
-msgstr "Příručka Terminálu GNOME verze 2.9"
+msgid "Terminal Manual V2.9"
+msgstr "Příručka Terminálu verze 2.9"
 
 #: C/vanilla-terminal.xml:94(date)
 msgid "January 2010"
@@ -258,16 +258,16 @@ msgid "Paul Cutler <email>pcutler@gnome.org</email>"
 msgstr "Paul Cutler <email>pcutler@gnome.org</email>"
 
 #: C/vanilla-terminal.xml:102(revnumber)
-msgid "GNOME Terminal Manual V2.8"
-msgstr "Příručka Terminálu GNOME verze 2.8"
+msgid "Terminal Manual V2.8"
+msgstr "Příručka Terminálu verze 2.8"
 
 #: C/vanilla-terminal.xml:103(date)
 msgid "March 2009"
 msgstr "Březen 2009"
 
 #: C/vanilla-terminal.xml:110(revnumber)
-msgid "GNOME Terminal Manual V2.7"
-msgstr "Příručka Terminálu GNOME verze 2.7"
+msgid "Terminal Manual V2.7"
+msgstr "Příručka Terminálu verze 2.7"
 
 #: C/vanilla-terminal.xml:111(date)
 msgid "November 2003"
@@ -277,36 +277,36 @@ msgstr "Listopad 2003"
 #: C/vanilla-terminal.xml:129(para) C/vanilla-terminal.xml:141(para)
 #: C/vanilla-terminal.xml:153(para) C/vanilla-terminal.xml:165(para)
 #: C/vanilla-terminal.xml:177(para) C/vanilla-terminal.xml:189(para)
-msgid "Sun GNOME Documentation Team"
-msgstr "Dokumentační tým GNOME společnosti Sun"
+msgid "Sun Documentation Team"
+msgstr "Dokumentační tým společnosti Sun"
 
 #: C/vanilla-terminal.xml:118(revnumber)
-msgid "GNOME Terminal Manual V2.6"
-msgstr "Příručka Terminálu GNOME verze 2.6"
+msgid "Terminal Manual V2.6"
+msgstr "Příručka Terminálu verze 2.6"
 
 #: C/vanilla-terminal.xml:119(date)
 msgid "September 2003"
 msgstr "Září 2003"
 
 #: C/vanilla-terminal.xml:126(revnumber)
-msgid "GNOME Terminal Manual V2.5"
-msgstr "Příručka Terminálu GNOME verze 2.5"
+msgid "Terminal Manual V2.5"
+msgstr "Příručka Terminálu verze 2.5"
 
 #: C/vanilla-terminal.xml:127(date)
 msgid "May 2003"
 msgstr "Květen 2003"
 
 #: C/vanilla-terminal.xml:138(revnumber)
-msgid "GNOME Terminal Manual V2.4"
-msgstr "Příručka Terminálu GNOME verze 2.4"
+msgid "Terminal Manual V2.4"
+msgstr "Příručka Terminálu verze 2.4"
 
 #: C/vanilla-terminal.xml:139(date)
 msgid "January 2003"
 msgstr "Leden 2003"
 
 #: C/vanilla-terminal.xml:150(revnumber)
-msgid "GNOME Terminal Manual V2.3"
-msgstr "Příručka Terminálu GNOME verze 2.3"
+msgid "Terminal Manual V2.3"
+msgstr "Příručka Terminálu verze 2.3"
 
 #: C/vanilla-terminal.xml:151(date) C/vanilla-terminal.xml:163(date)
 #: C/vanilla-terminal.xml:175(date)
@@ -314,24 +314,24 @@ msgid "August 2002"
 msgstr "Srpen 2002"
 
 #: C/vanilla-terminal.xml:162(revnumber)
-msgid "GNOME Terminal Manual V2.2"
-msgstr "Příručka Terminálu GNOME verze 2.2"
+msgid "Terminal Manual V2.2"
+msgstr "Příručka Terminálu verze 2.2"
 
 #: C/vanilla-terminal.xml:174(revnumber)
-msgid "GNOME Terminal Manual V2.1"
-msgstr "Příručka Terminálu GNOME verze 2.1"
+msgid "Terminal Manual V2.1"
+msgstr "Příručka Terminálu verze 2.1"
 
 #: C/vanilla-terminal.xml:186(revnumber)
-msgid "GNOME Terminal Manual V2.0"
-msgstr "Příručka Terminálu GNOME verze 2.0"
+msgid "Terminal Manual V2.0"
+msgstr "Příručka Terminálu verze 2.0"
 
 #: C/vanilla-terminal.xml:187(date)
 msgid "April 2002"
 msgstr "Duben 2002"
 
 #: C/vanilla-terminal.xml:198(revnumber)
-msgid "GNOME Terminal User's Guide"
-msgstr "Uživatelská příručka Terminálu GNOME"
+msgid "Terminal User's Guide"
+msgstr "Uživatelská příručka Terminálu"
 
 #: C/vanilla-terminal.xml:199(date)
 msgid "May 2000"
@@ -346,8 +346,8 @@ msgstr ""
 "email>"
 
 #: C/vanilla-terminal.xml:211(releaseinfo)
-msgid "This manual describes version 2.30 of GNOME Terminal."
-msgstr "Tato příručka popisuje Terminál GNOME ve verzi 2.30."
+msgid "This manual describes version 2.30 of Terminal."
+msgstr "Tato příručka popisuje Terminál ve verzi 2.30."
 
 #: C/vanilla-terminal.xml:214(title)
 msgid "Feedback"
@@ -355,18 +355,18 @@ msgstr "Ohlasy"
 
 #: C/vanilla-terminal.xml:215(para)
 msgid ""
-"To report a bug or make a suggestion regarding the GNOME Terminal "
+"To report a bug or make a suggestion regarding the Terminal "
 "application or this manual, follow the directions in the <ulink url=\"ghelp:"
-"user-guide?feedback\" type=\"help\">GNOME Feedback Page</ulink>."
+"user-guide?feedback\" type=\"help\"></ulink>."
 msgstr ""
 "Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k aplikaci "
-"Terminál GNOME nebo této příručce, postupujte dle instrukcí na stránce "
+"Terminál nebo této příručce, postupujte dle instrukcí na stránce "
 "<ulink url=\"ghelp:user-guide?feedback\" type=\"help\">Stránka s ohlasy na "
-"GNOME</ulink>."
+"</ulink>."
 
 #: C/vanilla-terminal.xml:219(primary)
-msgid "GNOME Terminal"
-msgstr "Terminál GNOME"
+msgid "Terminal"
+msgstr "Terminál"
 
 #: C/vanilla-terminal.xml:222(primary)
 msgid "terminal application"
@@ -378,25 +378,25 @@ msgstr "Úvod"
 
 #: C/vanilla-terminal.xml:228(para)
 msgid ""
-"<application>GNOME Terminal</application> is a terminal emulation "
+"<application>Terminal</application> is a terminal emulation "
 "application that you can use to perform the following tasks:"
 msgstr ""
-"<application>Terminál GNOME</application> je aplikace emulující terminál, "
+"<application>Terminál</application> je aplikace emulující terminál, "
 "která vám umožňuje provádět následující věci:"
 
 #: C/vanilla-terminal.xml:233(term)
-msgid "Access a UNIX shell in the GNOME environment"
-msgstr "Přistupovat k shellu UNIXU z prostředí GNOME"
+msgid "Access a UNIX shell"
+msgstr "Přistupovat k shellu UNIXU z prostředí"
 
 #: C/vanilla-terminal.xml:235(para)
 msgid ""
 "A shell is a program that interprets and executes the commands that you type "
-"at a command line prompt. When you start <application>GNOME Terminal</"
+"at a command line prompt. When you start <application>Terminal</"
 "application>, the application starts the default shell that is specified in "
 "your system account. You can switch to a different shell at any time."
 msgstr ""
 "Shell je program, který interpretuje a vykonává příkazy, které napíšete do "
-"výzvy příkazového řádku. Při startu <application>Terminálu GNOME</"
+"výzvy příkazového řádku. Při startu <application>Terminálu</"
 "application> spustí aplikace výchozí shell vašeho účtu v systému. Shell "
 "můžete kdykoliv změnit."
 
@@ -410,20 +410,20 @@ msgstr ""
 
 #: C/vanilla-terminal.xml:243(para)
 msgid ""
-"<application>GNOME Terminal</application> emulates the <application>xterm</"
+"<application>Terminal</application> emulates the <application>xterm</"
 "application> application developed by the X Consortium. In turn, the "
 "<application>xterm</application> application emulates the DEC VT102 terminal "
 "and also supports the DEC VT220 escape sequences. An escape sequence is a "
 "series of characters that starts with the <keycap>Esc</keycap> character. "
-"<application>GNOME Terminal</application> accepts all of the escape "
+"<application>Terminal</application> accepts all of the escape "
 "sequences that the VT102 and VT220 terminals use for functions such as to "
 "position the cursor and to clear the screen."
 msgstr ""
-"<application>Terminál GNOME</application> emuluje aplikaci "
+"<application>Terminál</application> emuluje aplikaci "
 "<application>xterm</application>, která byla vyvinuta společností X "
 "Consortium. Aplikace <application>xterm</application> emuluje terminál DEC "
 "VT102 a také podporuje escape sekvence DEC VT220. Escape sekvence je série "
-"znaků začínající znakem <keycap>Esc</keycap>. <application>Terminál GNOME</"
+"znaků začínající znakem <keycap>Esc</keycap>. <application>Terminál</"
 "application> akceptuje všechny escape sekvence, které používají terminály "
 "VT102 a VT220, například pro umisťování kurzoru nebo mazání obrazovky."
 
@@ -433,22 +433,22 @@ msgstr "Začínáme"
 
 #: C/vanilla-terminal.xml:255(para)
 msgid ""
-"The following sections describe how to start <application>GNOME Terminal</"
+"The following sections describe how to start <application>Terminal</"
 "application>."
 msgstr ""
-"Následující části popisují způsoby spuštění <application>Terminálu GNOME</"
+"Následující části popisují způsoby spuštění <application>Terminálu</"
 "application>."
 
 #: C/vanilla-terminal.xml:259(title)
-msgid "Starting GNOME Terminal"
-msgstr "Spuštění Terminálu GNOME"
+msgid "Starting Terminal"
+msgstr "Spuštění Terminálu"
 
 #: C/vanilla-terminal.xml:260(para)
 msgid ""
-"You can start <application>GNOME Terminal</application> in the following "
+"You can start <application>Terminal</application> in the following "
 "ways:"
 msgstr ""
-"<application>Terminál GNOME</application> lze spustit následujícími způsoby:"
+"<application>Terminál</application> lze spustit následujícími způsoby:"
 
 #: C/vanilla-terminal.xml:265(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -473,38 +473,38 @@ msgstr "Spusťte následující příkaz: <command>vanilla-terminal</command>"
 #: C/vanilla-terminal.xml:277(para)
 msgid ""
 "You can use command line options to modify the way in which you run "
-"<application>GNOME Terminal</application>. To view the command line options, "
+"<application>Terminal</application>. To view the command line options, "
 "execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "Můžete použít přepínače příkazové řádky k ovlivnění způsobu spouštění "
-"<application>Terminálu GNOME</application>. Možnosti parametrů příkazu "
+"<application>Terminálu</application>. Možnosti parametrů příkazu "
 "zobrazíte spuštěním příkazu: <command>vanilla-terminal --help</command>"
 
 #: C/vanilla-terminal.xml:285(title)
-msgid "When You First Start GNOME Terminal"
-msgstr "Když poprvé spustíte Terminál GNOME"
+msgid "When You First Start Terminal"
+msgstr "Když poprvé spustíte Terminál"
 
 #: C/vanilla-terminal.xml:286(para)
 msgid ""
-"When you start <application>GNOME Terminal</application> for the first time, "
+"When you start <application>Terminal</application> for the first time, "
 "the application opens a terminal window with a group of default settings. "
 "The group of default settings is called the Default profile. The profile "
-"name appears in the titlebar of the <application>GNOME Terminal</"
+"name appears in the titlebar of the <application>Terminal</"
 "application> window."
 msgstr ""
-"Když spustíte <application>Terminál GNOME</application> úplně poprvé, "
+"Když spustíte <application>Terminál</application> úplně poprvé, "
 "aplikace otevře okno terminálu s výchozím nastavením. Výchozímu nastavení se "
 "říká Výchozí profil. Název profilu je zobrazen v titulku okna "
-"<application>Terminálu GNOME</application>."
+"<application>Terminálu</application>."
 
 #: C/vanilla-terminal.xml:289(title)
-msgid "Example of a Default GNOME Terminal Window"
-msgstr "Příklad typického okna Terminálu GNOME"
+msgid "Example of a Default Terminal Window"
+msgstr "Příklad typického okna Terminálu"
 
 #: C/vanilla-terminal.xml:291(screeninfo) C/vanilla-terminal.xml:297(phrase)
 #: C/vanilla-terminal.xml:361(screeninfo) C/vanilla-terminal.xml:367(phrase)
-msgid "GNOME Terminal default window"
-msgstr "Výchozí okno Terminálu GNOME"
+msgid "Terminal default window"
+msgstr "Výchozí okno Terminálu"
 
 #: C/vanilla-terminal.xml:302(para)
 msgid ""
@@ -512,22 +512,22 @@ msgid ""
 "commands. The command prompt can be a %, #, &gt;, $, or any other special "
 "character. The cursor is positioned at the command prompt. When you type a "
 "UNIX command and press <keycap>Return</keycap>, the computer executes the "
-"command. By default, <application>GNOME Terminal</application> uses the "
+"command. By default, <application>Terminal</application> uses the "
 "default shell specified for the user who starts the application."
 msgstr ""
 "Okno terminálu zobrazuje výzvu příkazového řádku, kam můžete psát UNIXové "
 "příkazy. Výzva může být označena jako %, #, &gt;, $ nebo jiným speciálním "
 "znakem. Kurzor je na pozici výzvy příkazového řádku. Když napíšete UNIXový "
 "příkaz a stisknete <keycap>Enter</keycap>, počítač příkaz spustí. Výchozí "
-"shell, který <application>Terminál GNOME</application> používá, je výchozí "
+"shell, který <application>Terminál</application> používá, je výchozí "
 "shell uživatele, který spustil aplikaci."
 
 #: C/vanilla-terminal.xml:305(para)
 msgid ""
-"<application>GNOME Terminal</application> also sets the following "
+"<application>Terminal</application> also sets the following "
 "environment variables:"
 msgstr ""
-"<application>Terminál GNOME</application> také nastavuje následující "
+"<application>Terminál</application> také nastavuje následující "
 "proměnné prostředí:"
 
 #: C/vanilla-terminal.xml:311(varname)
@@ -563,13 +563,13 @@ msgid ""
 "You can create a new profile, and apply the new profile to the terminal to "
 "modify characteristics such as font, color and effects, scroll behavior, "
 "window title, and compatibility. You can also specify a command that runs "
-"automatically when you start <application>GNOME Terminal</application> in "
+"automatically when you start <application>Terminal</application> in "
 "the profile."
 msgstr ""
 "Můžete vytvořit nový profil a ten použít pro úpravu vlastností terminálu "
 "jako písma, barvy a efektů, rolování výstupu, titulku okna nebo "
 "kompatibility. Také můžete určit příkaz, který se spustí při startu "
-"<application>Terminálu GNOME</application> s tímto profilem."
+"<application>Terminálu</application> s tímto profilem."
 
 #: C/vanilla-terminal.xml:343(para)
 msgid ""
@@ -599,11 +599,10 @@ msgstr "vanilla-terminal --window-with-profile=<placeholder-1/>"
 #: C/vanilla-terminal.xml:347(para)
 msgid ""
 "The name of the current profile appears in the titlebar of the "
-"<application>GNOME Terminal</application>, unless you specify a different "
+"<application>Terminal</application>, unless you specify a different "
 "titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
 msgstr ""
-"Jméno aktuálního profilu se zobrazuje v titulku <application>Terminálu "
-"GNOME</application>, pokud nezměníte jméno titulku v okně <guilabel>Úpravy "
+"Jméno aktuálního profilu se zobrazuje v titulku <application>Terminálu</application>, pokud nezměníte jméno titulku v okně <guilabel>Úpravy "
 "profilu</guilabel>."
 
 #: C/vanilla-terminal.xml:349(para)
@@ -620,14 +619,14 @@ msgstr "Práce s více terminály"
 
 #: C/vanilla-terminal.xml:354(para)
 msgid ""
-"<application>GNOME Terminal</application> provides a tab feature that "
+"<application>Terminal</application> provides a tab feature that "
 "enables you to open several terminals in a single window. Each terminal "
 "opens in a separate tab. Click on the appropriate tab to display the "
 "terminal in the window. Each tabbed terminal in a window is a separate "
 "subprocess, so you can use each terminal for different tasks. You can apply "
 "a different profile to each tabbed terminal in the window."
 msgstr ""
-"<application>Terminál GNOME</application> umožňuje používat karty pro "
+"<application>Terminál</application> umožňuje používat karty pro "
 "otevírání více terminálů v jednom okně. Každý terminál je otevřen v jedné "
 "kartě. Klepnutím na kartu terminálu jej zobrazíte v okně. Každý terminál v "
 "kartě je samostatný podproces a proto můžete každý z nich použít pro jinou "
@@ -637,14 +636,14 @@ msgstr ""
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
 "profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
-"terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
+"terminal-tabbed\"/> shows a <application>Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
 "titlebar."
 msgstr ""
 "Titulek okna terminálu zobrazuje buď název aktuálního profilu nebo název v "
 "profilu nastavený. <xref linkend=\"vanilla-terminal-tabbed\"/> ukazuje "
-"<application>Terminál GNOME</application> se čtyřmi kartami. V tomto případě "
+"<application>Terminál</application> se čtyřmi kartami. V tomto případě "
 "má každá ze čtyř karet vlastní profil. Jméno profilu v aktivní kartě, "
 "Profile 1, je zobrazeno v titulku."
 
@@ -701,11 +700,11 @@ msgstr ""
 #: C/vanilla-terminal.xml:401(para)
 msgid ""
 "This action closes the terminal and any subprocesses that you opened from "
-"the terminal. If you close the last terminal window, the <application>GNOME "
+"the terminal. If you close the last terminal window, the <application>"
 "Terminal</application> application exits."
 msgstr ""
 "Tato akce ukončí terminál a všechny podprocesy v něm spuštěné. Pokud "
-"uzavřete poslední okno terminálu, <application>Terminál GNOME</application> "
+"uzavřete poslední okno terminálu, <application>Terminál</application> "
 "se ukončí."
 
 #: C/vanilla-terminal.xml:406(term)
@@ -807,11 +806,11 @@ msgstr ""
 
 #: C/vanilla-terminal.xml:468(para)
 msgid ""
-"Click <guibutton>Close</guibutton>. <application>GNOME Terminal</"
+"Click <guibutton>Close</guibutton>. <application>Terminal</"
 "application> adds the profile to the <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
 msgstr ""
-"Klepněte na <guibutton>Zavřít</guibutton>. <application>Terminál GNOME</"
+"Klepněte na <guibutton>Zavřít</guibutton>. <application>Terminál</"
 "application> přidá profil do podnabídky nabídky "
 "<menuchoice><guimenu>Terminál</guimenu><guisubmenu>Změnit profil</"
 "guisubmenu></menuchoice>."
@@ -945,10 +944,10 @@ msgstr ""
 
 #: C/vanilla-terminal.xml:557(term)
 msgid ""
-"To display the <application>GNOME Terminal</application> window in full-"
+"To display the <application>Terminal</application> window in full-"
 "screen mode:"
 msgstr ""
-"Zobrazení <application>Terminálu GNOME</application> v režimu celé obrazovky:"
+"Zobrazení <application>Terminálu</application> v režimu celé obrazovky:"
 
 #: C/vanilla-terminal.xml:559(para)
 msgid ""
@@ -999,7 +998,7 @@ msgstr ""
 "Použijte rolovací lištu, která je obvykle umístěna na pravé straně okna "
 "terminálu."
 
-# CZ translation fixes GNOMEBUG #543187
+# CZ translation fixesBUG #543187
 #: C/vanilla-terminal.xml:586(para)
 msgid ""
 "Press the <keycombo><keycap>Shift</keycap><keycap>Page Up</keycap></"
@@ -1068,13 +1067,13 @@ msgstr ""
 #: C/vanilla-terminal.xml:614(para)
 msgid ""
 "These actions select all text between the first and last items. For all text "
-"selections, <application>GNOME Terminal</application> copies the selected "
+"selections, <application>Terminal</application> copies the selected "
 "text into the clipboard when you release the mouse button. To explicitly "
 "copy the selected text, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
 msgstr ""
 "Všechny tyto způsoby kopírují text mezi první a poslední položkou. Všechny "
-"výběry v <application>Terminálu GNOME</application> jsou po uvolnění "
+"výběry v <application>Terminálu</application> jsou po uvolnění "
 "tlačítka myši vložena do schránky. Pokud chcete zvolený text kopírovat "
 "klasicky, zvolte z nabídky <menuchoice><guimenu>Upravit</"
 "guimenu><guimenuitem>Kopírovat</guimenuitem></menuchoice>."
@@ -1159,17 +1158,17 @@ msgstr "Prohlížení klávesových zkratek"
 #: C/vanilla-terminal.xml:668(para)
 msgid ""
 "To view the keyboard shortcut settings that are defined for "
-"<application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</"
+"<application>Terminal</application>, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The "
 "<guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
 msgstr ""
 "Pokud chcete prohlížet klávesové zkratky, které jsou definovány pro "
-"<application>Terminál GNOME</application>, zvolte z nabídky "
+"<application>Terminál</application>, zvolte z nabídky "
 "<menuchoice><guimenu>Upravit</guimenu><guimenuitem>Klávesové zkratky</"
 "guimenuitem></menuchoice>. Objeví se okno <guilabel>Klávesové zkratky</"
 "guilabel>, které obsahuje tyto volby:"
 
-# CZ translation has a fix for GNOMEBUG #552938
+# CZ translation has a fix forBUG #552938
 #: C/vanilla-terminal.xml:672(guilabel)
 msgid "Disable all menu access keys (such as Alt+f to open File menu)"
 msgstr ""
@@ -1190,7 +1189,7 @@ msgstr ""
 "okna. V některých případech je nutné zmáčknout kombinaci klávesy "
 "<keycap>Alt</keycap> s akcelerátorem, aby byla akce provedena."
 
-# CZ translation has a fix for GNOMEBUG #552938
+# CZ translation has a fix forBUG #552938
 #: C/vanilla-terminal.xml:679(guilabel)
 msgid "Disable menu shortcut key (F10 by default)"
 msgstr "Povolit klávesovou zkratku hlavní nabídky (F10 je výchozí)"
@@ -1198,11 +1197,11 @@ msgstr "Povolit klávesovou zkratku hlavní nabídky (F10 je výchozí)"
 #: C/vanilla-terminal.xml:681(para)
 msgid ""
 "Deselect this option to disable the shortcut key that is defined to enable "
-"you to access the <application>GNOME Terminal</application> menus. The "
+"you to access the <application>Terminal</application> menus. The "
 "default shortcut key to access the menus is <keycap>F10</keycap>."
 msgstr ""
 "Tato volba slouží k (de)aktivaci klávesové zkratky, která v "
-"<application>Terminálu GNOME</application> slouží k přístupu do nabídky. "
+"<application>Terminálu</application> slouží k přístupu do nabídky. "
 "Výchozí klávesová zkratka pro přístup k nabídce je klávesa <keycap>F10</"
 "keycap>."
 
@@ -1231,9 +1230,9 @@ msgstr "Velikost textu"
 
 #: C/vanilla-terminal.xml:698(para)
 msgid ""
-"You can use the following methods to resize the text in the GNOME Terminal "
+"You can use the following methods to resize the text in the Terminal "
 "window:"
-msgstr "Zvětšit text v okně Terminálu GNOME lze následujícími způsoby:"
+msgstr "Zvětšit text v okně Terminálu lze následujícími způsoby:"
 
 #: C/vanilla-terminal.xml:700(para)
 msgid ""
@@ -1283,10 +1282,10 @@ msgstr ""
 #: C/vanilla-terminal.xml:719(para)
 msgid ""
 "Type the new title in the <guilabel>Title</guilabel> text box. "
-"<application>GNOME Terminal</application> applies the change immediately."
+"<application>Terminal</application> applies the change immediately."
 msgstr ""
 "Do textového pole <guilabel>Titulek</guilabel> napište jméno nového titulku. "
-"Změna se v <application>Terminálu GNOME</application> projeví okamžitě."
+"Změna se v <application>Terminálu</application> projeví okamžitě."
 
 #: C/vanilla-terminal.xml:722(para)
 msgid ""
@@ -1397,14 +1396,14 @@ msgstr "Předvolby"
 
 #: C/vanilla-terminal.xml:791(para)
 msgid ""
-"To configure <application>GNOME Terminal</application>, choose "
+"To configure <application>Terminal</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</"
 "guimenuitem></menuchoice>. To configure another profile that you set up "
 "choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</"
 "guimenuitem></menuchoice>, select the profile you want to edit, then click "
 "<guibutton>Edit</guibutton>."
 msgstr ""
-"Pokud chcete změnit vlastnosti <application>Terminálu GNOME</application>, "
+"Pokud chcete změnit vlastnosti <application>Terminálu</application>, "
 "zvolte z nabídky <menuchoice><guimenu>Upravit</guimenu><guimenuitem>Aktuální "
 "profil</guimenuitem></menuchoice>. Pokud chcete upravit vlastnosti jiného "
 "vámi vytvořeného profilu, zvolte z nabídky <menuchoice><guimenu>Upravit</"
@@ -1415,11 +1414,11 @@ msgstr ""
 #: C/vanilla-terminal.xml:793(para)
 msgid ""
 "The <guilabel>Editing Profile</guilabel> dialog contains the following "
-"tabbed sections that you can use to configure <application>GNOME Terminal</"
+"tabbed sections that you can use to configure <application>Terminal</"
 "application>:"
 msgstr ""
 "Okno <guilabel>Úprava profilu</guilabel> obsahuje v kartách následující "
-"části umožňující nastavit <application>Terminál GNOME</application>:"
+"části umožňující nastavit <application>Terminál</application>:"
 
 #: C/vanilla-terminal.xml:812(title)
 msgid "General"
@@ -1494,12 +1493,12 @@ msgstr "Znaky pro výběr slov"
 #: C/vanilla-terminal.xml:872(para)
 msgid ""
 "Use this text box to specify characters or groups of characters that "
-"<application>GNOME Terminal</application> considers to be words when you "
+"<application>Terminal</application> considers to be words when you "
 "select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
 "Do tohoto textového pole zapište znaky nebo skupiny znaků, podle kterých se "
-"<application>Terminál GNOME</application> rozhoduje při výběru po slovech. "
+"<application>Terminál</application> rozhoduje při výběru po slovech. "
 "Více informací o výběru textu po slovech popisuje <xref linkend=\"vanilla-"
 "terminal-contents\"/>."
 
@@ -1595,13 +1594,13 @@ msgstr "Popředí a pozadí"
 #: C/vanilla-terminal.xml:948(para)
 msgid ""
 "Select the <guilabel>Use colours from system theme</guilabel> option to use "
-"the colors that are specified in the GNOME Desktop theme that is selected in "
+"the colors that are specified in the desktop theme that is selected in "
 "the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"ghelp:"
 "user-guide?prefs-theme\"><application>Appearance</application> preference "
 "tool</ulink>."
 msgstr ""
 "Zaškrtněte volbu <guilabel>Používat barvy systémového motivu</guilabel>, "
-"pokud chcete použít barvy určené motivem prostředí GNOME. Nastavení vzhledu "
+"pokud chcete použít barvy určené motivem prostředí. Nastavení vzhledu "
 "lze provést na kartě <guilabel>Motiv</guilabel> v <ulink type=\"help\" url="
 "\"ghelp:user-guide?prefs-theme\">nástroji <application>Nastavení vzhledu</"
 "application></ulink>."
@@ -1609,12 +1608,12 @@ msgstr ""
 #: C/vanilla-terminal.xml:951(para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the "
-"foreground and background colors for the terminal. <application>GNOME "
+"foreground and background colors for the terminal. <application>"
 "Terminal</application> supports the following foreground and background "
 "color combinations:"
 msgstr ""
 "Pomocí rolovacího seznamu <guilabel>Zabudovaná schémata</guilabel> můžete "
-"nastavit popředí a pozadí terminálu. <application>Terminál GNOME</"
+"nastavit popředí a pozadí terminálu. <application>Terminál</"
 "application> podporuje tyto barevné kombinace popředí a pozadí:"
 
 #: C/vanilla-terminal.xml:957(guilabel)

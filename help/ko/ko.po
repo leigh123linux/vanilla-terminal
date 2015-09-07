@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2008-10-31 04:48+0900\n"
 "PO-Revision-Date: 2008-10-31 04:52+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
-"Language-Team: GNOME Korea <vanilla-kr-hackers@lists.kldp.net>\n"
+"Language-Team: Korea <vanilla-kr-hackers@lists.kldp.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,11 +35,11 @@ msgstr ""
 "md5=fd1c1b81fec91087349f1500b82501fe"
 
 #: ../C/vanilla-terminal.xml:18(title)
-msgid "GNOME Terminal Manual"
+msgid "Terminal Manual"
 msgstr "그놈 터미널 설명서"
 
 #: ../C/vanilla-terminal.xml:20(para)
-msgid "User manual for the GNOME Terminal application."
+msgid "User manual for the Terminal application."
 msgstr "그놈 터미널 프로그램 사용자 설명서."
 
 #: ../C/vanilla-terminal.xml:25(year)
@@ -84,7 +84,7 @@ msgstr "Alexander Kirillov"
 #: ../C/vanilla-terminal.xml:138(para) ../C/vanilla-terminal.xml:150(para)
 #: ../C/vanilla-terminal.xml:162(para) ../C/vanilla-terminal.xml:174(para)
 #: ../C/vanilla-terminal.xml:187(para)
-msgid "GNOME Documentation Project"
+msgid "Documentation Project"
 msgstr "그놈 문서 프로젝트"
 
 #: ../C/vanilla-terminal.xml:2(para) ../C/legal.xml:2(para)
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../C/vanilla-terminal.xml:12(para) ../C/legal.xml:12(para)
 msgid ""
-"This manual is part of a collection of GNOME manuals distributed under the "
+"This manual is part of a collection of manuals distributed under the "
 "GFDL. If you want to distribute this manual separately from the collection, "
 "you can do so by adding a copy of the license to the manual, as described in "
 "section 6 of the license."
@@ -116,8 +116,8 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:19(para) ../C/legal.xml:19(para)
 msgid ""
 "Many of the names used by companies to distinguish their products and "
-"services are claimed as trademarks. Where those names appear in any GNOME "
-"documentation, and the members of the GNOME Documentation Project are made "
+"services are claimed as trademarks. Where those names appear in any "
+"documentation, and the members of the Documentation Project are made "
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
@@ -181,7 +181,7 @@ msgid "Sun"
 msgstr "Sun"
 
 #: ../C/vanilla-terminal.xml:48(surname)
-msgid "GNOME Documentation Team"
+msgid "Documentation Team"
 msgstr "그놈 문서 팀"
 
 #: ../C/vanilla-terminal.xml:54(firstname)
@@ -209,7 +209,7 @@ msgid "Kirillov"
 msgstr "Kirillov"
 
 #: ../C/vanilla-terminal.xml:80(revnumber)
-msgid "GNOME Terminal Manual V2.8"
+msgid "Terminal Manual V2.8"
 msgstr "그놈 터미널 설명서 버전 2.8"
 
 #: ../C/vanilla-terminal.xml:81(date)
@@ -221,11 +221,11 @@ msgstr "2004년 3월"
 #: ../C/vanilla-terminal.xml:123(para) ../C/vanilla-terminal.xml:135(para)
 #: ../C/vanilla-terminal.xml:147(para) ../C/vanilla-terminal.xml:159(para)
 #: ../C/vanilla-terminal.xml:171(para)
-msgid "Sun GNOME Documentation Team"
+msgid "Sun Documentation Team"
 msgstr "Sun 그놈 문서 팀"
 
 #: ../C/vanilla-terminal.xml:92(revnumber)
-msgid "GNOME Terminal Manual V2.7"
+msgid "Terminal Manual V2.7"
 msgstr "그놈 터미널 설명서 버전 2.7"
 
 #: ../C/vanilla-terminal.xml:93(date)
@@ -233,7 +233,7 @@ msgid "November 2003"
 msgstr "2003년 11월"
 
 #: ../C/vanilla-terminal.xml:100(revnumber)
-msgid "GNOME Terminal Manual V2.6"
+msgid "Terminal Manual V2.6"
 msgstr "그놈 터미널 설명서 버전 2.6"
 
 #: ../C/vanilla-terminal.xml:101(date)
@@ -241,7 +241,7 @@ msgid "September 2003"
 msgstr "2003년 9월"
 
 #: ../C/vanilla-terminal.xml:108(revnumber)
-msgid "GNOME Terminal Manual V2.5"
+msgid "Terminal Manual V2.5"
 msgstr "그놈 터미널 설명서 버전 2.5"
 
 #: ../C/vanilla-terminal.xml:109(date)
@@ -249,7 +249,7 @@ msgid "May 2003"
 msgstr "2003년 5월"
 
 #: ../C/vanilla-terminal.xml:120(revnumber)
-msgid "GNOME Terminal Manual V2.4"
+msgid "Terminal Manual V2.4"
 msgstr "그놈 터미널 설명서 버전 2.4"
 
 #: ../C/vanilla-terminal.xml:121(date)
@@ -257,7 +257,7 @@ msgid "January 2003"
 msgstr "2003년 1월"
 
 #: ../C/vanilla-terminal.xml:132(revnumber)
-msgid "GNOME Terminal Manual V2.3"
+msgid "Terminal Manual V2.3"
 msgstr "그놈 터미널 설명서 버전 2.3"
 
 #: ../C/vanilla-terminal.xml:133(date) ../C/vanilla-terminal.xml:145(date)
@@ -266,15 +266,15 @@ msgid "August 2002"
 msgstr "2002년 8월"
 
 #: ../C/vanilla-terminal.xml:144(revnumber)
-msgid "GNOME Terminal Manual V2.2"
+msgid "Terminal Manual V2.2"
 msgstr "그놈 터미널 설명서 버전 2.2"
 
 #: ../C/vanilla-terminal.xml:156(revnumber)
-msgid "GNOME Terminal Manual V2.1"
+msgid "Terminal Manual V2.1"
 msgstr "그놈 터미널 설명서 버전 2.1"
 
 #: ../C/vanilla-terminal.xml:168(revnumber)
-msgid "GNOME Terminal Manual V2.0"
+msgid "Terminal Manual V2.0"
 msgstr "그놈 터미널 설명서 버전 2.0"
 
 #: ../C/vanilla-terminal.xml:169(date)
@@ -282,7 +282,7 @@ msgid "April 2002"
 msgstr "2002년 4월"
 
 #: ../C/vanilla-terminal.xml:180(revnumber)
-msgid "GNOME Terminal User's Guide"
+msgid "Terminal User's Guide"
 msgstr "그놈 터미널 사용자 안내서"
 
 #: ../C/vanilla-terminal.xml:181(date)
@@ -298,7 +298,7 @@ msgstr ""
 "email>"
 
 #: ../C/vanilla-terminal.xml:193(releaseinfo)
-msgid "This manual describes version 2.5.90 of GNOME Terminal."
+msgid "This manual describes version 2.5.90 of Terminal."
 msgstr "이 설명서는 그놈 터미널 버전 2.5.90에 대해 설명합니다."
 
 #: ../C/vanilla-terminal.xml:196(title)
@@ -307,16 +307,16 @@ msgstr "피드백"
 
 #: ../C/vanilla-terminal.xml:197(para)
 msgid ""
-"To report a bug or make a suggestion regarding the GNOME Terminal "
+"To report a bug or make a suggestion regarding the Terminal "
 "application or this manual, follow the directions in the <ulink url=\"ghelp:"
-"user-guide?feedback\" type=\"help\">GNOME Feedback Page</ulink>."
+"user-guide?feedback\" type=\"help\"></ulink>."
 msgstr ""
 "그놈 터미널 프로그램 또는 이 설명서에 대한 버그를 알려 주시거나 의견을 제시하"
 "려면 <ulink url=\"ghelp:user-guide?feedback\" type=\"help\">그놈 피드백 페이"
 "지</ulink>에 있는 대로 해 주십시오."
 
 #: ../C/vanilla-terminal.xml:201(primary)
-msgid "GNOME Terminal"
+msgid "Terminal"
 msgstr "그놈 터미널"
 
 #: ../C/vanilla-terminal.xml:204(primary)
@@ -329,20 +329,20 @@ msgstr "소개"
 
 #: ../C/vanilla-terminal.xml:208(para)
 msgid ""
-"<application>GNOME Terminal</application> is a terminal emulation "
+"<application>Terminal</application> is a terminal emulation "
 "application that you can use to perform the following tasks:"
 msgstr ""
 "<application>그놈 터미널</application>은 다음 작업을 하는 데 이용할 수 있는 "
 "터미널 에뮬레이션 프로그램입니다:"
 
 #: ../C/vanilla-terminal.xml:213(term)
-msgid "Access a UNIX shell in the GNOME environment"
+msgid "Access a UNIX shell"
 msgstr "그놈 환경에서 UNIX 쉘에 접근하기"
 
 #: ../C/vanilla-terminal.xml:215(para)
 msgid ""
 "A shell is a program that interprets and executes the commands that you type "
-"at a command line prompt. When you start <application>GNOME Terminal</"
+"at a command line prompt. When you start <application>Terminal</"
 "application>, the application starts the default shell that is specified in "
 "your system account. You can switch to a different shell at any time."
 msgstr ""
@@ -360,12 +360,12 @@ msgstr ""
 
 #: ../C/vanilla-terminal.xml:223(para)
 msgid ""
-"<application>GNOME Terminal</application> emulates the <application>xterm</"
+"<application>Terminal</application> emulates the <application>xterm</"
 "application> application developed by the X Consortium. In turn, the "
 "<application>xterm</application> application emulates the DEC VT102 terminal "
 "and also supports the DEC VT220 escape sequences. An escape sequence is a "
 "series of characters that starts with the <keycap>Esc</keycap> character. "
-"<application>GNOME Terminal</application> accepts all of the escape "
+"<application>Terminal</application> accepts all of the escape "
 "sequences that the VT102 and VT220 terminals use for functions such as to "
 "position the cursor and to clear the screen."
 msgstr ""
@@ -382,19 +382,19 @@ msgstr "시작하기"
 
 #: ../C/vanilla-terminal.xml:232(para)
 msgid ""
-"The following sections describe how to start <application>GNOME Terminal</"
+"The following sections describe how to start <application>Terminal</"
 "application>."
 msgstr ""
 "다음 섹션에서 <application>그놈 터미널</application>을 시작하는 방법을 설명합"
 "니다."
 
 #: ../C/vanilla-terminal.xml:236(title)
-msgid "Starting GNOME Terminal"
+msgid "Starting Terminal"
 msgstr "그놈 터미널 시작하기"
 
 #: ../C/vanilla-terminal.xml:237(para)
 msgid ""
-"You can start <application>GNOME Terminal</application> in the following "
+"You can start <application>Terminal</application> in the following "
 "ways:"
 msgstr ""
 "<application>그놈 터미널</application>을 다음 방법으로 시작할 수 있습니다:"
@@ -422,7 +422,7 @@ msgstr "다음 명령어를 실행하십시오: <command>vanilla-terminal</comma
 #: ../C/vanilla-terminal.xml:254(para)
 msgid ""
 "You can use command line options to modify the way in which you run "
-"<application>GNOME Terminal</application>. To view the command line options, "
+"<application>Terminal</application>. To view the command line options, "
 "execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "명령행 옵션을 사용해 <application>그놈 터미널</application>의 동작 방식을 바"
@@ -430,15 +430,15 @@ msgstr ""
 "를 입력하고 <keycap>Return</keycap> 키를 누르십시오."
 
 #: ../C/vanilla-terminal.xml:262(title)
-msgid "When You First Start GNOME Terminal"
+msgid "When You First Start Terminal"
 msgstr "그놈 터미널을 처음으로 시작했을 때"
 
 #: ../C/vanilla-terminal.xml:263(para)
 msgid ""
-"When you start <application>GNOME Terminal</application> for the first time, "
+"When you start <application>Terminal</application> for the first time, "
 "the application opens a terminal window with a group of default settings. "
 "The group of default settings is called the Default profile. The profile "
-"name appears in the titlebar of the <application>GNOME Terminal</"
+"name appears in the titlebar of the <application>Terminal</"
 "application> window."
 msgstr ""
 "<application>그놈 터미널</application>을 처음으로 시작하면 기본 설정으로 터미"
@@ -446,12 +446,12 @@ msgstr ""
 "이름은 <application>그놈 터미널</application> 창의 제목 표시줄에 나타납니다."
 
 #: ../C/vanilla-terminal.xml:266(title)
-msgid "Example of a Default GNOME Terminal Window"
+msgid "Example of a Default Terminal Window"
 msgstr "기본 그놈 터미널 창의 예제"
 
 #: ../C/vanilla-terminal.xml:268(screeninfo) ../C/vanilla-terminal.xml:274(phrase)
 #: ../C/vanilla-terminal.xml:338(screeninfo) ../C/vanilla-terminal.xml:344(phrase)
-msgid "GNOME Terminal default window"
+msgid "Terminal default window"
 msgstr "그놈 터미널 기본 창"
 
 #: ../C/vanilla-terminal.xml:279(para)
@@ -460,7 +460,7 @@ msgid ""
 "commands. The command prompt can be a %, #, &gt;, $, or any other special "
 "character. The cursor is positioned at the command prompt. When you type a "
 "UNIX command and press <keycap>Return</keycap>, the computer executes the "
-"command. By default, <application>GNOME Terminal</application> uses the "
+"command. By default, <application>Terminal</application> uses the "
 "default shell specified for the user who starts the application."
 msgstr ""
 "터미널 창은 UNIX 명령을 입력할 수 있는 명령어 프롬프트를 표시합니다. 명령어 "
@@ -471,7 +471,7 @@ msgstr ""
 
 #: ../C/vanilla-terminal.xml:282(para)
 msgid ""
-"<application>GNOME Terminal</application> also sets the following "
+"<application>Terminal</application> also sets the following "
 "environment variables:"
 msgstr "<application>그놈 터미널</application>은 다음 환경 변수도 설정합니다:"
 
@@ -508,7 +508,7 @@ msgid ""
 "You can create a new profile, and apply the new profile to the terminal to "
 "modify characteristics such as font, color and effects, scroll behavior, "
 "window title, and compatibility. You can also specify a command that runs "
-"automatically when you start <application>GNOME Terminal</application> in "
+"automatically when you start <application>Terminal</application> in "
 "the profile."
 msgstr ""
 "새 프로파일을 만들어서, 그 새 프로파일을 터미널에 적용해 글꼴, 색 및 효과, 스"
@@ -544,7 +544,7 @@ msgstr "vanilla-terminal --window-with-profile= <placeholder-1/>"
 #: ../C/vanilla-terminal.xml:324(para)
 msgid ""
 "The name of the current profile appears in the titlebar of the "
-"<application>GNOME Terminal</application>, unless you specify a different "
+"<application>Terminal</application>, unless you specify a different "
 "titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
 msgstr ""
 "<guilabel>프로파일 편집</guilabel> 대화 상자에서 제목 표시줄 이름을 다르게 지"
@@ -565,7 +565,7 @@ msgstr "여러 개의 터미널 사용하기"
 
 #: ../C/vanilla-terminal.xml:331(para)
 msgid ""
-"<application>GNOME Terminal</application> provides a tab feature that "
+"<application>Terminal</application> provides a tab feature that "
 "enables you to open several terminals in a single window. Each terminal "
 "opens in a separate tab. Click on the appropriate tab to display the "
 "terminal in the window. Each tabbed terminal in a window is a separate "
@@ -582,7 +582,7 @@ msgstr ""
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
 "profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
-"terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
+"terminal-tabbed\"/> shows a <application>Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
 "titlebar."
@@ -645,7 +645,7 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:376(para)
 msgid ""
 "This action closes the terminal and any subprocesses that you opened from "
-"the terminal. If you close the last terminal window, the <application>GNOME "
+"the terminal. If you close the last terminal window, the <application>"
 "Terminal</application> application exits."
 msgstr ""
 "이렇게 하면 해당 터미널과 그 터미널에서 열어 놓은 하위 프로세스를 모두 닫습니"
@@ -749,7 +749,7 @@ msgstr ""
 
 #: ../C/vanilla-terminal.xml:443(para)
 msgid ""
-"Click <guibutton>Close</guibutton>. <application>GNOME Terminal</"
+"Click <guibutton>Close</guibutton>. <application>Terminal</"
 "application> adds the profile to the <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
 msgstr ""
@@ -883,7 +883,7 @@ msgstr ""
 
 #: ../C/vanilla-terminal.xml:532(term)
 msgid ""
-"To display the <application>GNOME Terminal</application> window in full-"
+"To display the <application>Terminal</application> window in full-"
 "screen mode:"
 msgstr ""
 "<application>그놈 터미널</application> 창을 전체 화면 모드로 표시하려면:"
@@ -996,7 +996,7 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:589(para)
 msgid ""
 "These actions select all text between the first and last items. For all text "
-"selections, <application>GNOME Terminal</application> copies the selected "
+"selections, <application>Terminal</application> copies the selected "
 "text into the clipboard when you release the mouse button. To explicitly "
 "copy the selected text, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
@@ -1085,7 +1085,7 @@ msgstr "키보드 바로 가기 설정 보기"
 #: ../C/vanilla-terminal.xml:643(para)
 msgid ""
 "To view the keyboard shortcut settings that are defined for "
-"<application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</"
+"<application>Terminal</application>, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The "
 "<guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
 msgstr ""
@@ -1118,7 +1118,7 @@ msgstr "메뉴 바로 가기 키를 (기본값 F10) 사용하지 않음"
 #: ../C/vanilla-terminal.xml:656(para)
 msgid ""
 "Deselect this option to disable the shortcut key that is defined to enable "
-"you to access the <application>GNOME Terminal</application> menus. The "
+"you to access the <application>Terminal</application> menus. The "
 "default shortcut key to access the menus is <keycap>F10</keycap>."
 msgstr ""
 "이 옵션은 <application>그놈 터미널</application>의 메뉴에 접근하는 바로 가기 "
@@ -1150,7 +1150,7 @@ msgstr "텍스트 크기"
 
 #: ../C/vanilla-terminal.xml:673(para)
 msgid ""
-"You can use the following methods to resize the text in the GNOME Terminal "
+"You can use the following methods to resize the text in the Terminal "
 "window:"
 msgstr "다음 방법으로 그놈 터미널 창의 텍스트 크기를 바꿀 수 있습니다:"
 
@@ -1199,7 +1199,7 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:694(para)
 msgid ""
 "Type the new title in the <guilabel>Title</guilabel> text box. "
-"<application>GNOME Terminal</application> applies the change immediately."
+"<application>Terminal</application> applies the change immediately."
 msgstr ""
 "새 제목을 <guilabel>제목</guilabel> 텍스트 입력란에 입력하십시오. 입력할 때마"
 "다 <application>그놈 터미널</application>의 제목이 즉시 바뀝니다."
@@ -1314,7 +1314,7 @@ msgstr "기본 설정"
 
 #: ../C/vanilla-terminal.xml:764(para)
 msgid ""
-"To configure <application>GNOME Terminal</application>, choose "
+"To configure <application>Terminal</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</"
 "guimenuitem></menuchoice>. To configure another profile that you set up "
 "choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</"
@@ -1330,7 +1330,7 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:766(para)
 msgid ""
 "The <guilabel>Editing Profile</guilabel> dialog contains the following "
-"tabbed sections that you can use to configure <application>GNOME Terminal</"
+"tabbed sections that you can use to configure <application>Terminal</"
 "application>:"
 msgstr ""
 "<guilabel>프로파일 편집</guilabel> 대화 창에는 <application>그놈 터미널</"
@@ -1407,7 +1407,7 @@ msgstr "단어 단위 문자 선택"
 #: ../C/vanilla-terminal.xml:845(para)
 msgid ""
 "Use this text box to specify characters or groups of characters that "
-"<application>GNOME Terminal</application> considers to be words when you "
+"<application>Terminal</application> considers to be words when you "
 "select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
@@ -1506,7 +1506,7 @@ msgstr "글자색과 배경색"
 #: ../C/vanilla-terminal.xml:921(para)
 msgid ""
 "Select the <guilabel>Use colours from system theme</guilabel> option to use "
-"the colors that are specified in the GNOME Desktop theme that is selected in "
+"the colors that are specified in the desktop theme that is selected in "
 "the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"ghelp:"
 "user-guide?prefs-theme\"><application>Appearance</application> preference "
 "tool</ulink>."
@@ -1519,7 +1519,7 @@ msgstr ""
 #: ../C/vanilla-terminal.xml:924(para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the "
-"foreground and background colors for the terminal. <application>GNOME "
+"foreground and background colors for the terminal. <application>"
 "Terminal</application> supports the following foreground and background "
 "color combinations:"
 msgstr ""

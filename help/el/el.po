@@ -58,8 +58,8 @@ msgstr ""
 "md5='fd1c1b81fec91087349f1500b82501fe'"
 
 #: C/index.docbook:19(articleinfo/title)
-msgid "GNOME Terminal Manual"
-msgstr "Εγχειρίδιο του Τερματικού του GNOME"
+msgid "Terminal Manual"
+msgstr "Εγχειρίδιο του Τερματικού του"
 
 #: C/index.docbook:21(abstract/para)
 msgid ""
@@ -110,8 +110,8 @@ msgstr "<year>2009</year> <year>2010</year> <holder>Paul Cutler</holder>"
 #: C/index.docbook:180(revdescription/para)
 #: C/index.docbook:192(revdescription/para)
 #: C/index.docbook:205(revdescription/para)
-msgid "GNOME Documentation Project"
-msgstr "GNOME Documentation Project"
+msgid "Documentation Project"
+msgstr "Documentation Project"
 
 #: C/index.docbook:2(legalnotice/para)
 msgid ""
@@ -132,12 +132,12 @@ msgstr ""
 
 #: C/index.docbook:12(legalnotice/para) C/legal.xml:12(legalnotice/para)
 msgid ""
-"This manual is part of a collection of GNOME manuals distributed under the "
+"This manual is part of a collection of manuals distributed under the "
 "GFDL. If you want to distribute this manual separately from the collection, "
 "you can do so by adding a copy of the license to the manual, as described in "
 "section 6 of the license."
 msgstr ""
-"Το εγχειρίδιο αυτό είναι τμήμα της συλλογής εγχειριδίων GNOME που διανέμεται "
+"Το εγχειρίδιο αυτό είναι τμήμα της συλλογής εγχειριδίων που διανέμεται "
 "υπό την άδεια GFDL. Αν επιθυμείτε να διανείμετε το παρόν εγχειρίδιο χωριστά "
 "από την συλλογή, μπορείτε να το κάνετε προσθέτοντας ένα αντίγραφο της άδειας "
 "στο εγχειρίδιο, όπως περιγράφεται στο τμήμα 6 της άδειας."
@@ -145,15 +145,15 @@ msgstr ""
 #: C/index.docbook:19(legalnotice/para) C/legal.xml:19(legalnotice/para)
 msgid ""
 "Many of the names used by companies to distinguish their products and "
-"services are claimed as trademarks. Where those names appear in any GNOME "
-"documentation, and the members of the GNOME Documentation Project are made "
+"services are claimed as trademarks. Where those names appear in any "
+"documentation, and the members of the Documentation Project are made "
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
 "Πολλά ονόματα που χρησιμοποιούν οι εταιρίες για να διακρίνουν μεταξύ τους "
 "προϊόντα και υπηρεσίες διεκδικούνται ως εμπορικά σήματα. Όπου τα ονόματα "
-"αυτά εμφανίζονται σε οποιαδήποτε τεκμηρίωση GNOME, και τα μέλη του Σχεδίου "
-"Τεκμηρίωσης GNOME είναι ενήμερα αυτών των εμπορικών σημάτων, τότε τα ονόματά "
+"αυτά εμφανίζονται σε οποιαδήποτε τεκμηρίωση, και τα μέλη του Σχεδίου "
+"Τεκμηρίωσης είναι ενήμερα αυτών των εμπορικών σημάτων, τότε τα ονόματά "
 "τους εμφανίζονται με κεφαλαία γράμματα ή με τα αρχικά κεφαλαία γράμματα."
 
 #: C/index.docbook:35(listitem/para) C/legal.xml:35(listitem/para)
@@ -222,35 +222,35 @@ msgstr ""
 
 #: C/index.docbook:57(authorgroup/author)
 msgid ""
-"<firstname>Sun</firstname> <surname>GNOME Documentation Team</surname> "
+"<firstname>Sun</firstname> <surname>Documentation Team</surname> "
 "<affiliation> <orgname>Sun Microsystems</orgname> </affiliation>"
 msgstr ""
-"<firstname>Sun</firstname> <surname>Ομάδα τεκμηρίωσης του GNOME</surname> "
+"<firstname>Sun</firstname> <surname>Ομάδα τεκμηρίωσης του</surname> "
 "<affiliation> <orgname>Sun Microsystems</orgname> </affiliation>"
 
 #: C/index.docbook:64(authorgroup/author)
 msgid ""
 "<firstname>Miguel</firstname> <surname>de Icaza</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Miguel</firstname> <surname>de Icaza</surname> <affiliation> "
-"<orgname>Έργο τεκμηρίωσης του GNOME</orgname> </affiliation>"
+"<orgname>Έργο τεκμηρίωσης του</orgname> </affiliation>"
 
 #: C/index.docbook:71(authorgroup/author)
 msgid ""
 "<firstname>Michael</firstname> <surname>Zucchi</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Michael</firstname> <surname>Zucchi</surname> <affiliation> "
-"<orgname>Έργο τεκμηρίωσης του GNOME</orgname> </affiliation>"
+"<orgname>Έργο τεκμηρίωσης του</orgname> </affiliation>"
 
 #: C/index.docbook:78(authorgroup/author)
 msgid ""
 "<firstname>Alexander</firstname> <surname>Kirillov</surname> <affiliation> "
-"<orgname>GNOME Documentation Project</orgname> </affiliation>"
+"<orgname>Documentation Project</orgname> </affiliation>"
 msgstr ""
 "<firstname>Alexander</firstname> <surname>Kirillov</surname> <affiliation> "
-"<orgname>Έργο τεκμηρίωσης του GNOME</orgname> </affiliation>"
+"<orgname>Έργο τεκμηρίωσης του</orgname> </affiliation>"
 
 #: C/index.docbook:96(revdescription/para)
 msgid "Paul Cutler <email>pcutler@gnome.org</email>"
@@ -258,10 +258,10 @@ msgstr "Paul Cutler <email>pcutler@gnome.org</email>"
 
 #: C/index.docbook:92(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.9</revnumber> <date>January 2010</date> "
+"<revnumber>Terminal Manual V2.9</revnumber> <date>January 2010</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.9</revnumber> <date>Ιανουάριος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.9</revnumber> <date>Ιανουάριος "
 "2010</date> <_:revdescription-1/>"
 
 #: C/index.docbook:105(revdescription/para)
@@ -270,10 +270,10 @@ msgstr "Paul Cutler"
 
 #: C/index.docbook:101(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.8</revnumber> <date>March 2009</date> <_:"
+"<revnumber>Terminal Manual V2.8</revnumber> <date>March 2009</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.8</revnumber> <date>Μάρτιος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.8</revnumber> <date>Μάρτιος "
 "2009</date> <_:revdescription-1/>"
 
 #: C/index.docbook:113(revdescription/para)
@@ -284,71 +284,71 @@ msgstr ""
 #: C/index.docbook:165(revdescription/para)
 #: C/index.docbook:177(revdescription/para)
 #: C/index.docbook:189(revdescription/para)
-msgid "Sun GNOME Documentation Team"
-msgstr "Ομάδα τεκμηρίωσης GNOME της Sun"
+msgid "Sun Documentation Team"
+msgstr "Ομάδα τεκμηρίωσης της Sun"
 
 #: C/index.docbook:109(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.7</revnumber> <date>November 2003</date> "
+"<revnumber>Terminal Manual V2.7</revnumber> <date>November 2003</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.7</revnumber> <date>Νοέμβριος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.7</revnumber> <date>Νοέμβριος "
 "2003</date> <_:revdescription-1/>"
 
 #: C/index.docbook:117(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.6</revnumber> <date>September 2003</"
+"<revnumber>Terminal Manual V2.6</revnumber> <date>September 2003</"
 "date> <_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.6</revnumber> "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.6</revnumber> "
 "<date>Σεπτέμβριος 2003</date> <_:revdescription-1/>"
 
 #: C/index.docbook:125(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.5</revnumber> <date>May 2003</date> <_:"
+"<revnumber>Terminal Manual V2.5</revnumber> <date>May 2003</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.5</revnumber> <date>Μάιος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.5</revnumber> <date>Μάιος "
 "2003</date> <_:revdescription-1/>"
 
 #: C/index.docbook:137(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.4</revnumber> <date>January 2003</date> "
+"<revnumber>Terminal Manual V2.4</revnumber> <date>January 2003</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.4</revnumber> <date>Ιανουάριος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.4</revnumber> <date>Ιανουάριος "
 "2003</date> <_:revdescription-1/>"
 
 #: C/index.docbook:149(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.3</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.3</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.3</revnumber> <date>Αύγουστος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.3</revnumber> <date>Αύγουστος "
 "2002</date> <_:revdescription-1/>"
 
 #: C/index.docbook:161(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.2</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.2</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.2</revnumber> <date>Αύγουστος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.2</revnumber> <date>Αύγουστος "
 "2002</date> <_:revdescription-1/>"
 
 #: C/index.docbook:173(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.1</revnumber> <date>August 2002</date> "
+"<revnumber>Terminal Manual V2.1</revnumber> <date>August 2002</date> "
 "<_:revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.1</revnumber> <date>Αύγουστος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.1</revnumber> <date>Αύγουστος "
 "2002</date> <_:revdescription-1/>"
 
 #: C/index.docbook:185(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal Manual V2.0</revnumber> <date>April 2002</date> <_:"
+"<revnumber>Terminal Manual V2.0</revnumber> <date>April 2002</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Εγχειρίδιο του Τερματικού GNOME V2.0</revnumber> <date>Απρίλιος "
+"<revnumber>Εγχειρίδιο του Τερματικού V2.0</revnumber> <date>Απρίλιος "
 "2002</date> <_:revdescription-1/>"
 
 #: C/index.docbook:201(revdescription/para)
@@ -361,16 +361,16 @@ msgstr ""
 
 #: C/index.docbook:197(revhistory/revision)
 msgid ""
-"<revnumber>GNOME Terminal User's Guide</revnumber> <date>May 2000</date> <_:"
+"<revnumber>Terminal User's Guide</revnumber> <date>May 2000</date> <_:"
 "revdescription-1/>"
 msgstr ""
-"<revnumber>Οδηγός Χρήστη του Τερματικού του GNOME</revnumber> <date>Μάιος "
+"<revnumber>Οδηγός Χρήστη του Τερματικού του</revnumber> <date>Μάιος "
 "2000</date> <_:revdescription-1/>"
 
 #: C/index.docbook:211(articleinfo/releaseinfo)
-msgid "This manual describes version 2.30 of GNOME Terminal."
+msgid "This manual describes version 2.30 of Terminal."
 msgstr ""
-"Αυτό το εγχειρίδιο περιγράφει την έκδοση 2.30 του Τερματικού του GNOME."
+"Αυτό το εγχειρίδιο περιγράφει την έκδοση 2.30 του Τερματικού του."
 
 #: C/index.docbook:214(legalnotice/title)
 msgid "Feedback"
@@ -378,17 +378,17 @@ msgstr "Ανάδραση"
 
 #: C/index.docbook:215(legalnotice/para)
 msgid ""
-"To report a bug or make a suggestion regarding the GNOME Terminal "
+"To report a bug or make a suggestion regarding the Terminal "
 "application or this manual, follow the directions in the <ulink url=\"help:"
-"user-guide/feedback\" type=\"help\">GNOME Feedback Page</ulink>."
+"user-guide/feedback\" type=\"help\"></ulink>."
 msgstr ""
 "Για να ανεφέρετε ένα σφάλμα ή να κάνετε μια πρόταση σχετικά με την εφαρμογή "
 "Παρακολούθηση συστήματος, ακολουθήστε τις οδηγίες στο <ulink url=\"help:"
-"vanilla-feedback\" type=\"help\">GNOME Feedback Page</ulink>."
+"vanilla-feedback\" type=\"help\"></ulink>."
 
 #: C/index.docbook:218(article/indexterm)
-msgid "<primary>GNOME Terminal</primary>"
-msgstr "<primary>Τερματικό του GNOME</primary>"
+msgid "<primary>Terminal</primary>"
+msgstr "<primary>Τερματικό του</primary>"
 
 #: C/index.docbook:221(article/indexterm)
 msgid "<primary>terminal application</primary>"
@@ -400,20 +400,20 @@ msgstr "Εισαγωγή"
 
 #: C/index.docbook:228(sect1/para)
 msgid ""
-"<application>GNOME Terminal</application> is a terminal emulation "
+"<application>Terminal</application> is a terminal emulation "
 "application that you can use to perform the following tasks:"
 msgstr ""
 "Το <application>Τερματικό</application> είναι μια εφαρμογή εξομοίωσης "
 "τερματικού που μπορείτε να χρησιμοποιήσετε για τα ακόλουθα:"
 
 #: C/index.docbook:233(varlistentry/term)
-msgid "Access a UNIX shell in the GNOME environment"
-msgstr "Πρόσβαση σε κέλυφος του UNIX στο περιβάλλον του GNOME"
+msgid "Access a UNIX shell"
+msgstr "Πρόσβαση σε κέλυφος του UNIX στο περιβάλλον του"
 
 #: C/index.docbook:235(listitem/para)
 msgid ""
 "A shell is a program that interprets and executes the commands that you type "
-"at a command line prompt. When you start <application>GNOME Terminal</"
+"at a command line prompt. When you start <application>Terminal</"
 "application>, the application starts the default shell that is specified in "
 "your system account. You can switch to a different shell at any time."
 msgstr ""
@@ -433,12 +433,12 @@ msgstr ""
 
 #: C/index.docbook:243(listitem/para)
 msgid ""
-"<application>GNOME Terminal</application> emulates the <application>xterm</"
+"<application>Terminal</application> emulates the <application>xterm</"
 "application> application developed by the X Consortium. In turn, the "
 "<application>xterm</application> application emulates the DEC VT102 terminal "
 "and also supports the DEC VT220 escape sequences. An escape sequence is a "
 "series of characters that starts with the <keycap>Esc</keycap> character. "
-"<application>GNOME Terminal</application> accepts all of the escape "
+"<application>Terminal</application> accepts all of the escape "
 "sequences that the VT102 and VT220 terminals use for functions such as to "
 "position the cursor and to clear the screen."
 msgstr ""
@@ -457,19 +457,19 @@ msgstr "Ξεκινώντας"
 
 #: C/index.docbook:255(sect1/para)
 msgid ""
-"The following sections describe how to start <application>GNOME Terminal</"
+"The following sections describe how to start <application>Terminal</"
 "application>."
 msgstr ""
 "Τα παρακάτω τμήματα περιγράφουν πως να ξεκινήσετε την εφαρμογή "
-"<application>Τερματικό του GNOME</application>."
+"<application>Τερματικό του</application>."
 
 #: C/index.docbook:259(sect2/title)
-msgid "Starting GNOME Terminal"
-msgstr "Εκκίνηση του Τερματικού του GNOME"
+msgid "Starting Terminal"
+msgstr "Εκκίνηση του Τερματικού του"
 
 #: C/index.docbook:260(sect2/para)
 msgid ""
-"You can start <application>GNOME Terminal</application> in the following "
+"You can start <application>Terminal</application> in the following "
 "ways:"
 msgstr ""
 "Μπορείτε να ξεκινήσετε το <application>Τερματικό</application> με τους "
@@ -498,24 +498,23 @@ msgstr "Εκτελέστε την ακόλουθη εντολή: <command>vanill
 #: C/index.docbook:277(listitem/para)
 msgid ""
 "You can use command line options to modify the way in which you run "
-"<application>GNOME Terminal</application>. To view the command line options, "
+"<application>Terminal</application>. To view the command line options, "
 "execute the following command: <command>vanilla-terminal --help</command>"
 msgstr ""
 "Μπορείτε να χρησιμοποιήσετε επιλογές της γραμμής εντολών για να "
-"τροποποιήσετε τον τρόπο με τον οποίο εκτελείτε το <application>Τερματικό του "
-"GNOME</application>. Για να προβάλετε τις επιλογές αυτές, εκτελέστε την "
+"τροποποιήσετε τον τρόπο με τον οποίο εκτελείτε το <application>Τερματικό του</application>. Για να προβάλετε τις επιλογές αυτές, εκτελέστε την "
 "ακόλουθη εντολή: <command>vanilla-terminal --help</command>"
 
 #: C/index.docbook:285(sect2/title)
-msgid "When You First Start GNOME Terminal"
-msgstr "Την πρώτη φορά που εκκινείτε το Τερματικό του GNOME"
+msgid "When You First Start Terminal"
+msgstr "Την πρώτη φορά που εκκινείτε το Τερματικό του"
 
 #: C/index.docbook:286(sect2/para)
 msgid ""
-"When you start <application>GNOME Terminal</application> for the first time, "
+"When you start <application>Terminal</application> for the first time, "
 "the application opens a terminal window with a group of default settings. "
 "The group of default settings is called the Default profile. The profile "
-"name appears in the titlebar of the <application>GNOME Terminal</"
+"name appears in the titlebar of the <application>Terminal</"
 "application> window."
 msgstr ""
 "Όταν ξεκινάτε την εφαρμογή <application>Τερματικό</application> για πρώτη "
@@ -525,23 +524,23 @@ msgstr ""
 "παραθύρου της εφαρμογής."
 
 #: C/index.docbook:289(figure/title)
-msgid "Example of a Default GNOME Terminal Window"
-msgstr "Παράδειγμα παραθύρου Τερματικού του GNOME με το προεπιλεγμένο προφίλ"
+msgid "Example of a Default Terminal Window"
+msgstr "Παράδειγμα παραθύρου Τερματικού του με το προεπιλεγμένο προφίλ"
 
 #: C/index.docbook:291(screenshot/screeninfo)
 #: C/index.docbook:361(screenshot/screeninfo)
-msgid "GNOME Terminal default window"
-msgstr "Παράθυρο του Τερματικού του GNOME (προεπιλεγμένο)"
+msgid "Terminal default window"
+msgstr "Παράθυρο του Τερματικού του (προεπιλεγμένο)"
 
 #: C/index.docbook:292(screenshot/mediaobject)
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-default.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Το προεπιλεγμένο "
-"παράθυρο του Τερματικού του GNOME</phrase> </textobject>"
+"παράθυρο του Τερματικού του</phrase> </textobject>"
 
 #: C/index.docbook:302(sect2/para)
 msgid ""
@@ -549,7 +548,7 @@ msgid ""
 "commands. The command prompt can be a %, #, &gt;, $, or any other special "
 "character. The cursor is positioned at the command prompt. When you type a "
 "UNIX command and press <keycap>Return</keycap>, the computer executes the "
-"command. By default, <application>GNOME Terminal</application> uses the "
+"command. By default, <application>Terminal</application> uses the "
 "default shell specified for the user who starts the application."
 msgstr ""
 "Το παράθυρο του τερματικού εμφανίζει μια γραμμή εντολών όπου μπορείτε να "
@@ -557,15 +556,15 @@ msgstr ""
 "&gt;, $ ή οποιοσδήποτε άλλος ειδικός χαρακτήρας. Ο δρομέας τοποθετείται στη "
 "γραμμή εντολών. Όταν πληκτρολογείτε μια εντολή του UNIX και πατήσετε το "
 "<keycap>Return</keycap>, ο υπολογιστής εκτελεί την εντολή. Ως προεπιλογή, το "
-"<application>Τερματικό του GNOME</application> χρησιμοποιεί το προεπιλεγμένο "
+"<application>Τερματικό του</application> χρησιμοποιεί το προεπιλεγμένο "
 "κέλυφος που ορίζεται για το χρήστη που εκκινεί την εφαρμογή."
 
 #: C/index.docbook:305(sect2/para)
 msgid ""
-"<application>GNOME Terminal</application> also sets the following "
+"<application>Terminal</application> also sets the following "
 "environment variables:"
 msgstr ""
-"Το <application>Τερματικό του GNOME</application> ορίζει, επίσης, τις "
+"Το <application>Τερματικό του</application> ορίζει, επίσης, τις "
 "ακόλουθες μεταβλητές του περιβάλλοντος:"
 
 #: C/index.docbook:310(varlistentry/term)
@@ -601,14 +600,14 @@ msgid ""
 "You can create a new profile, and apply the new profile to the terminal to "
 "modify characteristics such as font, color and effects, scroll behavior, "
 "window title, and compatibility. You can also specify a command that runs "
-"automatically when you start <application>GNOME Terminal</application> in "
+"automatically when you start <application>Terminal</application> in "
 "the profile."
 msgstr ""
 "Μπορείτε να δημιουργήσετε ένα νέο προφίλ και να το εφαρμόσετε στο τερματικό "
 "για να τροποποιήσετε χαρακτηριστικά όπως η γραμματοσειρά, το χρώμα και τα "
 "εφέ, η συμπεριφορά κύλισης, ο τίτλος του παραθύρου και η συμβατότητα. "
 "Μπορείτε επίσης να ορίσετε στο προφίλ μια εντολή που θα εκτελείται αυτόματα "
-"όταν ξεκινάτε το <application>Τερματικό του GNOME</application>."
+"όταν ξεκινάτε το <application>Τερματικό του</application>."
 
 #: C/index.docbook:343(sect2/para)
 msgid ""
@@ -640,11 +639,11 @@ msgstr ""
 #: C/index.docbook:347(sect2/para)
 msgid ""
 "The name of the current profile appears in the titlebar of the "
-"<application>GNOME Terminal</application>, unless you specify a different "
+"<application>Terminal</application>, unless you specify a different "
 "titlebar name in the <guilabel>Editing Profile</guilabel> dialog."
 msgstr ""
 "Το όνομα του τρέχοντος προφίλ εμφανίζεται στη γραμμή τίτλου του "
-"<application>Τερματικού του GNOME</application>, εκτός αν ορίσετε "
+"<application>Τερματικού του</application>, εκτός αν ορίσετε "
 "διαφορετικό όνομα στο παράθυρο διαλόγου <guilabel>Επεξεργασία προφίλ</"
 "guilabel>."
 
@@ -662,14 +661,14 @@ msgstr "Εργασία με πολλαπλά τερματικά"
 
 #: C/index.docbook:354(sect2/para)
 msgid ""
-"<application>GNOME Terminal</application> provides a tab feature that "
+"<application>Terminal</application> provides a tab feature that "
 "enables you to open several terminals in a single window. Each terminal "
 "opens in a separate tab. Click on the appropriate tab to display the "
 "terminal in the window. Each tabbed terminal in a window is a separate "
 "subprocess, so you can use each terminal for different tasks. You can apply "
 "a different profile to each tabbed terminal in the window."
 msgstr ""
-"Το <application>Τερματικό του GNOME</application> παρέχει λειτουργία "
+"Το <application>Τερματικό του</application> παρέχει λειτουργία "
 "καρτελών, η οποία σας επιτρέπει να ανοίξετε πολλά τερματικά σε ένα μόνο "
 "παράθυρο. Κάθε τερματικό ανοίγει σε ξεχωριστή καρτέλα. Κάντε κλικ στην "
 "αντίστοιχη καρτέλα για να εμφανίσετε κάθε τερματικό. Κάθε ένα από αυτά τα "
@@ -681,7 +680,7 @@ msgstr ""
 msgid ""
 "The titlebar of the terminal window shows either the name of the current "
 "profile, or the name specified by the current profile. <xref linkend=\"vanilla-"
-"terminal-tabbed\"/> shows a <application>GNOME Terminal</application> window "
+"terminal-tabbed\"/> shows a <application>Terminal</application> window "
 "with four tabs. In this case, each of the four tabs has a different profile. "
 "The name of the profile in the active tab, Profile 1, appears in the "
 "titlebar."
@@ -700,12 +699,12 @@ msgstr "Παράδειγμα παραθύρου τερματικού με καρ
 #: C/index.docbook:362(screenshot/mediaobject)
 msgid ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
-"format=\"PNG\"/> </imageobject> <textobject> <phrase>GNOME Terminal default "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Terminal default "
 "window</phrase> </textobject>"
 msgstr ""
 "<imageobject> <imagedata fileref=\"figures/vanilla-terminal-tabbed.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Το προεπιλεγμένο "
-"παράθυρο του Τερματικού του GNOME</phrase> </textobject>"
+"παράθυρο του Τερματικού του</phrase> </textobject>"
 
 #: C/index.docbook:372(sect2/para)
 msgid ""
@@ -758,12 +757,12 @@ msgstr ""
 #: C/index.docbook:401(listitem/para)
 msgid ""
 "This action closes the terminal and any subprocesses that you opened from "
-"the terminal. If you close the last terminal window, the <application>GNOME "
+"the terminal. If you close the last terminal window, the <application>"
 "Terminal</application> application exits."
 msgstr ""
 "Αυτή η ενέργεια κλείνει το τερματικό και όλες τις υποδιεργασίες που ανοίξατε "
 "από αυτό. Αν κλείσετε το τελευταίο παράθυρο τερματικού, η εφαρμογή "
-"<application>Τερματικό του GNOME</application> τερματίζεται."
+"<application>Τερματικό του</application> τερματίζεται."
 
 #: C/index.docbook:406(varlistentry/term)
 msgid "To add a new tabbed terminal to a window:"
@@ -864,12 +863,11 @@ msgstr ""
 
 #: C/index.docbook:468(listitem/para)
 msgid ""
-"Click <guibutton>Close</guibutton>. <application>GNOME Terminal</"
+"Click <guibutton>Close</guibutton>. <application>Terminal</"
 "application> adds the profile to the <menuchoice><guimenu>Terminal</"
 "guimenu><guisubmenu>Change Profile</guisubmenu></menuchoice> submenu."
 msgstr ""
-"Πατήστε <guibutton>Κλείσιμο</guibutton>. Το <application>Τερματικό του "
-"GNOME</application> προσθέτει το προφίλ στο υπομενού "
+"Πατήστε <guibutton>Κλείσιμο</guibutton>. Το <application>Τερματικό</application> προσθέτει το προφίλ στο υπομενού "
 "<menuchoice><guimenu>Τερματικό</guimenu><guisubmenu>Αλλαγή προφίλ</"
 "guisubmenu></menuchoice>."
 
@@ -1006,10 +1004,10 @@ msgstr ""
 
 #: C/index.docbook:557(varlistentry/term)
 msgid ""
-"To display the <application>GNOME Terminal</application> window in full-"
+"To display the <application>Terminal</application> window in full-"
 "screen mode:"
 msgstr ""
-"Εμφάνιση του παραθύρου του <application>Τερματικού του GNOME</application> "
+"Εμφάνιση του παραθύρου του <application>Τερματικού του</application> "
 "σε προβολή πλήρους οθόνης:"
 
 #: C/index.docbook:559(listitem/para)
@@ -1134,14 +1132,14 @@ msgstr ""
 #: C/index.docbook:614(listitem/para)
 msgid ""
 "These actions select all text between the first and last items. For all text "
-"selections, <application>GNOME Terminal</application> copies the selected "
+"selections, <application>Terminal</application> copies the selected "
 "text into the clipboard when you release the mouse button. To explicitly "
 "copy the selected text, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Copy</guimenuitem></menuchoice>."
 msgstr ""
 "Αυτές οι ενέργειες επιλέγουν όλο το κείμενο μεταξύ του πρώτου και του "
 "τελευταίου αντικειμένου. Για όλες τις επιλογές κειμένου, το "
-"<application>Τερματικό του GNOME</application> αντιγράφει το επιλεγμένο "
+"<application>Τερματικό του</application> αντιγράφει το επιλεγμένο "
 "κείμενο στο πρόχειρο όταν ελευθερώσετε το κουμπί του ποντικιού. Για να "
 "δώσετε ρητή εντολή αντιγραφής του επιλεγμένου κειμένου, επιλέξτε "
 "<menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Αντιγραφή</"
@@ -1228,12 +1226,12 @@ msgstr "Προβολή των ρυθμίσεων συντομεύσεων πλη
 #: C/index.docbook:668(sect2/para)
 msgid ""
 "To view the keyboard shortcut settings that are defined for "
-"<application>GNOME Terminal</application>, choose <menuchoice><guimenu>Edit</"
+"<application>Terminal</application>, choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Keyboard Shortcuts</guimenuitem></menuchoice>. The "
 "<guilabel>Keyboard Shortcuts</guilabel> dialog contains the following items:"
 msgstr ""
 "Για να προβάλετε τις ρυθμίσεις συντομεύσεων πληκτρολογίου που έχουν "
-"καθορισθεί για το <application>Τερματικό του GNOME</application>, επιλέξτε "
+"καθορισθεί για το <application>Τερματικό του</application>, επιλέξτε "
 "<menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Συντομεύσεις "
 "πληκτρολογίου</guimenuitem></menuchoice>. Το παράθυρο διαλόγου "
 "<guilabel>Συντομεύσεις πληκτρολογίου</guilabel> περιέχει τα ακόλουθα "
@@ -1271,12 +1269,11 @@ msgstr ""
 #: C/index.docbook:681(listitem/para)
 msgid ""
 "Deselect this option to disable the shortcut key that is defined to enable "
-"you to access the <application>GNOME Terminal</application> menus. The "
+"you to access the <application>Terminal</application> menus. The "
 "default shortcut key to access the menus is <keycap>F10</keycap>."
 msgstr ""
 "Αποεπιλέξτε αυτή την επιλογή για να απενεργοποιήσετε τη χρήση του πλήκτρου "
-"συντόμευσης για την πρόσβαση στα μενού του <application>Τερματικού του "
-"GNOME</application>. Το προεπιλεγμένο πλήκτρο για την πρόσβαση στα μενού "
+"συντόμευσης για την πρόσβαση στα μενού του <application>Τερματικού</application>. Το προεπιλεγμένο πλήκτρο για την πρόσβαση στα μενού "
 "είναι το <keycap>F10</keycap>."
 
 #: C/index.docbook:686(varlistentry/term)
@@ -1305,7 +1302,7 @@ msgstr "Μέγεθος κειμένου"
 
 #: C/index.docbook:698(sect2/para)
 msgid ""
-"You can use the following methods to resize the text in the GNOME Terminal "
+"You can use the following methods to resize the text in the Terminal "
 "window:"
 msgstr ""
 "Μπορείτε να χρησιμοποιήσετε τις ακόλουθες μεθόδους για να αλλάξετε το "
@@ -1357,10 +1354,10 @@ msgstr ""
 #: C/index.docbook:719(listitem/para)
 msgid ""
 "Type the new title in the <guilabel>Title</guilabel> text box. "
-"<application>GNOME Terminal</application> applies the change immediately."
+"<application>Terminal</application> applies the change immediately."
 msgstr ""
 "Πληκτρολογήστε το νέο τίτλο στο πεδίο κειμένου <guilabel>Τίτλος</guilabel>. "
-"Το <application>Τερματικό του GNOME</application> εφαρμόζει αμέσως την "
+"Το <application>Τερματικό του</application> εφαρμόζει αμέσως την "
 "αλλαγή."
 
 #: C/index.docbook:722(listitem/para)
@@ -1477,7 +1474,7 @@ msgstr "Προτιμήσεις"
 
 #: C/index.docbook:791(sect1/para)
 msgid ""
-"To configure <application>GNOME Terminal</application>, choose "
+"To configure <application>Terminal</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Current Profile</"
 "guimenuitem></menuchoice>. To configure another profile that you set up "
 "choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Profiles</"
@@ -1494,12 +1491,12 @@ msgstr ""
 #: C/index.docbook:793(sect1/para)
 msgid ""
 "The <guilabel>Editing Profile</guilabel> dialog contains the following "
-"tabbed sections that you can use to configure <application>GNOME Terminal</"
+"tabbed sections that you can use to configure <application>Terminal</"
 "application>:"
 msgstr ""
 "Το παράθυρο διαλόγου <guilabel>Επεξεργασία προφίλ</guilabel> περιέχει τις "
 "ακόλουθες καρτέλες, που μπορείτε να χρησιμοποιήσετε για να αλλάξετε τις "
-"ρυθμίσεις στο <application>Τερματικό του GNOME</application>:"
+"ρυθμίσεις στο <application>Τερματικό του</application>:"
 
 #: C/index.docbook:812(sect2/title)
 msgid "General"
@@ -1586,7 +1583,7 @@ msgstr "<guilabel>Επιλογή χαρακτήρων ανά λέξη</guilabel>
 #: C/index.docbook:881(listitem/para)
 msgid ""
 "Use this text box to specify characters or groups of characters that "
-"<application>GNOME Terminal</application> considers to be words when you "
+"<application>Terminal</application> considers to be words when you "
 "select text by word. See <xref linkend=\"vanilla-terminal-contents\"/> for "
 "more information about how to select text by word."
 msgstr ""
@@ -1693,13 +1690,13 @@ msgstr "<guilabel>Προσκήνιο και παρασκήνιο</guilabel>"
 #: C/index.docbook:957(listitem/para)
 msgid ""
 "Select the <guilabel>Use colours from system theme</guilabel> option to use "
-"the colors that are specified in the GNOME Desktop theme that is selected in "
+"the colors that are specified in the desktop theme that is selected in "
 "the <guilabel>Theme</guilabel> tab of the <ulink type=\"help\" url=\"help:"
 "user-guide/prefs-theme\"><application>Appearance</application> preference "
 "tool</ulink>."
 msgstr ""
 "Επιλέξτε το <guilabel>Χρήση των χρωμάτων του θέματος συστήματος</guilabel> "
-"για να χρησιμοποιήσετε τα χρώματα που ορίζονται στο θέμα του GNOME που έχει "
+"για να χρησιμοποιήσετε τα χρώματα που ορίζονται στο θέμα του που έχει "
 "επιλεγεί στην καρτέλα <guilabel>Θέμα</guilabel> στο <ulink type=\"help\" url="
 "\"help:user-guide?prefs-theme\">εργαλείο προτιμήσεων <application>Εμφάνιση</"
 "application></ulink>."
@@ -1707,13 +1704,13 @@ msgstr ""
 #: C/index.docbook:960(listitem/para)
 msgid ""
 "Use the <guilabel>Built-in schemes</guilabel> drop-down list to specify the "
-"foreground and background colors for the terminal. <application>GNOME "
+"foreground and background colors for the terminal. <application>"
 "Terminal</application> supports the following foreground and background "
 "color combinations:"
 msgstr ""
 "Χρησιμοποιήστε την αναπτυσσόμενη λίστα <guilabel>Ενσωματωμένα θέματα</"
 "guilabel> για να ορίσετε τα χρώματα προσκήνιου και παρασκήνιου για το "
-"τερματικό. Το <application>Τερματικό του GNOME</application> υποστηρίζει "
+"τερματικό. Το <application>Τερματικό του</application> υποστηρίζει "
 "τους ακόλουθους συνδυασμούς χρωμάτων:"
 
 #: C/index.docbook:965(listitem/para)
